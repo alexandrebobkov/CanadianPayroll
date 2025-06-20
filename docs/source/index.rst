@@ -15,3 +15,10 @@ documentation for details.
    :maxdepth: 2
    :caption: Contents:
 
+   introduction
+
+Terminology
+=========
+
+* :ref:`genindex`
+
