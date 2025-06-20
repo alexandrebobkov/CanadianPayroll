@@ -9,7 +9,7 @@
 project = 'Canadian Payroll Administration'
 copyright = '2025, Alexandre Bobkov'
 author = 'Alexandre Bobkov'
-release = '2025-06'
+release = 'Fall 2025'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
