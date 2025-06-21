@@ -16,8 +16,9 @@ documentation for details.
    :caption: Contents:
 
    introduction
+   payroll_accounting
 
-Terminology
+Glossary
 =========
 
 * :ref:`genindex`
