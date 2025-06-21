@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.10.18)  20 JUN 2025 19:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.10.18)  21 JUN 2025 00:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -855,21 +855,27 @@ dvips/tex-gyre/q-ec.enc}] [2
 ] [2
 
 ]
-LaTeX Font Info:    Trying to load font information for T1+txtt on input line 8
-9.
+Chapter 1.
+[1
 
-(/usr/share/texlive/texmf-dist/tex/latex/txfonts/t1txtt.fd
-File: t1txtt.fd 2000/12/15 v3.1
-) [1] [2
+] [2
 
 ]
-Chapter 1.
-LaTeX Font Info:    Trying to load font information for TS1+qtm on input line 9
-8.
+Chapter 2.
+[3] [4
+
+]
+Chapter 3.
+[5] [6
+
+]
+Chapter 4.
+LaTeX Font Info:    Trying to load font information for TS1+qtm on input line 1
+12.
 (/usr/share/texmf/tex/latex/tex-gyre/ts1qtm.fd
 File: ts1qtm.fd 2009/09/25 v1.2 font definition file for TS1/qtm
 )
-(./canadianpayrolladministration.ind) [3{/usr/share/texmf/fonts/enc/dvips/tex-g
+(./canadianpayrolladministration.ind) [7{/usr/share/texmf/fonts/enc/dvips/tex-g
 yre/q-ts1.enc}] (./canadianpayrolladministration.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
@@ -877,24 +883,23 @@ L3 programming layer <2024-01-22>
  ***********
 Package rerunfilecheck Info: File `canadianpayrolladministration.out' has not c
 hanged.
-(rerunfilecheck)             Checksum: 1FB18EDBA3F0219C6F02E0A1D4962243;98.
+(rerunfilecheck)             Checksum: 5B75FECEC730660C9D144C45256EB211;763.
  ) 
 Here is how much of TeX's memory you used:
- 16640 strings out of 476106
- 282517 string characters out of 5793932
- 1925975 words of memory out of 5000000
- 38286 multiletter control sequences out of 15000+600000
- 598349 words of font info for 65 fonts, out of 8000000 for 9000
+ 16643 strings out of 476106
+ 282496 string characters out of 5793932
+ 1926975 words of memory out of 5000000
+ 38273 multiletter control sequences out of 15000+600000
+ 599318 words of font info for 70 fonts, out of 8000000 for 9000
  60 hyphenation exceptions out of 8191
  72i,11n,83p,1218b,517s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf/fonts/type1/public/tex-gyre/qhvb.pfb></usr/share/texmf/font
 s/type1/public/tex-gyre/qhvbi.pfb></usr/share/texmf/fonts/type1/public/tex-gyre
-/qtmb.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qtmr.pfb></usr/share/te
-xlive/texmf-dist/fonts/type1/public/txfonts/t1xtt.pfb>
-Output written on canadianpayrolladministration.pdf (7 pages, 96112 bytes).
+/qtmb.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qtmr.pfb>
+Output written on canadianpayrolladministration.pdf (11 pages, 100508 bytes).
 PDF statistics:
- 78 PDF objects out of 1000 (max. 8388607)
- 57 compressed objects within 1 object stream
- 9 named destinations out of 1000 (max. 500000)
- 29 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 115 PDF objects out of 1000 (max. 8388607)
+ 91 compressed objects within 1 object stream
+ 18 named destinations out of 1000 (max. 500000)
+ 69 words of extra memory for PDF output out of 10000 (max. 10000000)
 
