@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.10.18)  21 JUN 2025 09:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.10.18)  21 JUN 2025 13:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -887,23 +887,23 @@ L3 programming layer <2024-01-22>
  ***********
 Package rerunfilecheck Info: File `canadianpayrolladministration.out' has not c
 hanged.
-(rerunfilecheck)             Checksum: 12C0D378DFFFE1191F6773DDD51F8DFB;1061.
+(rerunfilecheck)             Checksum: 5A972F6D60692130E4B540EF755C2143;1049.
  ) 
 Here is how much of TeX's memory you used:
- 16226 strings out of 476106
- 267979 string characters out of 5793932
+ 16224 strings out of 476106
+ 267927 string characters out of 5793932
  1930975 words of memory out of 5000000
- 37849 multiletter control sequences out of 15000+600000
+ 37847 multiletter control sequences out of 15000+600000
  605167 words of font info for 72 fonts, out of 8000000 for 9000
  60 hyphenation exceptions out of 8191
  72i,11n,79p,405b,517s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf/fonts/type1/public/tex-gyre/qhvb.pfb></usr/share/texmf/font
 s/type1/public/tex-gyre/qhvbi.pfb></usr/share/texmf/fonts/type1/public/tex-gyre
 /qtmb.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qtmr.pfb>
-Output written on canadianpayrolladministration.pdf (11 pages, 105260 bytes).
+Output written on canadianpayrolladministration.pdf (11 pages, 105470 bytes).
 PDF statistics:
- 124 PDF objects out of 1000 (max. 8388607)
- 100 compressed objects within 1 object stream
+ 126 PDF objects out of 1000 (max. 8388607)
+ 101 compressed objects within 2 object streams
  20 named destinations out of 1000 (max. 500000)
  85 words of extra memory for PDF output out of 10000 (max. 10000000)
 

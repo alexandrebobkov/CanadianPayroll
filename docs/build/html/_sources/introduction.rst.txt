@@ -9,8 +9,9 @@ Payroll Legal Framework
 The Canadian Payroll Administration system is designed to ensure compliance with the legal framework governing payroll in Canada. This includes adherence to federal and provincial regulations regarding employee compensation, deductions, and reporting requirements.
 The system is built to handle various payroll scenarios, including different employment types, tax calculations, and benefit deductions, while ensuring that all transactions are accurately recorded and reported in accordance with the law.
 
+******************
 Payroll Accounting
-##################
+******************
 
 Payroll accounting is a critical component of the Canadian Payroll Administration system. It involves the systematic recording, analysis, and reporting of payroll transactions to ensure that all financial aspects of employee compensation are accurately reflected in the organization's financial statements.
 Payroll accounting includes the management of employee wages, tax withholdings, benefit deductions, and other payroll-related expenses. The system is designed to automate these processes, ensuring accuracy and compliance with Canadian payroll regulations.

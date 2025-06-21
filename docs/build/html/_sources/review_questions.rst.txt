@@ -1,7 +1,7 @@
 
-#####################
+################
 REVIEW QUESTIONS
-#####################
+################
 
 This section contains review questions for the material covered in the course. These questions are designed to test your understanding and help reinforce the concepts learned.
 
@@ -66,10 +66,10 @@ d. *Québec, Québec*
 
 True or False. New employees must complete a federal Personal Tax
 
-
-=========================
+*************************
 Review Questions Answers
-=========================
+*************************
+
 This section provides the answers to the review questions presented in the course. Use these answers to check your understanding and clarify any concepts that may be unclear.
 .. note::
 If you have any questions or need further clarification on any of the answers, please refer to the course material or contact your instructor for assistance.
