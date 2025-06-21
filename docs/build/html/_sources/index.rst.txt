@@ -13,7 +13,8 @@ Canadian Payroll Administration documentation
 
    introduction
    payroll_accounting
-   references``
+   review_questions
+   references
    errata
 
 Glossary
