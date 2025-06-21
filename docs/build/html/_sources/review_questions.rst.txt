@@ -2,20 +2,12 @@
 #####################
 REVIEW QUESTIONS
 #####################
-.. _review_questions:
-=========================
-Review Questions
-=========================
-This section contains review questions for the material covered in the course. These questions are designed to test your understanding and help reinforce the concepts learned.
-.. note::
-   The answers to these questions can be found in the `answers` section of the course material.
-.. _review_questions_answers:
 
-***********************
+This section contains review questions for the material covered in the course. These questions are designed to test your understanding and help reinforce the concepts learned.
+
+************************
 New Employee Information
-***********************
-.. _new_employee_information:
-New Employee Information
+************************
 
 What does the employee’s signature on an offer letter provide to the employer?
 When an employee signs an offer of employment, they are implicitly providing
@@ -34,12 +26,15 @@ Québec  benefits forms, such as insurance enrollment forms
 Name three forms that are commonly included in a commencement package.
 
 Common forms included in a commencement package are:
-  - an authorization for hiring
-  - direct deposit agreement 
-  - a union membership application (for unionized workplaces)
-  - benefits enrollment, if applicable (for example, health and dental coverage,
-optional life insurance coverage, the organization's pension plan)
-  - a confidentiality agreement
+  \i an authorization for hiring
+
+  \i direct deposit agreement 
+
+  \i a union membership application (for unionized workplaces)
+
+  \i benefits enrollment, if applicable (for example, health and dental coverage, optional life insurance coverage, the organization's pension plan)
+
+  \i a confidentiality agreement
 
 What document must an employer verify when hiring an individual with a 900-series
 Social Insurance Number?
@@ -77,5 +72,5 @@ Review Questions Answers
 =========================
 This section provides the answers to the review questions presented in the course. Use these answers to check your understanding and clarify any concepts that may be unclear.
 .. note::
-   If you have any questions or need further clarification on any of the answers, please refer to the course material or contact your instructor for assistance.
+If you have any questions or need further clarification on any of the answers, please refer to the course material or contact your instructor for assistance.
 .. _review_questions_answers_section:
