@@ -7,16 +7,20 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'Canadian Payroll Administration'
-copyright = '2025, Alexandre Bobkov'
+copyright = '2025'
 author = 'Alexandre Bobkov'
 release = 'HR'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = []
+extensions = [
+    "sphinx.ext.autodoc",
+    #"sphinx_favicon",
+]
 
 templates_path = ['_templates']
+include_patterns = ['*.rst', '*.md']
 exclude_patterns = []
 
 # The master toctree document.
