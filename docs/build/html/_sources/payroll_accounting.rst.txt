@@ -1,4 +1,4 @@
-.. |trial_balance| replace:: :math: `\text{Total Debits} = \text{Total Credits}`
+.. |trial_balance| replace:: :math:`\text{Total Debits} = \text{Total Credits}`
 
 .. |accounting_equation| replace:: .. math:: Assets = Liabilities + Equity
 
