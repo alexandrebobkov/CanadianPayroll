@@ -17,6 +17,7 @@ release = 'HR'
 extensions = [
     "sphinx.ext.autodoc",
     "sphinx.ext.mathjax",
+    "sphinx.ext.imgmath",
     'sphinxcontrib.programoutput',
     'matplotlib.sphinxext.mathmpl',
     'sphinxcontrib.nwdiag',
@@ -57,3 +58,7 @@ html_static_path = ['_static']
 latex_documents = [
     ('index', 'Payroll-Administration_2025.tex', 'Canadian Payroll Administration (2025)', 'Alexandre Bobkov', 'manual'),
 ]
+
+imgmath_image_format = 'png'
+imgmath_dvi_png_args = ['-gamma', '1.5', '-D', '110', '-bg', 'Transparent']
+imgmath_use_preview = True
