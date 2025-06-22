@@ -7,9 +7,16 @@ CANADA / QUEBEC PENSION PLAN (QPP / CPP)
 
 .. csv-table:: CANADA / QUEBEC PENSION PLAN (QPP / CPP)
    :header: "Description", "CPP", "QPP"
-   :widths: 90, 30, 30
+   :widths: 130, 30, 30
    :align: left
    :file: rates/rates_cpp-qpp_2025.csv
+   :delim: ,
+
+.. csv-table:: CPP2 Contribution Rates Maximums
+   :header: "Description", "Ammount"
+   :widths: 130, 30, 30
+   :align: left
+   :file: rates/rates_cpp2_2025.csv
    :delim: ,
 
 
