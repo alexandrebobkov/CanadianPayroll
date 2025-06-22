@@ -10,6 +10,7 @@
 \contentsline {section}{\numberline {3.1}New Employee Information}{7}{section.3.1}%
 \contentsline {chapter}{\numberline {4}RATES FOR 2025}{9}{chapter.4}%
 \contentsline {section}{\numberline {4.1}CANADA / QUEBEC PENSION PLAN (QPP / CPP)}{9}{section.4.1}%
+\contentsline {section}{\numberline {4.2}CPP2 CONTRIBUTION RATES MAXIMUMS}{9}{section.4.2}%
 \contentsline {chapter}{\numberline {5}REFERENCES}{11}{chapter.5}%
 \contentsline {chapter}{\numberline {6}Errors and Errata}{13}{chapter.6}%
 \contentsline {chapter}{\numberline {7}Glossary}{15}{chapter.7}%

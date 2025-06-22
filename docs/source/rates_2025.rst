@@ -12,9 +12,12 @@ CANADA / QUEBEC PENSION PLAN (QPP / CPP)
    :file: rates/rates_cpp-qpp_2025.csv
    :delim: ,
 
+CPP2 CONTRIBUTION RATES MAXIMUMS
+------------------------------------------
+
 .. csv-table:: CPP2 Contribution Rates Maximums
    :header: "Description", "Ammount"
-   :widths: 130, 30, 30
+   :widths: 130, 30
    :align: left
    :file: rates/rates_cpp2_2025.csv
    :delim: ,
