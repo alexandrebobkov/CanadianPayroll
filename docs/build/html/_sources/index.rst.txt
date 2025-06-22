@@ -8,7 +8,7 @@ Canadian Payroll Administration documentation
 
 .. program-output:: python --version
 
-.. program-output:: python 2+3
+.. program-output:: python -c "print(2+3)"
 
 .. toctree::
    :maxdepth: 2
