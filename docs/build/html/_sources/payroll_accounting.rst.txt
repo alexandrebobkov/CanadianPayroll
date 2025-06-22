@@ -1,6 +1,6 @@
 .. |trial_balance| replace:: :math:`\Sigma \text{ Total Debits} = \Sigma \text{ Total Credits}`
 
-.. |accounting_equation| replace:: :math:`{Assets} = {Liabilities} + Equity`
+.. |accounting_equation| replace:: :math:`\text{Assets} = \text{Liabilities} + \text{Equity}`
 
 ##################
 Payroll Accounting
