@@ -1,0 +1,749 @@
+<!DOCTYPE html>
+<html data-content_root="./" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <title>
+   Canadian Payroll Administration HR documentation
+  </title>
+  <link href="_static/pygments.css?v=03e43079" rel="stylesheet" type="text/css"/>
+  <link href="_static/main.css?v=0eace31b" rel="stylesheet" type="text/css"/>
+  <script src="_static/documentation_options.js?v=aefeacd7">
+  </script>
+  <script src="_static/doctools.js?v=9bcbadda">
+  </script>
+  <script src="_static/sphinx_highlight.js?v=dc90522c">
+  </script>
+  <script async="async" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+  </script>
+  <link href="genindex.html" rel="index" title="Index"/>
+  <link href="search.html" rel="search" title="Search"/>
+ </head>
+ <body>
+  <article class="dont-break" id="cover">
+   <div class="container">
+    <!-- Logo -->
+    <div class="logo">
+     <p>
+     </p>
+    </div>
+    <!-- Cover middle -->
+    <div class="cover-middle">
+     <div class="title">
+      <h1 class="title-cover">
+       Canadian Payroll Administration
+      </h1>
+      <p class="subtitle-cover">
+       Version Fall 2025
+      </p>
+      <span class="meta">
+      </span>
+     </div>
+     <!--
+      <div class="client-logo">
+        <img src="../data/logo_.png" alt="Logotipo">
+      </div>
+      -->
+    </div>
+    <!-- Footer -->
+    <div class="cover-footer">
+     <p>
+     </p>
+    </div>
+   </div>
+  </article>
+  <div aria-label="Main" class="sphinxsidebar" role="navigation">
+   <div class="sphinxsidebarwrapper">
+    <div>
+     <h3>
+      <a href="#">
+       Table of Contents
+      </a>
+     </h3>
+     <p class="caption" role="heading">
+      <span class="caption-text">
+       Table of Contents:
+      </span>
+     </p>
+     <ul>
+      <li class="toctree-l1">
+       <a class="reference internal" href="#introduction">
+        1. INTRODUCTION
+       </a>
+       <ul>
+        <li class="toctree-l2">
+         <a class="reference internal" href="#payroll-legal-framework">
+          1.1. Payroll Legal Framework
+         </a>
+        </li>
+        <li class="toctree-l2">
+         <a class="reference internal" href="#network-diagram">
+          1.2. Network Diagram
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="toctree-l1">
+       <a class="reference internal" href="#payroll-accounting">
+        2. Payroll Accounting
+       </a>
+       <ul>
+        <li class="toctree-l2">
+         <a class="reference internal" href="#journal-entries">
+          2.1. Journal Entries
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="toctree-l1">
+       <a class="reference internal" href="#review-questions">
+        3. REVIEW QUESTIONS
+       </a>
+       <ul>
+        <li class="toctree-l2">
+         <a class="reference internal" href="#new-employee-information">
+          3.1. New Employee Information
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="toctree-l1">
+       <a class="reference internal" href="#rates-for-2025">
+        4. RATES FOR 2025
+       </a>
+       <ul>
+        <li class="toctree-l2">
+         <a class="reference internal" href="#canada-quebec-pension-plan-cpp-qpp">
+          4.1. CANADA / QUEBEC PENSION PLAN (CPP / QPP)
+         </a>
+        </li>
+        <li class="toctree-l2">
+         <a class="reference internal" href="#cpp2-contribution-rates-maximums">
+          4.2. CPP2 CONTRIBUTION RATES MAXIMUMS
+         </a>
+        </li>
+        <li class="toctree-l2">
+         <a class="reference internal" href="#references">
+          4.3. References
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="toctree-l1">
+       <a class="reference internal" href="#references">
+        5. REFERENCES
+       </a>
+      </li>
+      <li class="toctree-l1">
+       <a class="reference internal" href="#errors-and-errata">
+        6. Errors and Errata
+       </a>
+      </li>
+     </ul>
+    </div>
+   </div>
+  </div>
+  <div class="document">
+   <div class="documentwrapper">
+    <div class="bodywrapper">
+     <div class="body" role="main">
+      <section id="canadian-payroll-administration-documentation">
+       <h1>
+        Canadian Payroll Administration documentation
+        <a class="headerlink" href="#canadian-payroll-administration-documentation" title="Link to this heading">
+         &para;
+        </a>
+       </h1>
+       <div class="highlight-text notranslate">
+        <div class="highlight">
+         <pre><span></span>Python 3.12.3
+</pre>
+        </div>
+       </div>
+       <div class="highlight-text notranslate">
+        <div class="highlight">
+         <pre><span></span>5
+</pre>
+        </div>
+       </div>
+       <div class="toctree-wrapper compound">
+        <span id="document-introduction">
+        </span>
+        <section id="introduction">
+         <h2>
+          INTRODUCTION
+          <a class="headerlink" href="#introduction" title="Link to this heading">
+           &para;
+          </a>
+         </h2>
+         <section id="payroll-legal-framework">
+          <h3>
+           Payroll Legal Framework
+           <a class="headerlink" href="#payroll-legal-framework" title="Link to this heading">
+            &para;
+           </a>
+          </h3>
+          <p>
+           The Canadian Payroll Administration system is designed to ensure compliance with the legal framework governing payroll in Canada. This includes adherence to federal and provincial regulations regarding employee compensation, deductions, and reporting requirements.
+The system is built to handle various payroll scenarios, including different employment types, tax calculations, and benefit deductions, while ensuring that all transactions are accurately recorded and reported in accordance with the law.
+          </p>
+         </section>
+         <section id="network-diagram">
+          <h3>
+           Network Diagram
+           <a class="headerlink" href="#network-diagram" title="Link to this heading">
+            &para;
+           </a>
+          </h3>
+         </section>
+        </section>
+        <span id="document-payroll_accounting">
+        </span>
+        <section id="payroll-accounting">
+         <h2>
+          Payroll Accounting
+          <a class="headerlink" href="#payroll-accounting" title="Link to this heading">
+           &para;
+          </a>
+         </h2>
+         <section id="journal-entries">
+          <h3>
+           Journal Entries
+           <a class="headerlink" href="#journal-entries" title="Link to this heading">
+            &para;
+           </a>
+          </h3>
+          <section id="accounting-recap">
+           <h4>
+            Accounting Recap
+            <a class="headerlink" href="#accounting-recap" title="Link to this heading">
+             &para;
+            </a>
+           </h4>
+           <p class="centered">
+            <strong>
+             <span class="math notranslate nohighlight">
+              \(\Sigma \text{ Total Debits} = \Sigma \text{ Total Credits}\)
+             </span>
+            </strong>
+           </p>
+           <p class="centered">
+            <strong>
+             <span class="math notranslate nohighlight">
+              \(\text{Assets} = \text{Liabilities} + \text{Equity}\)
+             </span>
+            </strong>
+           </p>
+           <div class="math notranslate nohighlight" id="equation-accountingequation">
+            <span class="eqno">
+             (1)
+             <a class="headerlink" href="#equation-accountingequation" title="Link to this equation">
+              &para;
+             </a>
+            </span>
+            \[Assets = Liabilities + Equity\]
+           </div>
+           <p>
+            Furthermore, we know that:
+           </p>
+           <p class="centered">
+            <strong>
+             <span class="math notranslate nohighlight">
+              \(\text{Equity = Revenue - Expenses}\)
+             </span>
+             , which leads us to:
+            </strong>
+           </p>
+           <p class="centered">
+            <strong>
+             <span class="math notranslate nohighlight">
+              \(\text{Assets = Liabilities + (Revenues - Expenses)}\)
+             </span>
+            </strong>
+           </p>
+           <p>
+            Accounting equation
+            <a class="reference internal" href="#equation-accountingequation">
+             (1)
+            </a>
+           </p>
+           <p>
+            Payroll accounting is a critical component of the Canadian Payroll Administration system. It involves the systematic recording, analysis, and reporting of payroll transactions to ensure that all financial aspects of employee compensation are accurately reflected in the organization&rsquo;s financial statements.
+Payroll accounting includes the management of employee wages, tax withholdings, benefit deductions, and other payroll-related expenses. The system is designed to automate these processes, ensuring accuracy and compliance with Canadian payroll regulations.
+           </p>
+          </section>
+          <section id="id1">
+           <h4>
+            Journal Entries
+            <a class="headerlink" href="#id1" title="Link to this heading">
+             &para;
+            </a>
+           </h4>
+           <p>
+            Journal entries are a key part of payroll accounting, as they document the financial impact of payroll transactions on the organization&rsquo;s accounts. Each payroll run generates a series of journal entries that reflect the distribution of wages, taxes, and deductions across various accounts.
+These entries are essential for maintaining accurate financial records and ensuring that the organization&rsquo;s financial statements reflect the true cost of employee compensation. The Canadian Payroll Administration system automates the generation of these journal entries, reducing the risk of errors and ensuring compliance with accounting standards.
+           </p>
+           <div class="line-block">
+            <div class="line">
+             DR    Payroll Expenses    $10,500.00
+            </div>
+            <div class="line-block">
+             <div class="line">
+              CR  Payroll Payable   $10,500.00
+             </div>
+            </div>
+           </div>
+          </section>
+         </section>
+        </section>
+        <span id="document-review_questions">
+        </span>
+        <section id="review-questions">
+         <h2>
+          REVIEW QUESTIONS
+          <a class="headerlink" href="#review-questions" title="Link to this heading">
+           &para;
+          </a>
+         </h2>
+         <p>
+          This section contains review questions for the material covered in the course. These questions are designed to test your understanding and help reinforce the concepts learned.
+         </p>
+         <section id="new-employee-information">
+          <h3>
+           New Employee Information
+           <a class="headerlink" href="#new-employee-information" title="Link to this heading">
+            &para;
+           </a>
+          </h3>
+          <p>
+           Which one of the following is correct?
+a. Choice A
+b. Choice B
+c. Choice C
+          </p>
+         </section>
+        </section>
+        <span id="document-rates_2025">
+        </span>
+        <section id="rates-for-2025">
+         <h2>
+          RATES FOR 2025
+          <a class="headerlink" href="#rates-for-2025" title="Link to this heading">
+           &para;
+          </a>
+         </h2>
+         <section id="canada-quebec-pension-plan-cpp-qpp">
+          <h3>
+           CANADA / QUEBEC PENSION PLAN (CPP / QPP)
+           <a class="headerlink" href="#canada-quebec-pension-plan-cpp-qpp" title="Link to this heading">
+            &para;
+           </a>
+          </h3>
+          <table class="docutils align-left" id="id1">
+           <caption>
+            <span class="caption-text">
+             CANADA / QUEBEC PENSION PLAN (CPP / QPP)
+            </span>
+            <a class="headerlink" href="#id1" title="Link to this table">
+             &para;
+            </a>
+           </caption>
+           <colgroup>
+            <col style="width: 68.4%"/>
+            <col style="width: 15.8%"/>
+            <col style="width: 15.8%"/>
+           </colgroup>
+           <thead>
+            <tr class="row-odd">
+             <th class="head">
+              <p>
+               Description
+              </p>
+             </th>
+             <th class="head">
+              <p>
+               CPP
+              </p>
+             </th>
+             <th class="head">
+              <p>
+               QPP
+              </p>
+             </th>
+            </tr>
+           </thead>
+           <tbody>
+            <tr class="row-even">
+             <td>
+              <p>
+               Yearly maximum pensionable earnings
+              </p>
+             </td>
+             <td>
+              <p>
+               $71,300
+              </p>
+             </td>
+             <td>
+              <p>
+               $
+              </p>
+             </td>
+            </tr>
+            <tr class="row-odd">
+             <td>
+              <p>
+               Annual maximum contributory earnings
+              </p>
+             </td>
+             <td>
+              <p>
+               $67,800
+              </p>
+             </td>
+             <td>
+              <p>
+               $
+              </p>
+             </td>
+            </tr>
+            <tr class="row-even">
+             <td>
+              <p>
+               Annual maximum contribution
+              </p>
+             </td>
+             <td>
+              <p>
+               $3,500
+              </p>
+             </td>
+             <td>
+              <p>
+               $
+              </p>
+             </td>
+            </tr>
+            <tr class="row-odd">
+             <td>
+              <p>
+               Employee contribution rate
+              </p>
+             </td>
+             <td>
+              <p>
+               5.95%
+              </p>
+             </td>
+             <td>
+             </td>
+            </tr>
+            <tr class="row-even">
+             <td>
+              <p>
+               Employer contribution rate
+              </p>
+             </td>
+             <td>
+              <p>
+               5.95%
+              </p>
+             </td>
+             <td>
+             </td>
+            </tr>
+            <tr class="row-odd">
+             <td>
+              <p>
+               Basic exemption (Annual)
+              </p>
+             </td>
+             <td>
+              <p>
+               $3,500
+              </p>
+             </td>
+             <td>
+             </td>
+            </tr>
+            <tr class="row-even">
+             <td>
+              <blockquote>
+               <div>
+                <p>
+                 Basic exemption (Monthly, 12)
+                </p>
+               </div>
+              </blockquote>
+             </td>
+             <td>
+              <p>
+               $291.67
+              </p>
+             </td>
+             <td>
+              <p>
+               $
+              </p>
+             </td>
+            </tr>
+            <tr class="row-odd">
+             <td>
+              <blockquote>
+               <div>
+                <p>
+                 Basic exemption (Weekly, 52)
+                </p>
+               </div>
+              </blockquote>
+             </td>
+             <td>
+              <p>
+               $67.31
+              </p>
+             </td>
+             <td>
+              <p>
+               $
+              </p>
+             </td>
+            </tr>
+            <tr class="row-even">
+             <td>
+              <blockquote>
+               <div>
+                <p>
+                 Basic exemption (Weekly, 53)
+                </p>
+               </div>
+              </blockquote>
+             </td>
+             <td>
+              <p>
+               $66.04
+              </p>
+             </td>
+             <td>
+              <p>
+               $
+              </p>
+             </td>
+            </tr>
+            <tr class="row-odd">
+             <td>
+              <blockquote>
+               <div>
+                <p>
+                 Basic exemption (Semi-monthly, 24)
+                </p>
+               </div>
+              </blockquote>
+             </td>
+             <td>
+              <p>
+               $145.83
+              </p>
+             </td>
+             <td>
+              <p>
+               $
+              </p>
+             </td>
+            </tr>
+            <tr class="row-even">
+             <td>
+              <blockquote>
+               <div>
+                <p>
+                 Basic exemption (Bi-weekly, 26)
+                </p>
+               </div>
+              </blockquote>
+             </td>
+             <td>
+              <p>
+               $134.61
+              </p>
+             </td>
+             <td>
+              <p>
+               $
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+         </section>
+         <section id="cpp2-contribution-rates-maximums">
+          <h3>
+           CPP2 CONTRIBUTION RATES MAXIMUMS
+           <a class="headerlink" href="#cpp2-contribution-rates-maximums" title="Link to this heading">
+            &para;
+           </a>
+          </h3>
+          <table class="docutils align-left" id="id2">
+           <caption>
+            <span class="caption-text">
+             CPP2 Contribution Rates Maximums
+            </span>
+            <a class="headerlink" href="#id2" title="Link to this table">
+             &para;
+            </a>
+           </caption>
+           <colgroup>
+            <col style="width: 81.2%"/>
+            <col style="width: 18.8%"/>
+           </colgroup>
+           <thead>
+            <tr class="row-odd">
+             <th class="head">
+              <p>
+               Description
+              </p>
+             </th>
+             <th class="head">
+              <p>
+               Ammount
+              </p>
+             </th>
+            </tr>
+           </thead>
+           <tbody>
+            <tr class="row-even">
+             <td>
+              <p>
+               Additional maximum annual pensionable earnings
+              </p>
+             </td>
+             <td>
+              <p>
+               $81,200
+              </p>
+             </td>
+            </tr>
+            <tr class="row-odd">
+             <td>
+              <p>
+               Employee and employer contribution rate
+              </p>
+             </td>
+             <td>
+              <p>
+               4%
+              </p>
+             </td>
+            </tr>
+            <tr class="row-even">
+             <td>
+              <p>
+               Maximum employee and employer contribution
+              </p>
+             </td>
+             <td>
+              <p>
+               $396
+              </p>
+             </td>
+            </tr>
+            <tr class="row-odd">
+             <td>
+              <p>
+               Maimum annual self-employed contribution
+              </p>
+             </td>
+             <td>
+              <p>
+               $792
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+         </section>
+         <section id="references">
+          <h3>
+           References
+           <a class="headerlink" href="#references" title="Link to this heading">
+            &para;
+           </a>
+          </h3>
+          <p>
+           <a class="reference external" href="https://laws-lois.justice.gc.ca/eng/acts/C-8/page-5.html#docCont">
+            CPP Maximum contributory earnings
+           </a>
+          </p>
+          <p>
+           <a class="reference external" href="https://laws-lois.justice.gc.ca/eng/acts/C-8/page-3.html#docCont">
+            Second additional CPP contributions
+           </a>
+          </p>
+         </section>
+        </section>
+        <span id="document-references">
+        </span>
+        <section id="references">
+         <h2>
+          REFERENCES
+          <a class="headerlink" href="#references" title="Link to this heading">
+           &para;
+          </a>
+         </h2>
+        </section>
+        <span id="document-errata">
+        </span>
+        <section id="errors-and-errata">
+         <h2>
+          Errors and Errata
+          <a class="headerlink" href="#errors-and-errata" title="Link to this heading">
+           &para;
+          </a>
+         </h2>
+        </section>
+       </div>
+      </section>
+      <section id="glossary">
+       <h1>
+        Glossary
+        <a class="headerlink" href="#glossary" title="Link to this heading">
+         &para;
+        </a>
+       </h1>
+       <ul class="simple">
+        <li>
+         <p>
+          <a class="reference internal" href="genindex.html">
+           <span class="std std-ref">
+            Index
+           </span>
+          </a>
+         </p>
+        </li>
+       </ul>
+      </section>
+      <div class="clearer">
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="clearer">
+   </div>
+  </div>
+  <article id="back-cover">
+   <div class="container">
+    <div class="back-cover-footer">
+     <p>
+      &copy; Copyright 2025.
+     </p>
+     <p>
+      Created using
+      <a href="http://sphinx-doc.org/">
+       Sphinx
+      </a>
+      8.2.3.
+     </p>
+    </div>
+   </div>
+  </article>
+ </body>
+</html>

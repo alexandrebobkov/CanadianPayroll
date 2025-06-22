@@ -21,7 +21,8 @@ extensions = [
     'matplotlib.sphinxext.mathmpl',
     'sphinxcontrib.nwdiag',
     'sphinxcontrib.rackdiag',
-    'sphinxcontrib.packetdiag'
+    'sphinxcontrib.packetdiag',
+    'sphinx_simplepdf',
     #"sphinx_favicon",
 ]
 
