@@ -8,6 +8,8 @@ CANADA / QUEBEC PENSION PLAN (QPP / CPP)
 .. csv-table:: CANADA / QUEBEC PENSION PLAN (QPP / CPP)
    :header: "Description", "CPP", "QPP"
    :widths: 30, 30, 30
+   :align: left
+   :delim: ","
 
    Employee contribution rate, 5.95%, 5.95%
    Employer contribution rate, 5.95%, 5.95%
