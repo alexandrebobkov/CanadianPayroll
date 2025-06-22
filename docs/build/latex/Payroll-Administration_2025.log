@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.10.18)  22 JUN 2025 17:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.10.18)  22 JUN 2025 17:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -889,7 +889,7 @@ Chapter 6.
 ]
 Chapter 7.
 LaTeX Font Info:    Trying to load font information for TS1+qtm on input line 3
-96.
+93.
 (/usr/share/texmf/tex/latex/tex-gyre/ts1qtm.fd
 File: ts1qtm.fd 2009/09/25 v1.2 font definition file for TS1/qtm
 )
@@ -901,13 +901,13 @@ L3 programming layer <2024-01-22>
  ***********
 Package rerunfilecheck Info: File `Payroll-Administration_2025.out' has not cha
 nged.
-(rerunfilecheck)             Checksum: 16A1A6ED40A74D6D98B525B461B5E965;2311.
+(rerunfilecheck)             Checksum: 6E3615C1FB0BDF812BD01F956A11766B;2178.
  ) 
 Here is how much of TeX's memory you used:
- 16772 strings out of 476106
- 284831 string characters out of 5793932
+ 16769 strings out of 476106
+ 284777 string characters out of 5793932
  1943975 words of memory out of 5000000
- 38370 multiletter control sequences out of 15000+600000
+ 38368 multiletter control sequences out of 15000+600000
  611515 words of font info for 76 fonts, out of 8000000 for 9000
  60 hyphenation exceptions out of 8191
  72i,14n,83p,1216b,517s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -918,10 +918,10 @@ c/tex-gyre/qhvbi.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qhvr.pfb></u
 sr/share/texmf/fonts/type1/public/tex-gyre/qtmb.pfb></usr/share/texmf/fonts/typ
 e1/public/tex-gyre/qtmr.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/t
 xfonts/t1xtt.pfb>
-Output written on Payroll-Administration_2025.pdf (19 pages, 158765 bytes).
+Output written on Payroll-Administration_2025.pdf (19 pages, 158590 bytes).
 PDF statistics:
- 227 PDF objects out of 1000 (max. 8388607)
- 189 compressed objects within 2 object streams
- 39 named destinations out of 1000 (max. 500000)
- 149 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 222 PDF objects out of 1000 (max. 8388607)
+ 184 compressed objects within 2 object streams
+ 38 named destinations out of 1000 (max. 500000)
+ 141 words of extra memory for PDF output out of 10000 (max. 10000000)
 

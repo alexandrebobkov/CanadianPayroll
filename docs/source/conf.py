@@ -22,7 +22,7 @@ extensions = [
     'sphinxcontrib.nwdiag',
     'sphinxcontrib.rackdiag',
     'sphinxcontrib.packetdiag',
-    'sphinx_simplepdf',
+    'sphinxcontrib.nwdiag',
     #"sphinx_favicon",
 ]
 
