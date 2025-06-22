@@ -1,3 +1,5 @@
+.. |trial_balance| replace:: Total Debits = Total Credits
+.. |accounting_equation| replace:: Assets = Liabilities + Equity
 ##################
 Payroll Accounting
 ##################
@@ -10,7 +12,8 @@ Accounting Recap
 -----------------
 
 Total of Debits = Total of Credits
-Assets = Liabilities + Equity
+
+|accounting_equation|
 
 Equity = Revenue - Expenses
 
