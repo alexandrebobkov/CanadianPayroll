@@ -9,7 +9,7 @@ CANADA / QUEBEC PENSION PLAN (QPP / CPP)
    :header: "Description", "CPP", "QPP"
    :widths: 90, 30, 30
    :align: left
-   :file: rates_2025.csv
+   :file: rates/rates_cpp-qpp_2025.csv
    :delim: ,
 
 
