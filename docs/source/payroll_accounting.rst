@@ -1,5 +1,5 @@
-.. |trial_balance| replace:: Total Debits = Total Credits
-.. |accounting_equation| replace:: Assets = Liabilities + Equity
+.. |trial_balance| replace:: :math:: Total Debits = Total Credits
+.. |accounting_equation| replace:: :math:: Assets = Liabilities + Equity
 ##################
 Payroll Accounting
 ##################
@@ -15,8 +15,10 @@ Accounting Recap
 
 |accounting_equation|
 
-Furthermore, we know that
+Furthermore, we know that:
+
 .. math:: Equity = Revenue - Expenses
+
 , which leads us to:
 
 .. math:: Assets = Liabilities + (Revenues - Expenses)
