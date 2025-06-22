@@ -10,5 +10,5 @@ New Employee Information
 
 Which one of the following is correct?
 a. Choice A
-# Choice B
-# Choice C
+#. Choice B
+#. Choice C
