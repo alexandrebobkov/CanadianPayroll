@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.10.18)  22 JUN 2025 08:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.10.18)  22 JUN 2025 09:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -876,6 +876,26 @@ Chapter 3.
 
 ]
 Chapter 4.
+
+Underfull \hbox (badness 10000) in paragraph at lines 246--248
+[]\T1/qtm/m/n/10 Ba-sic ex-emp-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 258--260
+[]\T1/qtm/m/n/10 Ba-sic ex-emp-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 270--272
+[]\T1/qtm/m/n/10 Ba-sic ex-emp-tion
+ []
+
+
+Underfull \hbox (badness 5802) in paragraph at lines 294--296
+[]\T1/qtm/m/n/10 Ba-sic ex-emp-tion (Bi-
+ []
+
 [9] [10
 
 ]
@@ -889,7 +909,7 @@ Chapter 6.
 ]
 Chapter 7.
 LaTeX Font Info:    Trying to load font information for TS1+qtm on input line 3
-22.
+32.
 (/usr/share/texmf/tex/latex/tex-gyre/ts1qtm.fd
 File: ts1qtm.fd 2009/09/25 v1.2 font definition file for TS1/qtm
 )
@@ -904,10 +924,10 @@ hanged.
 (rerunfilecheck)             Checksum: 3F5EA1FE7110A8F5B81EDDF2B0E21167;1982.
  ) 
 Here is how much of TeX's memory you used:
- 16762 strings out of 476106
- 284694 string characters out of 5793932
- 1936975 words of memory out of 5000000
- 38363 multiletter control sequences out of 15000+600000
+ 16764 strings out of 476106
+ 284748 string characters out of 5793932
+ 1938975 words of memory out of 5000000
+ 38365 multiletter control sequences out of 15000+600000
  611515 words of font info for 76 fonts, out of 8000000 for 9000
  60 hyphenation exceptions out of 8191
  72i,14n,83p,1218b,517s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -918,7 +938,7 @@ c/tex-gyre/qhvbi.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qhvr.pfb></u
 sr/share/texmf/fonts/type1/public/tex-gyre/qtmb.pfb></usr/share/texmf/fonts/typ
 e1/public/tex-gyre/qtmr.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/t
 xfonts/t1xtt.pfb>
-Output written on canadianpayrolladministration.pdf (19 pages, 156711 bytes).
+Output written on canadianpayrolladministration.pdf (19 pages, 156765 bytes).
 PDF statistics:
  211 PDF objects out of 1000 (max. 8388607)
  173 compressed objects within 2 object streams
