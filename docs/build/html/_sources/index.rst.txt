@@ -17,6 +17,8 @@ Canadian Payroll Administration documentation
    references
    errata
 
+.. program-output:: python --version
+
 Glossary
 =========
 

@@ -17,6 +17,7 @@ release = 'HR'
 extensions = [
     "sphinx.ext.autodoc",
     "sphinx.ext.mathjax",
+    'sphinxcontrib.programoutput',
     #"sphinx_favicon",
 ]
 
