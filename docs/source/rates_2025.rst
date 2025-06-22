@@ -14,7 +14,7 @@ CANADA / QUEBEC PENSION PLAN (QPP / CPP)
    Employee contribution rate, 5.95%, 5.95%
    Employer contribution rate, 5.95%, 5.95%
    Maximum pensionable earnings, $66,600, $66,600
-   Basic exemption:
+   Basic exemption:, ,
       Annual, $3,500, $3,500
       Monthly (12), $291.67, $291.67
       Weekly (52), $673.08, $673.08
