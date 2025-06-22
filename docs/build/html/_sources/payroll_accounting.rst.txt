@@ -19,7 +19,7 @@ Accounting Recap
 
 Furthermore, we know that:
 
-.. math:: Equity = Revenue - Expenses
+.. math::`\text{Equity = Revenue - Expenses}`
 
 , which leads us to:
 
