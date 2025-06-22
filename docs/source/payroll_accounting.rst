@@ -11,13 +11,15 @@ Journal Entries
 Accounting Recap
 -----------------
 
-Total of Debits = Total of Credits
+|trial_balance|
 
 |accounting_equation|
 
-Equity = Revenue - Expenses
+Furthermore, we know that
+.. math:: Equity = Revenue - Expenses
+, which leads us to:
 
-Assets = Liabilities + (Revenues - Expenses)
+.. math:: Assets = Liabilities + (Revenues - Expenses)
 
 Payroll accounting is a critical component of the Canadian Payroll Administration system. It involves the systematic recording, analysis, and reporting of payroll transactions to ensure that all financial aspects of employee compensation are accurately reflected in the organization's financial statements.
 Payroll accounting includes the management of employee wages, tax withholdings, benefit deductions, and other payroll-related expenses. The system is designed to automate these processes, ensuring accuracy and compliance with Canadian payroll regulations.
