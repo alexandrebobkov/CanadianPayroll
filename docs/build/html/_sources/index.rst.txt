@@ -6,6 +6,10 @@
 Canadian Payroll Administration documentation
 =============================================
 
+.. program-output:: python --version
+
+.. program-output:: python 2+3
+
 .. toctree::
    :maxdepth: 2
    :caption: Table of Contents:
@@ -16,8 +20,6 @@ Canadian Payroll Administration documentation
    review_questions
    references
    errata
-
-.. program-output:: python --version
 
 Glossary
 =========
