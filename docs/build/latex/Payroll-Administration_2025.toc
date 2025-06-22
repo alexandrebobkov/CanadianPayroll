@@ -7,10 +7,23 @@
 \contentsline {subsection}{\numberline {2.1.2}Journal Entries}{5}{subsection.2.1.2}%
 \contentsline {chapter}{\numberline {3}REVIEW QUESTIONS}{7}{chapter.3}%
 \contentsline {section}{\numberline {3.1}New Employee Information}{7}{section.3.1}%
-\contentsline {chapter}{\numberline {4}RATES FOR 2025}{9}{chapter.4}%
-\contentsline {section}{\numberline {4.1}CANADA / QUEBEC PENSION PLAN (CPP / QPP)}{9}{section.4.1}%
-\contentsline {section}{\numberline {4.2}CPP2 CONTRIBUTION RATES MAXIMUMS}{9}{section.4.2}%
-\contentsline {section}{\numberline {4.3}References}{10}{section.4.3}%
-\contentsline {chapter}{\numberline {5}REFERENCES}{11}{chapter.5}%
-\contentsline {chapter}{\numberline {6}Errors and Errata}{13}{chapter.6}%
-\contentsline {chapter}{\numberline {7}Glossary}{15}{chapter.7}%
+\contentsline {chapter}{\numberline {4}OBNOARDING EMPLOYEE}{9}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Employment Standards Requirements}{9}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Internal Forms}{9}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Authorization for Hiring}{9}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Union Membership}{9}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.2.3}Benefit Enrollment Forms}{10}{subsection.4.2.3}%
+\contentsline {subsection}{\numberline {4.2.4}Confidentiality Agreement}{10}{subsection.4.2.4}%
+\contentsline {section}{\numberline {4.3}Required Federal and Provincial/Territorial Forms}{10}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Tax Credits (TD1)}{10}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}Tax Credits (TP\sphinxhyphen {}1015.3\sphinxhyphen {}V \textendash {} Québec)}{11}{subsection.4.3.2}%
+\contentsline {section}{\numberline {4.4}Content Review Highlights}{11}{section.4.4}%
+\contentsline {section}{\numberline {4.5}Review Questions (Sample)}{11}{section.4.5}%
+\contentsline {section}{\numberline {4.6}Example Evaluations}{12}{section.4.6}%
+\contentsline {chapter}{\numberline {5}RATES FOR 2025}{13}{chapter.5}%
+\contentsline {section}{\numberline {5.1}CANADA / QUEBEC PENSION PLAN (CPP / QPP)}{13}{section.5.1}%
+\contentsline {section}{\numberline {5.2}CPP2 CONTRIBUTION RATES MAXIMUMS}{13}{section.5.2}%
+\contentsline {section}{\numberline {5.3}References}{14}{section.5.3}%
+\contentsline {chapter}{\numberline {6}REFERENCES}{15}{chapter.6}%
+\contentsline {chapter}{\numberline {7}Errors and Errata}{17}{chapter.7}%
+\contentsline {chapter}{\numberline {8}Glossary}{19}{chapter.8}%

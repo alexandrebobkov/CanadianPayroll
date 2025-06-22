@@ -18,6 +18,7 @@ Canadian Payroll Administration documentation
    introduction
    payroll_accounting
    review_questions
+   onboarding_employee
    rates_2025
    references
    errata
