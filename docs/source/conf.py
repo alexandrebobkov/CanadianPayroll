@@ -18,6 +18,7 @@ extensions = [
     "sphinx.ext.autodoc",
     "sphinx.ext.mathjax",
     'sphinxcontrib.programoutput',
+    'matplotlib.sphinxext.mathmpl',
     #"sphinx_favicon",
 ]
 
