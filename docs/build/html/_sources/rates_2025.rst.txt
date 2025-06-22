@@ -7,10 +7,13 @@ CANADA / QUEBEC PENSION PLAN (QPP / CPP)
 
 .. csv-table:: CANADA / QUEBEC PENSION PLAN (QPP / CPP)
    :header: "Description", "CPP", "QPP"
-   :widths: 30, 30, 30
+   :widths: 90, 30, 30
    :align: left
    :delim: ,
 
+   "Yearly maximum pensionable earnings", "$66,600", "$66,600"
+   "Annual maximum contributory earnings", "$66,600", "$66,600"
+   "Annual maximum contribution", "$3,754.45", "$3,754.45"
    "Employee contribution rate", "5.95%", "5.95%"
    "Employer contribution rate", "5.95%", "5.95%"
    "Maximum pensionable earnings", "$66,600", "$66,600"
