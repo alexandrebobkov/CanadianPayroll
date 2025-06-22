@@ -13,12 +13,3 @@ The system is built to handle various payroll scenarios, including different emp
 Network Diagram
 ***************
 
-.. nwdiag:: soho.diag
-   :desctable:
-
-   nwdiag {
-      network {
-        A [address = 10.100.50.16, description = "Files Server"];
-        B [address = 10.100.50.25, description = "Ubuntu Server"];
-      }
-   }
