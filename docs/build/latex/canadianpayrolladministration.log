@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.10.18)  22 JUN 2025 00:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.10.18)  22 JUN 2025 00:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -879,7 +879,7 @@ Chapter 5.
 ]
 Chapter 6.
 LaTeX Font Info:    Trying to load font information for TS1+qtm on input line 1
-68.
+71.
 (/usr/share/texmf/tex/latex/tex-gyre/ts1qtm.fd
 File: ts1qtm.fd 2009/09/25 v1.2 font definition file for TS1/qtm
 )
@@ -907,7 +907,7 @@ r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share
 /fonts/type1/public/tex-gyre/qhvb.pfb></usr/share/texmf/fonts/type1/public/tex-
 gyre/qhvbi.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qtmb.pfb></usr/sha
 re/texmf/fonts/type1/public/tex-gyre/qtmr.pfb>
-Output written on canadianpayrolladministration.pdf (15 pages, 136612 bytes).
+Output written on canadianpayrolladministration.pdf (15 pages, 136704 bytes).
 PDF statistics:
  171 PDF objects out of 1000 (max. 8388607)
  138 compressed objects within 2 object streams
