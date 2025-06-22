@@ -12,14 +12,3 @@ The system is built to handle various payroll scenarios, including different emp
 ***************
 Network Diagram
 ***************
-
-.. nwdiag::
-   :align: center
-   :scale: 75
-
-   nwdiag {
-       network dmz {
-           web01;
-           web02;
-       }
-   }
