@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.10.18)  22 JUN 2025 17:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.10.18)  22 JUN 2025 17:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**canadianpayrolladministration.tex
-(./canadianpayrolladministration.tex
+**Payroll-Administration_2025.tex
+(./Payroll-Administration_2025.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
 (./sphinxmanual.cls
@@ -724,10 +724,10 @@ Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
 Package: sphinxmessages 2019/01/04 v2.0 Localized LaTeX macros (Sphinx team)
 )
 \@indexfile=\write4
-\openout4 = `canadianpayrolladministration.idx'.
+\openout4 = `Payroll-Administration_2025.idx'.
 
 
-Writing index file canadianpayrolladministration.idx
+Writing index file Payroll-Administration_2025.idx
 LaTeX Font Info:    Trying to load font information for T1+qtm on input line 73
 .
 (/usr/share/texmf/tex/latex/tex-gyre/t1qtm.fd
@@ -738,8 +738,8 @@ File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count323
 \l__pdf_internal_box=\box120
 )
-(./canadianpayrolladministration.aux)
-\openout1 = `canadianpayrolladministration.aux'.
+(./Payroll-Administration_2025.aux)
+\openout1 = `Payroll-Administration_2025.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 73.
 LaTeX Font Info:    ... okay on input line 73.
@@ -819,9 +819,9 @@ e
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 Package hyperref Info: Link coloring ON on input line 73.
-(./canadianpayrolladministration.out) (./canadianpayrolladministration.out)
+(./Payroll-Administration_2025.out) (./Payroll-Administration_2025.out)
 \@outlinefile=\write5
-\openout5 = `canadianpayrolladministration.out'.
+\openout5 = `Payroll-Administration_2025.out'.
 
 Package hyperref Info: Option `pageanchor' set `false' on input line 81.
 LaTeX Font Info:    Trying to load font information for T1+qhv on input line 81
@@ -846,9 +846,9 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 dvips/tex-gyre/q-ec.enc}] [2
 
 
-] (./canadianpayrolladministration.toc)
+] (./Payroll-Administration_2025.toc)
 \tf@toc=\write6
-\openout6 = `canadianpayrolladministration.toc'.
+\openout6 = `Payroll-Administration_2025.toc'.
 
  [1
 
@@ -876,11 +876,11 @@ Chapter 3.
 
 ]
 Chapter 4.
-[9] [10
-
-]
+[9] [10]
 Chapter 5.
-[11] [12
+[11
+
+] [12
 
 ]
 Chapter 6.
@@ -889,28 +889,28 @@ Chapter 6.
 ]
 Chapter 7.
 LaTeX Font Info:    Trying to load font information for TS1+qtm on input line 3
-87.
+96.
 (/usr/share/texmf/tex/latex/tex-gyre/ts1qtm.fd
 File: ts1qtm.fd 2009/09/25 v1.2 font definition file for TS1/qtm
 )
-(./canadianpayrolladministration.ind) [15{/usr/share/texmf/fonts/enc/dvips/tex-
-gyre/q-ts1.enc}] (./canadianpayrolladministration.aux)
+(./Payroll-Administration_2025.ind) [15{/usr/share/texmf/fonts/enc/dvips/tex-gy
+re/q-ts1.enc}] (./Payroll-Administration_2025.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
-Package rerunfilecheck Info: File `canadianpayrolladministration.out' has not c
-hanged.
-(rerunfilecheck)             Checksum: 250DB63AC3DFD88E91CE9F5FDB1F3B55;2206.
+Package rerunfilecheck Info: File `Payroll-Administration_2025.out' has not cha
+nged.
+(rerunfilecheck)             Checksum: 16A1A6ED40A74D6D98B525B461B5E965;2311.
  ) 
 Here is how much of TeX's memory you used:
- 16769 strings out of 476106
- 284842 string characters out of 5793932
+ 16772 strings out of 476106
+ 284831 string characters out of 5793932
  1943975 words of memory out of 5000000
- 38368 multiletter control sequences out of 15000+600000
+ 38370 multiletter control sequences out of 15000+600000
  611515 words of font info for 76 fonts, out of 8000000 for 9000
  60 hyphenation exceptions out of 8191
- 72i,14n,83p,1218b,517s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,14n,83p,1216b,517s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share
 /texmf/fonts/type1/public/tex-gyre/qhvb.pfb></usr/share/texmf/fonts/type1/publi
@@ -918,10 +918,10 @@ c/tex-gyre/qhvbi.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qhvr.pfb></u
 sr/share/texmf/fonts/type1/public/tex-gyre/qtmb.pfb></usr/share/texmf/fonts/typ
 e1/public/tex-gyre/qtmr.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/t
 xfonts/t1xtt.pfb>
-Output written on canadianpayrolladministration.pdf (19 pages, 158182 bytes).
+Output written on Payroll-Administration_2025.pdf (19 pages, 158765 bytes).
 PDF statistics:
- 220 PDF objects out of 1000 (max. 8388607)
- 182 compressed objects within 2 object streams
- 38 named destinations out of 1000 (max. 500000)
- 141 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 227 PDF objects out of 1000 (max. 8388607)
+ 189 compressed objects within 2 object streams
+ 39 named destinations out of 1000 (max. 500000)
+ 149 words of extra memory for PDF output out of 10000 (max. 10000000)
 

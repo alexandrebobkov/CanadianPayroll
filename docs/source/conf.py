@@ -52,3 +52,7 @@ version = 'Fall 2025'
 #html_theme = 'alabaster'
 html_theme = 'classic'
 html_static_path = ['_static']
+
+latex_documents = [
+    ('index', 'Payroll-Administration_2025.tex', 'Canadian Payroll Administration (2025)', 'Alexandre Bobkov', 'manual'),
+]
