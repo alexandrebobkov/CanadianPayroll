@@ -19,6 +19,9 @@ extensions = [
     "sphinx.ext.mathjax",
     'sphinxcontrib.programoutput',
     'matplotlib.sphinxext.mathmpl',
+    'sphinxcontrib.nwdiag',
+    'sphinxcontrib.rackdiag',
+    'sphinxcontrib.packetdiag'
     #"sphinx_favicon",
 ]
 
