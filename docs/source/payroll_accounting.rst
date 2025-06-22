@@ -20,10 +20,9 @@ Accounting Recap
 Furthermore, we know that:
 
 .. centered:: :math:`\text{Equity = Revenue - Expenses}`
+    , which leads us to:
 
-, which leads us to:
-
-.. math:: Assets = Liabilities + (Revenues - Expenses)
+.. centered:: :math:`\text{Assets = Liabilities + (Revenues - Expenses)}`
 
 Payroll accounting is a critical component of the Canadian Payroll Administration system. It involves the systematic recording, analysis, and reporting of payroll transactions to ensure that all financial aspects of employee compensation are accurately reflected in the organization's financial statements.
 Payroll accounting includes the management of employee wages, tax withholdings, benefit deductions, and other payroll-related expenses. The system is designed to automate these processes, ensuring accuracy and compliance with Canadian payroll regulations.
