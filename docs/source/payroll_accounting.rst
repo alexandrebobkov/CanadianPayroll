@@ -1,4 +1,4 @@
-.. |trial_balance| replace:: :math:`\Sigma{Total Debits} = \Sigma{Total Credits}`
+.. |trial_balance| replace:: :math:`\Sigma {Total Debits} = \Sigma {Total Credits}`
 
 .. |accounting_equation| replace:: :math:`{Assets} = {Liabilities} + Equity`
 
