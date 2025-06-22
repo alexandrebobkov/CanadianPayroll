@@ -13,13 +13,13 @@ Journal Entries
 Accounting Recap
 -----------------
 
-|trial_balance|
+.. centered:: |trial_balance|
 
-|accounting_equation|
+.. centered:: |accounting_equation|
 
 Furthermore, we know that:
 
-:math:`\text{Equity = Revenue - Expenses}`
+.. math:: Equity = Revenue - Expenses
 
 , which leads us to:
 
