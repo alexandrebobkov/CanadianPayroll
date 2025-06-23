@@ -45,7 +45,7 @@ source_encoding = 'utf-8-sig'
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
 # built documents.
-version = '410-H20 (Fall 2025)'
+version = '2025-06'
 
 
 # -- Options for HTML output -------------------------------------------------
@@ -59,6 +59,23 @@ latex_documents = [
     ('index', 'Payroll-Administration_2025.tex', 'Canadian Payroll Administration (2025)', 'Alexandre Bobkov', 'manual'),
 ]
 
+# SimplePDF Customization
+
 imgmath_image_format = 'png'
 imgmath_dvi_png_args = ['-gamma', '1.5', '-D', '110', '-bg', 'Transparent']
 imgmath_use_preview = True
+
+simplepdf_style = 'default'
+simplepdf_coverpage = True
+simplepdf_toc_depth = 3
+simplepdf_title = 'Canadian Payroll Administration (2025)'
+simplepdf_author = 'Alexandre Bobkov'
+simplepdf_css = '_static/simplepdf.css'
+simplepdf_style = 'green'
+simplepdf_file_name = 'Payroll Administration 2025.pdf'
+simplepdf_vars = {
+    #'primary': "#23A3EC",
+    'links': '#FF3333',
+    'bottom-center-content': '"Payroll Administration 2025"',
+    'bottom-right-content': '"Alexandre Bobkov"',
+}

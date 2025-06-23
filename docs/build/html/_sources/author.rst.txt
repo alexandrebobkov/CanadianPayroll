@@ -1,0 +1,10 @@
+#############################################
+ABOUT THE AUTHOR
+#############################################
+
+.. _author:
+.. figure:: ../_static/images/author.jpg
+   :align: center
+   :width: 200px
+
+   **Alexander Bobkov**
