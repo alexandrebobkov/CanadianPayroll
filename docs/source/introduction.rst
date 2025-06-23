@@ -15,7 +15,7 @@ Students will learn how to:
 - Individual pay calculation process.
 
 Learning Outcomes
-------------------
+******************
 
 The material of this study guide aim to make students to be be able to:
 
