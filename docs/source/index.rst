@@ -28,4 +28,3 @@ Glossary
 =========
 
 * :ref:`genindex`
-
