@@ -41,6 +41,7 @@ Material Structure Overview
 #. Calculating Net Pay
 #. Calculating Employer's Source Deduction Remittances
 #. Termination of Employment:
+
    - Record of Employment (ROE)
    - Termination Payments
    - Retirement Pay
