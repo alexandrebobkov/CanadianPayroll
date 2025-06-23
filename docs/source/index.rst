@@ -29,6 +29,7 @@ to confidently perform essential payroll functions encountered in day-to-day ope
    rates_2025
    references
    errata
+   syntax
 
 Glossary
 =========
