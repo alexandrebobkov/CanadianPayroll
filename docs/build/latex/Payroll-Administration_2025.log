@@ -728,4 +728,216 @@ Package: sphinxmessages 2019/01/04 v2.0 Localized LaTeX macros (Sphinx team)
 
 
 Writing index file Payroll-Administration_2025.idx
-LaTeX 
+LaTeX Font Info:    Trying to load font information for T1+qtm on input line 73
+.
+(/usr/share/texmf/tex/latex/tex-gyre/t1qtm.fd
+File: t1qtm.fd 2009/09/25 v1.2 font definition file for T1/qtm
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count323
+\l__pdf_internal_box=\box120
+)
+(./Payroll-Administration_2025.aux)
+\openout1 = `Payroll-Administration_2025.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count324
+\scratchdimen=\dimen294
+\scratchbox=\box121
+\nofMPsegments=\count325
+\nofMParguments=\count326
+\everyMPshowfont=\toks36
+\MPscratchCnt=\count327
+\MPscratchDim=\dimen295
+\MPnumerator=\count328
+\makeMPintoPDFobject=\count329
+\everyMPtoPDFconversion=\toks37
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+\c@literalblock=\count330
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=469.75502pt
+* \textheight=650.43001pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=36.135pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package hyperref Info: Link coloring ON on input line 73.
+(./Payroll-Administration_2025.out) (./Payroll-Administration_2025.out)
+\@outlinefile=\write5
+\openout5 = `Payroll-Administration_2025.out'.
+
+Package hyperref Info: Option `pageanchor' set `false' on input line 81.
+LaTeX Font Info:    Trying to load font information for T1+qhv on input line 81
+.
+
+(/usr/share/texmf/tex/latex/tex-gyre/t1qhv.fd
+File: t1qhv.fd 2009/09/25 v1.2 font definition file for T1/qhv
+)<<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>>
+LaTeX Font Info:    Trying to load font information for U+msa on input line 81.
+
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 81.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf/fonts/enc/
+dvips/tex-gyre/q-ec.enc}] [2
+
+
+] (./Payroll-Administration_2025.toc)
+\tf@toc=\write6
+\openout6 = `Payroll-Administration_2025.toc'.
+
+ [1
+
+] [2
+
+]
+LaTeX Font Info:    Trying to load font information for T1+txtt on input line 8
+8.
+
+(/usr/share/texlive/texmf-dist/tex/latex/txfonts/t1txtt.fd
+File: t1txtt.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    Trying to load font information for TS1+qtm on input line 1
+04.
+
+(/usr/share/texmf/tex/latex/tex-gyre/ts1qtm.fd
+File: ts1qtm.fd 2009/09/25 v1.2 font definition file for TS1/qtm
+) [1{/usr/share/texmf/fonts/enc/dvips/tex-gyre/q-ts1.enc}] [2
+
+]
+Chapter 1.
+[3] [4
+
+]
+Chapter 2.
+[5] [6
+
+]
+Chapter 3.
+[7] [8
+
+]
+Chapter 4.
+[9] [10
+
+]
+Chapter 5.
+[11] [12
+
+]
+Chapter 6.
+[13] [14
+
+]
+Chapter 7.
+[15] [16] [17] [18]
+Chapter 8.
+[19
+
+] [20]
+Chapter 9.
+[21
+
+] [22
+
+]
+Chapter 10.
+[23] [24
+
+]
+Chapter 11.
+(./Payroll-Administration_2025.ind) [25] (./Payroll-Administration_2025.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+ ***********
+Package rerunfilecheck Info: File `Payroll-Administration_2025.out' has not cha
+nged.
+(rerunfilecheck)             Checksum: 7B689DFC26306B7BD1A8BCD1EAE0F3C9;5147.
+ ) 
+Here is how much of TeX's memory you used:
+ 16862 strings out of 476106
+ 286328 string characters out of 5793932
+ 1943975 words of memory out of 5000000
+ 38405 multiletter control sequences out of 15000+600000
+ 614330 words of font info for 77 fonts, out of 8000000 for 9000
+ 60 hyphenation exceptions out of 8191
+ 72i,14n,83p,1216b,575s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share
+/texmf/fonts/type1/public/tex-gyre/qhvb.pfb></usr/share/texmf/fonts/type1/publi
+c/tex-gyre/qhvbi.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qhvr.pfb></u
+sr/share/texmf/fonts/type1/public/tex-gyre/qtmb.pfb></usr/share/texmf/fonts/typ
+e1/public/tex-gyre/qtmr.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qtmri
+.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/t1xtt.pfb>
+Output written on Payroll-Administration_2025.pdf (29 pages, 196341 bytes).
+PDF statistics:
+ 381 PDF objects out of 1000 (max. 8388607)
+ 330 compressed objects within 4 object streams
+ 92 named destinations out of 1000 (max. 500000)
+ 269 words of extra memory for PDF output out of 10000 (max. 10000000)
+
