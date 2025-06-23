@@ -31,6 +31,8 @@ The material of this study guide aim to make students to be be able to:
   - Workers' Compensation Acts
   - Québec-specific legislation
 
+Recommended Course Material
+----------------------------
 
 In other words, the material covers the foundational knowledge and technical skills needed to confidently perform payroll tasks in a variety of employment settings.
 
