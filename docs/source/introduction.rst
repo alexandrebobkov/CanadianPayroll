@@ -34,6 +34,21 @@ The material of this study guide aim to make students to be be able to:
 Recommended Course Material
 ----------------------------
 
+Material Structure Overview
+----------------------------
+
+1. Introduction to Canadian Payroll
+#. Labour and Employment Standards
+#. Accounting for Payroll
+#. Calculating Gross Pay
+#. Pensionable, Insurable, and Taxable Earnings
+#. Calculating Net Pay
+#. Calculating Employer's Source Deduction Remittances
+#. Termination of Employment:
+   - Record of Employment (ROE)
+   - Termination Payments
+   - Retirement Pay
+
 In other words, the material covers the foundational knowledge and technical skills needed to confidently perform payroll tasks in a variety of employment settings.
 
 ***********************
