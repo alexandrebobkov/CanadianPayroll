@@ -15,6 +15,7 @@ Canadian Payroll Administration
    :caption: Table of Contents:
    :numbered:
 
+   preface
    introduction
    payroll_accounting
    review_questions
