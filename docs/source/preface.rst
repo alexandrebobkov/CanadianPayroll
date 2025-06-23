@@ -1,3 +1,7 @@
+######################
+PREFACE
+######################
+
 Through this material, students will gain a comprehensive understanding of core payroll principles and practices. They will explore legislative compliance requirements and the role of key regulatory bodies that govern payroll operations in Canada.
 
 Students will learn how to:
