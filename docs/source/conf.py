@@ -6,10 +6,10 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Canadian Payroll Administration'
+project = 'Payroll Administration'
 copyright = '2025'
 author = 'Alexandre Bobkov'
-release = 'HR'
+release = 'Fall 2025'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
@@ -45,7 +45,7 @@ source_encoding = 'utf-8-sig'
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
 # built documents.
-version = 'Fall 2025'
+version = 'v2.0'
 
 
 # -- Options for HTML output -------------------------------------------------

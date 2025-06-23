@@ -1,5 +1,5 @@
 const DOCUMENTATION_OPTIONS = {
-    VERSION: 'HR',
+    VERSION: 'Fall 2025',
     LANGUAGE: 'en',
     COLLAPSE_INDEX: false,
     BUILDER: 'simplepdf',
