@@ -32,10 +32,10 @@ The material of this study guide aim to make students to be be able to:
   - Québec-specific legislation
 
 Recommended Course Material
-----------------------------
+****************************
 
 Material Structure Overview
-----------------------------
+****************************
 
 1. Introduction to Canadian Payroll
 #. Labour and Employment Standards
