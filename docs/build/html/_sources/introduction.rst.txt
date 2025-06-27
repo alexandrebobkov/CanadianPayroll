@@ -2,6 +2,23 @@
 INTRODUCTION
 ############
 
+Outcomes
+========
+
+Applying federal and provincial payroll legislation, regulations, and policies to ensure compliance with the legal framework governing payroll in Canada.
+
+  - CPP/QPP
+  - EI
+  - Income Tax (Federal, ON and QC)
+
+Calculating regular individual pay
+
+Calculating non-regular individual pay
+
+Calculating termination pay
+
+Completing a Record of Employment (ROE)
+
 ***********************
 Payroll Legal Framework
 ***********************
