@@ -45,7 +45,7 @@ source_encoding = 'utf-8-sig'
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
 # built documents.
-version = '2025-06'
+version = 'Fall 2025'
 
 
 # -- Options for HTML output -------------------------------------------------
