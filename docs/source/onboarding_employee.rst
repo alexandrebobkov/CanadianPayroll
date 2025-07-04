@@ -164,7 +164,5 @@ Example Evaluations
 ONBOARDING EMPLOYEE EXERCISE
 ============================
 
-Download and fill-up the required forms.
-
-`Download the onboarding form <_static/td1on-fill-25e.pdf>`_
+Using MS Forms, create a questionaire for gathering all required information for onboarding a new employee for the payroll purposes.
 
