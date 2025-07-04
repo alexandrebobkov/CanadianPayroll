@@ -166,3 +166,5 @@ ONBOARDING EMPLOYEE EXERCISE
 
 Download and fill-up the required forms.
 
+`Download the onboarding form <files/myform.pdf>`_
+
