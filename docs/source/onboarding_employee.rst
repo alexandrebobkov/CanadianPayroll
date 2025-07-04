@@ -164,5 +164,5 @@ Example Evaluations
 ONBOARDING EMPLOYEE EXERCISE
 ============================
 
-Using MS Forms, create a questionaire for gathering all required information for onboarding a new employee for the payroll purposes.
+Using MS Forms, create a questionaire for gathering all required information for onboarding a new employee at Quebec-based company for the payroll purposes.
 
