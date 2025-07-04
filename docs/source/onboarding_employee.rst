@@ -161,8 +161,9 @@ Example Evaluations
 - **Overclaimed** dependant credit – only one is eligible
 - Needs correction on federal and AB TD1 forms
 
-ONBOARDING EMPLOYEE EXERCISE
-============================
+.. important::
 
-Using MS Forms, create a questionaire for gathering all required information for onboarding a new employee at Quebec-based company for the payroll purposes.
+   ONBOARDING EMPLOYEE EXERCISE
+
+   Using MS Forms, create a questionaire for gathering all required information for onboarding a new employee at Quebec-based company for the payroll purposes.
 
