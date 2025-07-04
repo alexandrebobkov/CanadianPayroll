@@ -1,19 +1,10 @@
 TD1
 ===
+ 
+TD1 - 2025 Personal Tax Credits Return
+--------------------------------------
+ 
 
-TD1 E (25) (Front) 
- 
-2025 Personal Tax Credits Return 
- 
-Read page 2 before filling out this form. Your employer or payer will use 
-this form to determine the amount of your tax deductions. 
- 
-Fill out this form based on the best estimate of your circumstances. 
- 
-If you do not fill out this form, your tax deductions will only include the 
-basic personal amount, estimated by your employer or payer based on the 
-income they pay you. 
- 
 Last name ^
 First name and initial(s) ^
 Date of birth (Year/Month/Day) ^
