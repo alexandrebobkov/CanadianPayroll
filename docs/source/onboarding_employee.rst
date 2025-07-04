@@ -72,9 +72,9 @@ Required Federal and Provincial/Territorial Forms
 
 Forms:
 
-- TD1 (federal)
-- TD1 (provincial/territorial)
-- Québec employees: also TP-1015.3-V
+- TD1 (Federal)
+- TD1 (Provincial/Territorial)
+- TP-1015.3-V (Québec employees)
 
 **Provincial/territorial withholding** is based on *province of employment*, but tax liability is based on *province of residence*.
 
