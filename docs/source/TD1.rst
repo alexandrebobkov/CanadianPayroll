@@ -4,13 +4,12 @@ TD1
 TD1 - 2025 Personal Tax Credits Return
 --------------------------------------
  
-
-Last name ^
-First name and initial(s) ^
-Date of birth (Year/Month/Day) ^
-Employee number ^
- 
-Address ^
++---------------------------+---------------------------+
+| Last name                 | |
+| First name and initial(s) | |
+| Date of birth (Year/Month/Day) ^
+| Employee number ^
+| Address ^
 Postal code ^
 For non-residents only - Country of permanent residence ^
 Social insurance number (enter 9 digits) ^
