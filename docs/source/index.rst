@@ -26,6 +26,7 @@ to confidently perform essential payroll functions encountered in day-to-day ope
    payroll_accounting
    review_questions
    onboarding_employee
+   calculating-net-pay
    rates_2025
    references
    errata
