@@ -166,5 +166,5 @@ ONBOARDING EMPLOYEE EXERCISE
 
 Download and fill-up the required forms.
 
-`Download the onboarding form <_static/myform.pdf>`_
+`Download the onboarding form <_static/td1on-fill-25e.pdf>`_
 
