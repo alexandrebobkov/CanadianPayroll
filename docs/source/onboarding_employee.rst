@@ -190,12 +190,10 @@ Review Questions
 #. What is the significance of accurately entering the "Date Hired" field when setting up a new employee profile in Sage 50?
 
    *Accurately entering the "Date Hired" in Sage 50 is a critical step in ensuring the integrity of payroll records and overall HR 
-   compliance. This field defines the employee’s official start date, which determines pay cycle alignment, benefit entitlement periods, 
+   compliance. This field defines the employee's official start date, which determines pay cycle alignment, benefit entitlement periods, 
    and the correct application of mandatory deductions such as CPP and EI. It also plays a pivotal role in historical payroll 
    reporting—including audit readiness and the generation of year-end T4 slips. Furthermore, the hire date is essential when preparing a 
-   Record of Employment (ROE), as it establishes the starting point for the employee’s insurable earnings and service duration. Ensuring 
-   this date matches government-issued ID and signed employment agreements helps maintain consistency across legal and financial documents, 
-   reducing the risk of discrepancies during audits or CRA reviews.*
+   Record of Employment (ROE), as it establishes the starting point for the employee's insurable earnings and service duration.*
 
 Content Review Highlights
 =========================
