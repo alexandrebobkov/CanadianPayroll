@@ -165,8 +165,8 @@ Entering Employee Information into Sage50
 =========================================
 
 To enter a new employee into the Sage 50 Payroll module (Canada edition), start by navigating to the Employees & Payroll section in the 
-Home window. Right-click the Employees icon and choose "Add Employee" to begin creating employee's record. Input the employee's full legal name, 
-keeping in mind that last names longer than 20 characters might be truncated on T4 tax slips. Then proceed to fill in their personal and 
+Home window. Right-click the Employees icon and choose "Add Employee" to begin creating employee's record. Input the employee's full legal 
+name, keeping in mind that last names longer than 20 characters might be truncated on T4 tax slips. Then proceed to fill in their personal and 
 payroll details across several tabs: the Personal tab for birth date and contact info, the Taxes tab to select the appropriate provincial 
 tax table, the Income tab to configure their pay frequency, and the Deductions tab to define benefit or pension deductions. You'll also 
 want to enter their bank details for direct deposit—placeholder info can be used if final banking data isn't yet available.
@@ -174,6 +174,8 @@ For compliance, be sure to complete and store TD1 forms (Federal and Provincial)
 these. You'll also need to set up EI, CPP, and Income Tax deductions and link them to remittance vendors in the system. Once all 
 information is reviewed for accuracy, save and close the record to finalize setup. If you prefer a guided approach, Sage 50 also offers 
 an Employee Wizard to walk you through these steps.
+
+.. important::
 
 
 .. image:: _static/screenshots/onboarding-employee_001.png
