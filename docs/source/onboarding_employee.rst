@@ -205,13 +205,25 @@ with privacy regulations and maintains proper standards for handling employee in
 
    *Under Canadian payroll administration and the Personal Information Protection and Electronic Documents Act (PIPEDA), sharing an employee’s date of birth—even for positive intentions like workplace recognition—is not legally or ethically appropriate without the employee’s explicit consent.
 PIPEDA requires employers to:
+
       - Limit the collection, use, and disclosure of personal information to what is necessary for clearly identified business purposes.
       - Obtain meaningful consent before using personal data for any purpose beyond what it was originally collected for—such as payroll or benefits administration.
       - Protect employee privacy by restricting access to personal information on a strict need-to-know basis.
 
-In this case, using the date of birth for celebrations or acknowledgments is outside the scope of payroll processing. Even if the Payroll department holds this information, it cannot be disclosed to supervisors or other staff unless the employee has formally agreed to such use.
+In this case, using the date of birth for celebrations or acknowledgments is outside the scope of payroll processing. Even if the Payroll 
+department holds this information, it cannot be disclosed to supervisors or other staff unless the employee has formally agreed to such use.
 
-To make the practice of sharing employee birth dates for recognition purposes both appropriate and compliant, the Payroll department must establish a structured framework aligned with Canadian privacy legislation, particularly PIPEDA. This begins with creating a formal consent process, allowing employees to voluntarily authorize the use of their birth date for non-payroll purposes, such as birthday celebrations. Consent must be clearly informed, specifying the intended use, who will access the information, and how long it will be retained. Employees should also retain the right to withdraw consent at any time. The company’s privacy policy should be revised to include provisions for using personal information in recognition programs, and any updates must be effectively communicated to all staff, including supervisors. Access to birth date data should remain restricted to authorized personnel, and the information must only be used for its approved purpose. Payroll should maintain secure documentation of all employee consents and conduct periodic audits to ensure proper data usage. In addition, training programs should be provided to supervisors and managers to reinforce privacy obligations and encourage a culture of respect for personal data. By implementing these measures, the Payroll department can support positive workplace initiatives while safeguarding employee privacy and meeting legal standards.*
+To make the practice of sharing employee birth dates for recognition purposes both appropriate and compliant, the Payroll department must 
+establish a structured framework aligned with Canadian privacy legislation, particularly PIPEDA. This begins with creating a formal 
+consent process, allowing employees to voluntarily authorize the use of their birth date for non-payroll purposes, such as birthday 
+celebrations. Consent must be clearly informed, specifying the intended use, who will access the information, and how long it will be 
+retained. Employees should also retain the right to withdraw consent at any time. The company's privacy policy should be revised to 
+include provisions for using personal information in recognition programs, and any updates must be effectively communicated to all staff, 
+including supervisors. Access to birth date data should remain restricted to authorized personnel, and the information must only be used 
+for its approved purpose. Payroll should maintain secure documentation of all employee consents and conduct periodic audits to ensure 
+proper data usage. In addition, training programs should be provided to supervisors and managers to reinforce privacy obligations and 
+encourage a culture of respect for personal data. By implementing these measures, the Payroll department can support positive workplace 
+initiatives while safeguarding employee privacy and meeting legal standards.*
 
 
 Content Review Highlights
