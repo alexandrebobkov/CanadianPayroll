@@ -187,7 +187,12 @@ an Employee Wizard to walk you through these steps.
 Review Questions
 ----------------
 
-#. Why is it important to enter "Date Hired" value when entering new employee information into Sage50?
+#. What is the significance of accurately entering the "Date Hired" field when setting up a new employee profile in Sage 50?
+
+   *Entering the "Date Hired" field in Sage 50 is essential for maintaining accurate employment records and ensuring proper payroll 
+   processing. This value establishes the employee’s official start date, which directly affects pay cycle eligibility, benefit accrual 
+   timelines, statutory deductions (such as CPP and EI), and historical reporting for audits or T4 slips. Recording the correct hire date 
+   also supports compliance with government regulations and aligns Sage 50 records with signed contracts and onboarding documents.*
 
 Content Review Highlights
 =========================
