@@ -187,7 +187,7 @@ an Employee Wizard to walk you through these steps.
 Review Questions
 ----------------
 
-#. Why is it important to enter "Date Hired" value?
+#. Why is it important to enter "Date Hired" value when entering new employee information into Sage50?
 
 Content Review Highlights
 =========================
