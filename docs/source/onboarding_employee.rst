@@ -19,6 +19,7 @@ Key Steps on Onboarding an Employee:
 * Enroll in Benefits or Pension Programs: If applicable, the employee may be signed up for group insurance, retirement savings plans (like RRSP or pension plans), and other benefits. These deductions must be accurately reflected in payroll.
 
 * Assign Statutory Deductions that Employers must withhold and remit
+
    - CPP (Canada Pension Plan)
 
    - EI (Employment Insurance)
