@@ -184,6 +184,11 @@ an Employee Wizard to walk you through these steps.
 
 .. image:: _static/screenshots/onboarding-employee_001.png
 
+Review Questions
+----------------
+
+#. Why is it important to enter "Date Hired" value?
+
 Content Review Highlights
 =========================
 
