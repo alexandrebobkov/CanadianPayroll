@@ -22,19 +22,19 @@ Key Steps on Onboarding an Employee:
    - CPP (Canada Pension Plan)
 
    - EI (Employment Insurance)
-   
+
    - Income Tax (based on TD1 form)
 
 * Confirm Employment Agreement & Start Date
 
 
 🍁 Compliance & Record Keeping
-- Employers in Canada are responsible for keeping accurate records of employee data, pay stubs, deductions, and remittances for at least 6 years.
-- If audited by CRA, these documents must be readily available.
-- Employers must also provide T4 slips by end of February each year to summarize annual earnings and deductions for tax filing.
-Let me know if you want a sample checklist or onboarding template tailored to a specific province or industry—I'd be happy to help set that up.
 
+* Employers in Canada are responsible for keeping accurate records of employee data, pay stubs, deductions, and remittances for at least 6 years.
 
+* If audited by CRA, these documents must be readily available.
+
+* Employers must also provide T4 slips by end of February each year to summarize annual earnings and deductions for tax filing. 
 
 Employment Standards Requirements
 =================================
