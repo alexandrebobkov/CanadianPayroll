@@ -199,9 +199,17 @@ Review Questions
    Record of Employment (ROE), as it establishes the starting point for the employee's insurable earnings and service duration.*
 
 #. Within the scope of Payroll Administration, how should the department ethically and legally respond when a supervisor requests access 
-to an employee’s date of birth for the purpose of workplace recognition, given that this personal information is already held by payroll? 
+to an employee's date of birth for the purpose of workplace recognition, given that this personal information is already held by payroll? 
 Additionally, what procedures or company-wide practices should be implemented to ensure that the sharing of such sensitive data complies 
 with privacy regulations and maintains proper standards for handling employee information?
+
+   *Under Canadian payroll administration and the Personal Information Protection and Electronic Documents Act (PIPEDA), sharing an employee’s date of birth—even for positive intentions like workplace recognition—is not legally or ethically appropriate without the employee’s explicit consent.
+PIPEDA requires employers to:
+- Limit the collection, use, and disclosure of personal information to what is necessary for clearly identified business purposes.
+- Obtain meaningful consent before using personal data for any purpose beyond what it was originally collected for—such as payroll or benefits administration.
+- Protect employee privacy by restricting access to personal information on a strict need-to-know basis.
+In this case, using the date of birth for celebrations or acknowledgments is outside the scope of payroll processing. Even if the Payroll department holds this information, it cannot be disclosed to supervisors or other staff unless the employee has formally agreed to such use.*
+
 
 Content Review Highlights
 =========================
