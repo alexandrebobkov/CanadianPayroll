@@ -161,6 +161,9 @@ Deductions:
 - Remote area housing
 - Deductible support payments
 
+Entering Employee Information into Sage50
+=========================================
+
 Content Review Highlights
 =========================
 
