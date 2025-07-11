@@ -1,6 +1,6 @@
-#####################
-OBNOARDING EMPLOYEE
-#####################
+##########################
+🍁 OBNOARDING EMPLOYEE 🍁
+##########################
 
 In the context of Canadian payroll administration, onboarding an employee refers to the formal process of integrating a new hire into 
 both the organizational and payroll systems. It ensures that the employee is properly registered, legally compliant, and ready to be paid 
