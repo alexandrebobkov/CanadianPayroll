@@ -164,6 +164,8 @@ Deductions:
 Entering Employee Information into Sage50
 =========================================
 
+.. image:: _static/screenshots/onboarding-employee-001.png
+
 Content Review Highlights
 =========================
 
