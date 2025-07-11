@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Payroll Administration'
+project = '🍁 Payroll Administration'
 copyright = '2025'
 author = 'Alexandre Bobkov'
 release = 'Fall 2025'
