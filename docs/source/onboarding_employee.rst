@@ -162,7 +162,7 @@ Deductions:
 - Deductible support payments
 
 Entering Employee Information into Sage50
-=========================================
+-----------------------------------------
 
 To enter a new employee into the Sage 50 Payroll module (Canada edition), start by navigating to the Employees & Payroll section in the 
 Home window. Right-click the Employees icon and choose "Add Employee" to begin creating employee's record. Input the employee's full legal 
@@ -172,6 +172,9 @@ want to enter their bank details for direct deposit. For compliance, be sure to 
 separately, as Sage50 does not automatically generate these. You'll also need to set up EI, CPP, and Income Tax deductions and link them to remittance vendors in the system. Once all 
 information is reviewed for accuracy, save and close the record to finalize setup. If you prefer a guided approach, Sage50 also offers 
 an Employee Wizard to walk you through these steps.
+
+Entering Perdonal Information
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. important::
 
