@@ -198,6 +198,11 @@ Review Questions
    reporting—including audit readiness and the generation of year-end T4 slips. Furthermore, the hire date is essential when preparing a 
    Record of Employment (ROE), as it establishes the starting point for the employee's insurable earnings and service duration.*
 
+#. Within the scope of Payroll Administration, how should the department ethically and legally respond when a supervisor requests access 
+to an employee’s date of birth for the purpose of workplace recognition, given that this personal information is already held by payroll? 
+Additionally, what procedures or company-wide practices should be implemented to ensure that the sharing of such sensitive data complies 
+with privacy regulations and maintains proper standards for handling employee information?
+
 Content Review Highlights
 =========================
 
