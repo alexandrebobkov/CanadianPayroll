@@ -177,6 +177,12 @@ an Employee Wizard to walk you through these steps.
 
 .. important::
 
+  To maintain accuracy and compliance in Sage 50 Payroll, carefully verify that all employee information entered into the system,
+  including full legal name, Social Insurance Number (SIN), residential address, and compensation details, matches the data provided on 
+  official documentation such as the signed employment contract and government-issued identification (e.g. driver's licence, Employment Contract). 
+  Double-checking these entries helps prevent administrative errors and ensures that payroll records remain consistent with legal and 
+  regulatory standards.
+
 
 .. image:: _static/screenshots/onboarding-employee_001.png
 
