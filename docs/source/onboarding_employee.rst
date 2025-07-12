@@ -86,7 +86,7 @@ Union Membership
 For unionized workplaces:
 
 - Union dues to be deducted
-- Employees sign authorization for deduction
+- Employees signature authorization for deduction
 - Exemptions may apply, but dues equivalent still required
 
 Benefit Enrollment Forms
