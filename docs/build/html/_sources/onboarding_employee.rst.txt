@@ -8,15 +8,19 @@ accurately and on time.
 
 Key Steps on Onboarding an Employee:
 
-*  Collect Required Personal Information: Includes full legal name, address, date of birth, and Social Insurance Number (SIN). The SIN is critical for tax reporting to the CRA (Canada Revenue Agency).
+*  Collect Required Personal Information: Includes full legal name, address, date of birth, and Social Insurance Number (SIN). The SIN is 
+critical for tax reporting to the CRA (Canada Revenue Agency).
 
-* Obtain Federal & Provincial Tax Forms: New employees must complete Form TD1 (Federal and possibly a Provincial version) to declare tax credits and determine income tax withholdings.
+* Obtain Federal & Provincial Tax Forms: New employees must complete Form TD1 (Federal and possibly a Provincial version) to declare tax 
+credits and determine income tax withholdings.
 
 * Set Up Banking Info for Direct Deposit: Employees usually provide a void cheque or bank form to set up electronic payments.
 
-* Register the Employee in the Payroll System: Involves entering all personal and job-related data, assigning a payroll ID, and verifying employment status (e.g. full-time, part-time, contract).
+* Register the Employee in the Payroll System: Involves entering all personal and job-related data, assigning a payroll ID, and verifying 
+employment status (e.g. full-time, part-time, contract).
 
-* Enroll in Benefits or Pension Programs: If applicable, the employee may be signed up for group insurance, retirement savings plans (like RRSP or pension plans), and other benefits. These deductions must be accurately reflected in payroll.
+* Enroll in Benefits or Pension Programs: If applicable, the employee may be signed up for group insurance, retirement savings plans (like 
+RRSP or pension plans), and other benefits. These deductions must be accurately reflected in payroll.
 
 * Assign Statutory Deductions that Employers must withhold and remit
 
@@ -31,13 +35,14 @@ Key Steps on Onboarding an Employee:
 
 🍁 Compliance & Record Keeping
 
-* Employers in Canada are responsible for keeping accurate records of employee data, pay stubs, deductions, and remittances for at least 6 years.
+* Employers in Canada are responsible for keeping accurate records of employee data, pay stubs, deductions, and remittances for 
+at least 6 years.
 
 * If audited by CRA, these documents must be readily available.
 
 * Employers must also provide T4 slips by end of February each year to summarize annual earnings and deductions for tax filing. 
 
-Employment Standards Requirements
+ Employment Standards Requirements
 =================================
 
 Each province/territory, as well as the federal government, sets minimum employment standards, including:
@@ -71,17 +76,17 @@ This internal document includes:
 - New employee's basic info
 - Start date, department, salary
 - Probation details
-- Hiring authority’s signature
+- Hiring authority's signature
 
 **Important:** Employer must obtain a valid SIN. A SIN starting with 9 must have a valid expiry date and associated work permit.
 
 Union Membership
 ----------------
-
+ 
 For unionized workplaces:
 
-- Union dues are deducted
-- Employees sign authorization for deduction
+- Amount of union dues to be deducted
+- Employees signature authorization for deduction
 - Exemptions may apply, but dues equivalent still required
 
 Benefit Enrollment Forms
@@ -173,7 +178,7 @@ separately, as Sage50 does not automatically generate these. You'll also need to
 information is reviewed for accuracy, save and close the record to finalize setup. If you prefer a guided approach, Sage50 also offers 
 an Employee Wizard to walk you through these steps.
 
-Entering Perdonal Information
+Entering Personal Information
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. important::
@@ -186,6 +191,31 @@ Entering Perdonal Information
 
 
 .. image:: _static/screenshots/onboarding-employee_001.png
+
+Entering Work Details
+^^^^^^^^^^^^^^^^^^^^^
+
+.. image:: _static/screenshots/onboarding-employee_002.png
+
+Setting-up Tax Deductions
+^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. image:: _static/screenshots/onboarding-employee_003.png
+
+Entering Employee Compensation
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. image:: _static/screenshots/onboarding-employee_004.png
+
+Specifying Employee Deductions
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. image:: _static/screenshots/onboarding-employee_005.png
+
+Entering WSIB & Other Expenses
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. image:: _static/screenshots/onboarding-employee_006.png
 
 Review Questions
 ----------------
