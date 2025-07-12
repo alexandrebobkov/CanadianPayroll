@@ -23,9 +23,11 @@ to confidently perform essential payroll functions encountered in day-to-day ope
 
    preface
    introduction
+   onboarding_employee
+   compensation
    payroll_accounting
    review_questions
-   onboarding_employee
+   
    TD1
    calculating-net-pay
    rates_2025
