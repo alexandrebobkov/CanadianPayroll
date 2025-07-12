@@ -151,7 +151,7 @@ Additional Instructions:
 - Fill out TD1 only if claiming more than basic credit
 - Québec employees must always complete TP-1015.3-V
 
-Tax Credits (TP-1015.3-V – Québec)
+Tax Credits (TP-1015.3-V - Québec)
 ----------------------------------
 
 - Basic amount
@@ -167,7 +167,7 @@ Deductions:
 - Deductible support payments
 
 Entering Employee Information into Sage50
------------------------------------------
+=========================================
 
 To enter a new employee into the Sage 50 Payroll module (Canada edition), start by navigating to the Employees & Payroll section in the 
 Home window. Right-click the Employees icon and choose "Add Employee" to begin creating employee's record. Input the employee's full legal 
