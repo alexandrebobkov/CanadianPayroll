@@ -195,6 +195,13 @@ Entering Personal Information
 Entering Work Details
 ^^^^^^^^^^^^^^^^^^^^^
 
+.. image:: _static/screenshots/onboarding-employee_002.png
+
+Setting-up Tax Deductions
+^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. image:: _static/screenshots/onboarding-employee_003.png
+
 Review Questions
 ----------------
 
