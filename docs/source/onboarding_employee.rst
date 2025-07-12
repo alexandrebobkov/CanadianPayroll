@@ -192,6 +192,9 @@ Entering Personal Information
 
 .. image:: _static/screenshots/onboarding-employee_001.png
 
+Entering Work Details
+^^^^^^^^^^^^^^^^^^^^^
+
 Review Questions
 ----------------
 
