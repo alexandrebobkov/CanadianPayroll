@@ -21,10 +21,11 @@ to confidently perform essential payroll functions encountered in day-to-day ope
    :caption: Table of Contents:
    :numbered:
 
-   preface
+   preface 
    introduction
-   onboarding_employee
+   terminology
    compensation
+   onboarding_employee
    payroll_accounting
    review_questions
    
