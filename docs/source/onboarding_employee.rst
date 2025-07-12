@@ -207,6 +207,11 @@ Entering Employee Compensation
 
 .. image:: _static/screenshots/onboarding-employee_004.png
 
+Specifying Employee Deductions
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. image:: _static/screenshots/onboarding-employee_005.png
+
 Review Questions
 ----------------
 
