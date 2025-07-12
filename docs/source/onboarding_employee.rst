@@ -212,6 +212,11 @@ Specifying Employee Deductions
 
 .. image:: _static/screenshots/onboarding-employee_005.png
 
+Entering WSIB & Other Expenses
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. image:: _static/screenshots/onboarding-employee_006.png
+
 Review Questions
 ----------------
 
