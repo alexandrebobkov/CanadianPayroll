@@ -42,7 +42,7 @@ at least 6 years.
 
 * Employers must also provide T4 slips by end of February each year to summarize annual earnings and deductions for tax filing. 
 
-Employment Standards Requirements
+ Employment Standards Requirements
 =================================
 
 Each province/territory, as well as the federal government, sets minimum employment standards, including:
@@ -76,7 +76,7 @@ This internal document includes:
 - New employee's basic info
 - Start date, department, salary
 - Probation details
-- Hiring authority’s signature
+- Hiring authority's signature
 
 **Important:** Employer must obtain a valid SIN. A SIN starting with 9 must have a valid expiry date and associated work permit.
 
@@ -85,7 +85,7 @@ Union Membership
 
 For unionized workplaces:
 
-- Union dues are deducted
+- Union dues to be deducted
 - Employees sign authorization for deduction
 - Exemptions may apply, but dues equivalent still required
 
