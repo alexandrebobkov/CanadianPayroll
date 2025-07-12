@@ -82,10 +82,10 @@ This internal document includes:
 
 Union Membership
 ----------------
-
+ 
 For unionized workplaces:
 
-- Union dues to be deducted
+- Amount of union dues to be deducted
 - Employees signature authorization for deduction
 - Exemptions may apply, but dues equivalent still required
 
@@ -178,7 +178,7 @@ separately, as Sage50 does not automatically generate these. You'll also need to
 information is reviewed for accuracy, save and close the record to finalize setup. If you prefer a guided approach, Sage50 also offers 
 an Employee Wizard to walk you through these steps.
 
-Entering Perdonal Information
+Entering Personal Information
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. important::
