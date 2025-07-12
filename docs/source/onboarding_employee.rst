@@ -202,6 +202,11 @@ Setting-up Tax Deductions
 
 .. image:: _static/screenshots/onboarding-employee_003.png
 
+Entering Employee Compensation
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. image:: _static/screenshots/onboarding-employee_004.png
+
 Review Questions
 ----------------
 
