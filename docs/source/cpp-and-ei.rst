@@ -32,7 +32,7 @@ This chapter will cover the following topics:
 Canada Pension Plan
 -------------------
 
-Objective of this section is to enable you to Identify the following Canada Pension Plan components:
+Objective of this section is to enable you to identify the following Canada Pension Plan components:
 
   - Who must contribute to the Canada Pension Plan
   - Types of employment subject to Canada Pension Plan contributions
@@ -42,6 +42,13 @@ Objective of this section is to enable you to Identify the following Canada Pens
 
 Employment Insurance
 --------------------
+
+Objective of this section is to enable you to Identify the following Employment Insurance components:
+ Who must pay Employment Insurance premiums
+ Types of employment subject to Employment Insurance premiums
+ Types of employment not subject to Employment Insurance premiums
+ Payments and benefits subject to Employment Insurance premiums
+ Payments and benefits not subject to Employment Insurance premiums
 
 Record of Employment
 ---------------------
