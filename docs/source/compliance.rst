@@ -431,6 +431,11 @@ response that may result in fines and penalties.
 Reporting requirements that do not involve ongoing, regular reporting may not impose an
 immediate fine but may initiate a visit from an auditor or other official seeking compliance.
 
+    *Example:*
+
+    **Record of Employment (ROE)** issuance
+    Failure to issue a ROE within the established deadlines may result in a visit from an investigative officer from Service Canada.
+
 The Employee-Employer Relationship
 -----------------------------------
 
