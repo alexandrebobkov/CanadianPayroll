@@ -373,6 +373,28 @@ A payroll practitioner's knowledge base includes a thorough understanding of pay
 processes, and payroll reporting. In addition to technical expertise, practitioners must also possess strong personal and 
 professional skills to manage responsibilities effectively and adapt to evolving regulatory environments.
 
+Stakeholders are the individuals, groups, and agencies—both internal and external to the organization—who have a vested 
+interest in the function and output of the payroll department. Their involvement and expectations influence how payroll is 
+managed, ensuring that it aligns with organizational goals and legal obligations.
+
+Payroll management stakeholders include federal and provincial/territorial governments, internal stakeholders, and external 
+stakeholders. Internal stakeholders consist of employees, employers, and other departments within the organization, all of 
+whom rely on accurate and timely payroll services. External stakeholders encompass benefit carriers, courts, unions, pension 
+providers, charities, third-party administrators, and outsource or software vendors. These entities interact with payroll 
+data and processes, often requiring coordination and compliance.
+
+The federal parliament holds the authority to enact laws for the peace, order, and good government of Canada. It exercises 
+control over industries and undertakings that are inter-provincial, national, or international in nature, as well as 
+rganizations deemed to serve the general advantage of Canada or multiple provinces, including Crown corporations. 
+In contrast, provincial and territorial legislatures have jurisdiction over direct taxation for regional purposes and laws 
+concerning property, civil rights, and employment in sectors such as manufacturing, mining, construction, wholesale and 
+retail trade, service industries, and local businesses. Any industry or occupation not specifically under federal 
+jurisdiction falls within provincial or territorial control.
+
+Employers are required to adhere to the employment and labour standards legislated by the jurisdiction in which their 
+employees work, unless they are governed by federal labour standards. Where legislation mandates employer compliance, 
+financial penalties or legal action may be imposed to enforce adherence and promote accountability.
+
 Review Questions
 ----------------
 
