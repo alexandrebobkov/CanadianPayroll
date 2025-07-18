@@ -530,6 +530,21 @@ equipment.
 The relevance of the ownership of tools and equipment is in the size of the investment along
 with the cost of repair, replacement and insurance. 
 
+The worker is an employee when:
+  - The payer supplies most of the tools and equipment. 
+  - The payer retains the right of use over the tools and equipment provided to the worker.
+  - The worker supplies the tools and equipment and the payer reimburses the worker for their use
+
+The worker is a self-employed individual when:
+  - The worker provides the tools and equipment required and is responsible for the cost of repairs, insurance and maintenance and retains the right over the use of these assets.
+  - The worker supplies his or her own workspace, is responsible for the costs to maintain it, and does substantial work from that site.
+
+
+
+The worker is an employee when:
+
+The worker is a self-employed individual when:
+
 Review Summary
 --------------
 
