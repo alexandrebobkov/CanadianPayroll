@@ -52,7 +52,7 @@ direct deposit. Beyond ensuring timely payment, payroll practitioners are also r
 payroll-related information to all relevant stakeholders, supporting transparency, compliance, and organizational 
 accountability.
 
-**Payroll** is the process of paying employees in exchange for the services they perform. The
+**Payroll** is the process of paying employees in exchange for the work they perform. The
 term payroll can refer to:
   -  the department that administers the payroll
   -  the total number of people employed by an organization
@@ -697,10 +697,10 @@ The worker is a self-employed individual when:
 Opportunity for Profit
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
-A business relationship is often indicated when a worker has the ability to realize a profit or incur a loss, reflecting their
- control over the financial and operational aspects of the services they provide. Self-employed individuals typically 
- negotiate their own rates, choose which contracts to accept, and may take on multiple contracts simultaneously. To fulfill 
- contractual obligations, they often incur and manage expenses, which directly influence their potential for profit.
+A business relationship is often indicated when a worker has the ability to realize a profit or incur a loss, reflecting their 
+control over the financial and operational aspects of the services they provide. Self-employed individuals typically 
+negotiate their own rates, choose which contracts to accept, and may take on multiple contracts simultaneously. To fulfill 
+contractual obligations, they often incur and manage expenses, which directly influence their potential for profit.
 
 In contrast, employees generally do not bear financial risk or benefit from profit. While commission-based employees may 
 increase their earnings through performance, this does not represent profit in the traditional sense, as it does not reflect 
