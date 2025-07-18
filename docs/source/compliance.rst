@@ -393,11 +393,7 @@ involved. There are many ways to keep informed of changes that impact payroll.
 
 The following are some of the available resources:
 
-  - The Canadian Payroll Association offers a phone and email information service,
-Payroll InfoLine, for members' payroll related questions. The Association also has a
-website for members, www.payroll.ca, that contains guidelines, legislative updates
-and other useful payroll related information. As well, the Association is available on
-Twitter(@cdnpayroll), LinkedIn (The Canadian Payroll Association) and Facebook (@canadianpayroll).
+  - The Canadian Payroll Association offers a phone and email information service, Payroll InfoLine, for members' payroll related questions. The Association also has a website for members, www.payroll.ca, that contains guidelines, legislative updates and other useful payroll related information. As well, the Association is available on Twitter(@cdnpayroll), LinkedIn (The Canadian Payroll Association) and Facebook (@canadianpayroll).
 
   - The Canada Revenue Agency (CRA) produces guides, publications, Income Tax Bulletins, folios and Circulars, posts news bulletins and enables participation on an electronic mailing list with e-mail alerts for new content to the Canada.ca website.
 
