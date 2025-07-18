@@ -83,7 +83,7 @@ In payroll, there are also compliance requirements from other non-government sta
 for example, union collective agreements or group insurance policies. Payroll practitioners
 must therefore ensure the organization is compliant with all stakeholder requirements.
 
-What are the Responsibilities of Payroll Function?
+Responsibilities and Functions of Payroll
 ---------------------------------------------------
 
 The responsibilities of the payroll practitioner will differ depending on the size of the
