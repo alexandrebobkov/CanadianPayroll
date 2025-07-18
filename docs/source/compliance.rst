@@ -714,12 +714,12 @@ List three external stakeholders and explain their compliance requirements.
 
 Indicate the jurisdiction the following employees fall under:
 
-  - Canada Post Corporation
-  - An insurance company
-  - A uranium mining company
-  - Canadian Broadcasting Corporation
-  - A retail department store with locations in every province
-  - A chartered bank. 
+  - Canada Post Corporation (F)
+  - An insurance company (P)
+  - A uranium mining company (F)
+  - Canadian Broadcasting Corporation (F)
+  - A retail department store with locations in every province (P)
+  - A chartered bank (F)
 
 What is the difference between a contract of service and a contract for service? 
 
