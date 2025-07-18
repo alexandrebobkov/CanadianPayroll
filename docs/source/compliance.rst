@@ -407,14 +407,9 @@ electronic mailing list with e-mail alerts for new content to the Canada.ca webs
 online services and enables participation on an electronic mailing list with e-mail
 notifications of tax news articles - https://www.revenuquebec.ca/en/
 
-  - Employment/labour standards (federal, provincial and territorial) publications and
-websites. Each jurisdiction has a website providing information on their
-employment/labour standards. For example, the websites for Alberta and Québec are:
-Alberta - https://www.alberta.ca/employment-standards.aspx
-Québec - www.cnt.gouv.qc.ca/en
+  - Employment/labour standards (federal, provincial and territorial) publications and websites. Each jurisdiction has a website providing information on their employment/labour standards. For example, the websites for Alberta and Québec are: Alberta - https://www.alberta.ca/employment-standards.aspx Québec - www.cnt.gouv.qc.ca/en
 
-  - Employment and Social Development Canada (ESDC) and Service Canada (SC)
-publications including information regarding the Employment Insurance (EI) program and the Social Insurance Number - www.canada.ca
+  - Employment and Social Development Canada (ESDC) and Service Canada (SC) publications including information regarding the Employment Insurance (EI) program and the Social Insurance Number - www.canada.ca
 
   - CCH Canada Limited publishes a series of volumes on employment and labour law, pensions and benefits, etc., that supplies information on legislation with regular updates as changes become law - www.cch.ca
 
