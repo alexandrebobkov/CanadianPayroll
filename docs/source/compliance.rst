@@ -697,11 +697,20 @@ The worker is a self-employed individual when:
 Opportunity for Profit
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
-A business relationship is often indicated when a worker has the ability to realize a profit or incur a loss, reflecting their control over the financial and operational aspects of the services they provide. Self-employed individuals typically negotiate their own rates, choose which contracts to accept, and may take on multiple contracts simultaneously. To fulfill contractual obligations, they often incur and manage expenses, which directly influence their potential for profit.
+A business relationship is often indicated when a worker has the ability to realize a profit or incur a loss, reflecting their
+ control over the financial and operational aspects of the services they provide. Self-employed individuals typically 
+ negotiate their own rates, choose which contracts to accept, and may take on multiple contracts simultaneously. To fulfill 
+ contractual obligations, they often incur and manage expenses, which directly influence their potential for profit.
 
-In contrast, employees generally do not bear financial risk or benefit from profit. While commission-based employees may increase their earnings through performance, this does not represent profit in the traditional sense, as it does not reflect income earned beyond expenses. Moreover, employees do not typically share in a business’s profits or losses.
+In contrast, employees generally do not bear financial risk or benefit from profit. While commission-based employees may 
+increase their earnings through performance, this does not represent profit in the traditional sense, as it does not reflect 
+income earned beyond expenses. Moreover, employees do not typically share in a business's profits or losses.
 
-When assessing worker classification, the Canada Revenue Agency (CRA) considers the extent to which the individual controls their revenue and expenses. Another key factor is the method of payment: employees are usually compensated at a fixed rate based on a consistent pay schedule (e.g., hourly, weekly, or annually). Self-employed individuals, however, are often paid a flat rate for a specific job, especially when they absorb related costs—an arrangement that commonly signals a business relationship.
+When assessing worker classification, the Canada Revenue Agency (CRA) considers the extent to which the individual controls 
+their revenue and expenses. Another key factor is the method of payment: employees are usually compensated at a fixed rate 
+based on a consistent pay schedule (e.g., hourly, weekly, or annually). Self-employed individuals, however, are often paid a 
+flat rate for a specific job, especially when they absorb related costs—an arrangement that commonly signals a business 
+relationship.
 
 The worker is an employee when:
 
