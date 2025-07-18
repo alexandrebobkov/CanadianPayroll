@@ -42,7 +42,7 @@ type of relationship that exists between the worker and the organization and to 
 any payments made comply with legislation. 
 
 What are the Payroll's Objectives?
-===============================
+==================================
 
 The primary objective of the payroll function in every organization is to pay employees
 accurately and on time, in compliance with legislative requirements, for a full annual payroll
@@ -83,3 +83,7 @@ the potential for any fines or penalties.
 In payroll, there are also compliance requirements from other non-government stakeholders,
 for example, union collective agreements or group insurance policies. Payroll practitioners
 must therefore ensure the organization is compliant with all stakeholder requirements.
+
+What are the Responsibilities of Payroll Function?
+==================================================
+
