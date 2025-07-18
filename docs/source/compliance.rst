@@ -265,6 +265,15 @@ dealing with employment/labour standards. Employment/labour standards are rules 
 by each provincial/territorial jurisdiction that dictate issues such as hours of work, minimum
 wage, overtime, vacation pay and termination pay requirements. 
 
+    **Example:**
+
+    The Gap is a retail business with stores across Canada. The workers in each store are
+    governed under the employment/labour standards legislated in the jurisdiction in which they
+    work. For example, the minimum general hourly wage in effect January 1, 2020 (which is
+    governed by provincial/territorial employment/labour standards) is higher in Ontario than in
+    Prince Edward Island. An employee working in Ontario would receive a higher hourly
+    minimum wage than an employee with the same position in Prince Edward Island.
+
     Employers must follow the employment/labour standards legislated by the jurisdiction in
     which their employees work, unless they are governed by federal labour standards. Federal
     labour standards apply to certain industries and organizations, regardless of where the
