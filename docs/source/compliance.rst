@@ -760,6 +760,7 @@ Financial Risk: Ongoing operational costs or unreimbursed expenses reflect a hig
 Revenue Control: The ability to manage pricing, accept multiple contracts, and influence earnings supports classification under a contract for service.
 
 Collectively, these factors guide proper categorization for legal and tax purposes, helping organizations ensure compliance and mitigate potential risk.
+
 Review Questions
 ----------------
 
