@@ -298,6 +298,17 @@ business decisions.
 meet personal obligations. Employees must also be assured that their personal information is
 kept confidential. 
 
+**Other departments** - Many departments interact with payroll, either for information or
+reporting. According to the Canadian Payroll Association's 2020 National Payroll Week
+(NPW) Payroll Professional Research Survey, fifty-five percent of payroll practitioners
+report through the finance department and thirty-two percent report through the human
+resources department. Information such as general ledger posting, payroll and benefit costs
+and salary information must flow between payroll, human resources and finance in formats
+needed for their various requirements.
+
+In addition, other departments such as contracts and manufacturing often need payroll
+information for budgeting, analytical and quality purposes.
+
 Legislation
 -----------
 
