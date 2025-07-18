@@ -403,9 +403,7 @@ Twitter(@cdnpayroll), LinkedIn (The Canadian Payroll Association) and Facebook (
 Bulletins, folios and Circulars, posts news bulletins and enables participation on an
 electronic mailing list with e-mail alerts for new content to the Canada.ca website.
 
-  - The Revenu Québec (RQ) website provides guides, publications, bulletins, forms,
-online services and enables participation on an electronic mailing list with e-mail
-notifications of tax news articles - https://www.revenuquebec.ca/en/
+  - The Revenu Québec (RQ) website provides guides, publications, bulletins, forms, online services and enables participation on an electronic mailing list with e-mail notifications of tax news articles - https://www.revenuquebec.ca/en/
 
   - Employment/labour standards (federal, provincial and territorial) publications and websites. Each jurisdiction has a website providing information on their employment/labour standards. For example, the websites for Alberta and Québec are: Alberta - https://www.alberta.ca/employment-standards.aspx Québec - www.cnt.gouv.qc.ca/en
 
