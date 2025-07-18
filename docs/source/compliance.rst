@@ -332,6 +332,10 @@ one-third of the workforce in Canada belongs to a trade union. Payroll professio
 familiar with the role and activities of trade unions and the responsibilities of the employer
 and the payroll department in a unionized environment.
 
+**Pension Providers** are third party pension plan providers that may require payroll to provide
+enrolment reports on participating employees and length of service calculations, and to remit
+employee deductions and employer contributions
+
 Legislation
 -----------
 
