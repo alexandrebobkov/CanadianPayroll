@@ -489,6 +489,21 @@ held by the worker. Both the payer's control over the worker's daily activities 
 influence over the worker will be examined. The relevant factor is the payer's right to
 exercise control. Whether the payer actually exercises this right is irrelevant.
 
+Worker is an *Employee* when:
+
+  - The relationship is one of subordination.
+  - The payer will often direct, scrutinize, and effectively control many elements of how the work is performed.
+  - The payer controls both the results of the work and the method used to do the work.
+  - The payer determines what jobs the worker will do.
+  - The worker receives training or direction from the payer on how to do the work. 
+
+Worker is a *Self-Employed* when:
+
+  - Individual usually works independently, does not have anyone overseeing them.
+  - The worker is usually free to work when and for whom they choose and may provide their services to different payers at the same time.
+  - The worker can accept or refuse work from the payer.
+  - The working relationship between the payer and the worker does not present a degree of continuity, loyalty, security, subordination, or integration.
+
 Review Summary
 --------------
 
