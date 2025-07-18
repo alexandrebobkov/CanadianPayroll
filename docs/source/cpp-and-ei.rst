@@ -63,6 +63,11 @@ deductions from employees. The specific payroll withholding requirements for the
 in more detail in the later chapters; it is important to note that the CPP is often one of multiple retirement savings 
 vehicles available within an organization's compensation structure.
 
+.. note::
+
+    Employers located in Quebec are responsible for deducting Québec Pension Plan (QPP) contributions, instead
+    of CPP contributions, from their Québec employees and remitting those contributions to Revenu Québec (RQ). 
+
 Employment Insurance
 --------------------
 
