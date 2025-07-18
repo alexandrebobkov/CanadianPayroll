@@ -377,12 +377,11 @@ Where an employee-employer relationship exists, the CRA requires the employer to
   - report the employees' income and deductions on the appropriate information return
   - give the employees copies of their T4 slips by the end of February of the following calendar year
 
-Information on the factors to consider when determining whether an employee-employer
-relationship exists can be found in the Canada Revenue Agency guide, Employee or Self –
-Employed? – RC4110. The guide is available on the CRA’s website,
+Information on the factors to consider when determining whether an employee-employer relationship exists can be found in the 
+Canada Revenue Agency guide, Employee or Self-Employed? - RC4110. The guide is available on the CRA's website,
 https://www.canada.ca/en/revenue-agency.html.
-The factors used by the Canada Revenue Agency and Revenu Québec to determine whether
-an employee-employer relationship exists in Québec will be discussed in a later chapter.
+
+
 
 Review Summary
 --------------
