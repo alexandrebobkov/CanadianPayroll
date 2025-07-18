@@ -353,6 +353,9 @@ efficiently.
 Legislation
 -----------
 
+The Employee-Employer Relationship
+-----------------------------------
+
 Review Summary
 --------------
 
@@ -403,6 +406,12 @@ What is the primary objective of the payroll department?
 List four definitions of payroll. 
 
 List the three types of payroll management stakeholders and provide an example of each.
+
+Explain the difference between legislation and regulation.
+
+What are two examples of sources of information that you use (or could use) to keep upto-date on payroll compliance changes?
+
+List three external stakeholders and explain their compliance requirements. 
 
 Indicate the jurisdiction the following employees fall under:
 
