@@ -245,7 +245,7 @@ authority of the Parliament of Canada extends to all matters regarding:
   - ferries between a province and any British or foreign country or between two provinces
   - criminal law, except the Constitution of Courts of Criminal Jurisdiction, but including the Procedure in Criminal Matters
   - anything not specifically assigned to the provinces under this Act
-  
+
 The Canada Labour Code is legislation that consolidates certain statutes respecting labour.
 Part I deals with Industrial Relations, Part II deals with Occupational Health and Safety and
 Part III deals with Labour Standards. The primary objective of Part III is to establish and
@@ -253,12 +253,9 @@ protect employees' and employers' rights to fair and equitable conditions of emp
 Part III provisions establish minimum requirements concerning the working conditions of
 employees under federal jurisdiction in the following industries and organizations:
 
-  - industries and undertakings of inter-provincial/territorial, national, or international
-nature, that is, transportation, communications, radio and television broadcasting,
-banking, uranium mining, grain elevators, and flour and feed operations
-  - organizations whose operations have been declared for the general advantage of
-Canada or two or more provinces, and such Crown corporations as Canada Post
-Corporation, and the Canadian Broadcasting Corporation (CBC)
+  - industries and undertakings of inter-provincial/territorial, national, or international nature, that is, transportation, communications, radio and television broadcasting, banking, uranium mining, grain elevators, and flour and feed operations
+
+  - organizations whose operations have been declared for the general advantage of Canada or two or more provinces, and such Crown corporations as Canada Post Corporation, and the Canadian Broadcasting Corporation (CBC)
 
 Review Summary
 ==============
