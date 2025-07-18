@@ -472,6 +472,17 @@ that relate to the following factors:
  - the worker's opportunity for profit
  - any other relevant factors, such as written contracts
 
+The CRA will look at the answers independently and then together and consider whether or
+not they reflect the intent that was originally stated. Considered individually, the response to
+each of these questions is not conclusive; however, when weighed together, certain
+conclusions may be drawn. When there is no common intent, the CRA will decide if the
+answers are more consistent with a contract of service or a contract for service.
+Each of these factors will be discussed in the material and indicators showing whether the
+worker is an employee or self-employed will be provided.
+
+Control
+~~~~~~~
+
 Review Summary
 --------------
 
