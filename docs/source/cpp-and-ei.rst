@@ -39,6 +39,7 @@ Objective of this section is to enable you to identify the following Canada Pens
   - Types of employment not subject to Canada Pension Plan contributions
   - Payments and benefits subject to Canada Pension Plan contributions
   - Payments and benefits not subject to Canada Pension Plan contributions
+  - Calculate Canada Pension Plan contributions at an individual level
 
 Employment Insurance
 --------------------
