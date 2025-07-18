@@ -118,10 +118,17 @@ The following types of employment are excluded by legislation and therefore do n
 to CPP contributions:
 
   - employment in agriculture, or an agricultural enterprise, horticulture, fishing, hunting, trapping, forestry, logging, or lumbering, by an employer:
-  
+
     - who pays the employee less than $250 in cash remuneration in a calendar year; or
     - employs the employee for a period of less than 25 working days in the same year on terms providing for payment of cash remuneration—the working days do not have to be consecutive
+  - employment of a casual nature other than for the purpose of the employer's usual trade or business
+  - employment of a person, other than as an entertainer, in connection with a circus, fair, parade, carnival, exposition, exhibition, or other similar activity, if that person is:
 
+    - not regularly employed by that employer, and
+    - employed by that employer for less than seven days in a year
+  - employment of a person by a government body as an election worker, if that person:
+    - is not a regular employee of the government body, and
+    - works for less than 35 hours in a calendar year
 
 Employment Insurance
 --------------------
