@@ -45,11 +45,12 @@ Employment Insurance
 --------------------
 
 Objective of this section is to enable you to identify the following Employment Insurance components:
- Who must pay Employment Insurance premiums
- Types of employment subject to Employment Insurance premiums
- Types of employment not subject to Employment Insurance premiums
- Payments and benefits subject to Employment Insurance premiums
- Payments and benefits not subject to Employment Insurance premiums
+
+  - Who must pay Employment Insurance premiums
+  - Types of employment subject to Employment Insurance premiums
+  - Types of employment not subject to Employment Insurance premiums
+  - Payments and benefits subject to Employment Insurance premiums
+  - Payments and benefits not subject to Employment Insurance premiums
 
 Record of Employment
 ---------------------
