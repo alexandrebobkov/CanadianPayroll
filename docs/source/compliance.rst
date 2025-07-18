@@ -729,55 +729,37 @@ The worker is a self-employed individual when:
 Review Summary
 --------------
 
-The primary objective of the payroll function in every organization is to ensure that employees are paid accurately 
-and on time, in full compliance with legislative requirements, throughout the entire annual payroll cycle. This function is 
-critical to maintaining employee satisfaction, legal integrity, and operational efficiency.
+The core purpose of the payroll function within any organization is to ensure employees are compensated accurately and punctually, in accordance with all applicable legislation throughout the full annual payroll cycle. This essential function supports employee satisfaction, regulatory compliance, and overall operational efficiency.
 
-Payroll itself is the process of compensating employees for the services they perform. It encompasses calculating wages, 
-deducting taxes and benefits, and distributing payments. Ensuring accuracy in this process is essential to avoid financial 
-discrepancies and maintain trust within the organization.
+Payroll refers to the systematic process of remunerating employees for their services. It involves calculating earnings, applying deductions for taxes and benefits, and issuing payments through approved channels. Precision in these processes is critical to avoid financial discrepancies and foster organizational trust.
 
-Legislation refers to the laws enacted by a legislative body that govern payroll practices. These laws may include tax 
-regulations, labor standards, and employment rights, all of which must be adhered to by the payroll department. Compliance, 
-in this context, means observing and fulfilling these official requirements to avoid legal penalties and ensure ethical 
-operations.
+Legislation encompasses the legal framework enacted by federal, provincial, and territorial bodies that governs payroll activities. This includes tax laws, employment standards, and workplace rights. Compliance means adhering to these legal requirements to prevent penalties and uphold ethical business practices.
 
-A payroll practitioner's knowledge base includes a thorough understanding of payroll compliance legislation, payroll 
-processes, and payroll reporting. In addition to technical expertise, practitioners must also possess strong personal and 
-professional skills to manage responsibilities effectively and adapt to evolving regulatory environments.
+To execute payroll duties effectively, practitioners must possess comprehensive knowledge of payroll legislation, operational processes, and reporting obligations. Beyond technical expertise, strong interpersonal and professional skills are essential, enabling practitioners to adapt to legislative changes and uphold standards of accountability.
 
-Stakeholders are the individuals, groups, and agencies—both internal and external to the organization—who have a vested 
-interest in the function and output of the payroll department. Their involvement and expectations influence how payroll is 
-managed, ensuring that it aligns with organizational goals and legal obligations.
+Stakeholders—both internal and external—have a vested interest in the payroll function’s integrity and outcomes. Internally, this includes employees, employers, and interconnected departments such as human resources and finance. Externally, stakeholders may include benefit providers, unions, pension administrators, charitable organizations, legal entities, and software vendors. Their interaction with payroll processes influences expectations around accuracy, compliance, and data coordination.
 
-Payroll management stakeholders include federal and provincial/territorial governments, internal stakeholders, and external 
-stakeholders. Internal stakeholders consist of employees, employers, and other departments within the organization, all of 
-whom rely on accurate and timely payroll services. External stakeholders encompass benefit carriers, courts, unions, pension 
-providers, charities, third-party administrators, and outsource or software vendors. These entities interact with payroll 
-data and processes, often requiring coordination and compliance.
+Payroll governance is shaped by both federal and provincial/territorial authority. The federal government enacts legislation that applies nationally, particularly for industries operating across provinces or those serving a broader national interest. Provincial and territorial governments regulate regional matters such as civil rights, property, and employment standards within local industries. Any sector not under federal oversight typically falls under provincial or territorial jurisdiction.
 
-The federal parliament holds the authority to enact laws for the peace, order, and good government of Canada. It exercises 
-control over industries and undertakings that are inter-provincial, national, or international in nature, as well as 
-rganizations deemed to serve the general advantage of Canada or multiple provinces, including Crown corporations. 
-In contrast, provincial and territorial legislatures have jurisdiction over direct taxation for regional purposes and laws 
-concerning property, civil rights, and employment in sectors such as manufacturing, mining, construction, wholesale and 
-retail trade, service industries, and local businesses. Any industry or occupation not specifically under federal 
-jurisdiction falls within provincial or territorial control.
+Employers are obliged to comply with the labour and employment standards applicable to the jurisdiction in which their employees work—unless federal laws take precedence. Where legislation mandates compliance, enforcement may include financial penalties or legal action to ensure accountability.
 
-Employers are required to adhere to the employment and labour standards legislated by the jurisdiction in which their 
-employees work, unless they are governed by federal labour standards. Where legislation mandates employer compliance, 
-financial penalties or legal action may be imposed to enforce adherence and promote accountability.
+Employment relationships are defined through contractual arrangements. A contract of service refers to a traditional employer-employee relationship, where an individual commits to working for an employer—either on a full-time or part-time basis—for a specified or ongoing period. The employer has authority over both the duties and how they are executed.
 
-A contract of service is an arrangement in which an individual, referred to as the employee, agrees to work either full-time or part-time for an employer over a specified or indeterminate period. This type of contract establishes an employer-employee relationship, where the employer typically has control over the work performed and the conditions under which it is carried out.
+Conversely, a contract for service reflects a business arrangement where an independent contractor agrees to perform specific tasks, with discretion over how the work is completed. This signifies a client-provider relationship rather than an employment one.
 
-In contrast, a contract for service defines a business relationship where one party agrees to perform specific tasks or services outlined in the contract for another party. This arrangement is more independent in nature and does not constitute an employer-employee relationship. Instead, it reflects a client-contractor dynamic.
+To assess worker classification—particularly outside Québec—the Canada Revenue Agency (CRA) employs a two-step evaluation. Key considerations include:
 
-To determine the nature of the relationship between a worker and a payer—particularly outside the province of Québec—the Canada Revenue Agency (CRA) applies a two-step approach. One of the key factors considered is the payer’s right to exercise control over the worker, including how the work is done and what tasks are performed. The degree of independence the worker holds is also evaluated, but the central issue is whether the payer has the authority to direct the work.
+Control: Whether the payer holds the right to determine what work is done and how it is executed.
 
-Another factor the CRA examines is the ownership of tools and equipment. The significance lies in the size of the investment made by the worker, as well as the costs associated with repair, replacement, and insurance. The CRA also considers whether the worker incurs fixed ongoing costs or unreimbursed expenses, which may indicate a greater level of independence.
+Independence: The degree of autonomy exercised by the worker.
 
-Finally, the CRA assesses the extent to which the worker can control their revenue and expenses. A higher degree of financial control typically suggests a contract for service, while limited control may point to a contract of service. These factors collectively help determine the correct classification of the working relationship for tax and legal purposes.
+Ownership of Tools: Significant investment in tools and equipment, along with maintenance and insurance responsibilities, may indicate a business relationship.
 
+Financial Risk: Ongoing operational costs or unreimbursed expenses reflect a higher likelihood of self-employment.
+
+Revenue Control: The ability to manage pricing, accept multiple contracts, and influence earnings supports classification under a contract for service.
+
+Collectively, these factors guide proper categorization for legal and tax purposes, helping organizations ensure compliance and mitigate potential risk.
 Review Questions
 ----------------
 
