@@ -225,7 +225,12 @@ The federal government cannot transfer any of its powers to a provincial/territo
 legislature, nor can a provincial/territorial legislature transfer any of its powers to the federal
 government. The federal government can, however, delegate the administration of a federal
 act to a provincial/territorial agency, and a provincial/territorial legislature can delegate the
-administration of a provincial/territorial act to a federal agency
+administration of a provincial/territorial act to a federal agency.
+
+    As all provinces and territories (except Québec) have delegated the administration of the
+    collection of income tax deductions to the federal government, the Canada Revenue Agency
+    (CRA) collects income tax withheld from employees under both federal and
+    provincial/territorial requirements. Québec collects its provincial income tax directly.
 
 Federal Government
 ~~~~~~~~~~~~~~~~~~
