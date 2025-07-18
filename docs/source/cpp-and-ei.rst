@@ -128,14 +128,13 @@ to CPP contributions:
     - employed by that employer for less than seven days in a year
 
   - employment of a person by a government body as an election worker, if that person:
-  
+
     - is not a regular employee of the government body, and
     - works for less than 35 hours in a calendar year
 
   - employment as a teacher on exchange from a foreign country
   - employment of a spouse or common-law partner if the employer cannot deduct the remuneration paid as an expense under the Income Tax Act 
-  - employment of a member of a religious order who has taken a vow of perpetual poverty. This applies whether the remuneration is paid directly to the order or paid by 
-  the member to the order.
+  - employment of a member of a religious order who has taken a vow of perpetual poverty. This applies whether the remuneration is paid directly to the order or paid by the member to the order.
   - employment for which no cash remuneration is paid, where the employee is the child of, or is maintained by, the employer
   - employment of a person who helps the employer in a disaster or in a rescue operation if the employee is not regularly employed by the employer
 
