@@ -340,6 +340,16 @@ employee deductions and employer contributions
 through payroll deductions. Payroll is responsible for remitting these deductions to the
 charity.
 
+**Third Party Administrators** are organizations that affect the administration of the payroll
+function. Examples of these external stakeholders are banking institutions or benefit
+organizations that offer Group Registered Retirement Saving Plans (RRSP). Payroll is
+responsible for deducting any employee contributions and remitting employer and employee
+contributions to the plan administrator.
+
+**Outsource/Software vendors** are payroll service providers or payroll software vendors that
+work with the payroll department to ensure the payroll is being processed accurately and
+efficiently.
+
 Legislation
 -----------
 
