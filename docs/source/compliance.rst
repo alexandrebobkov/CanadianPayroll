@@ -175,10 +175,10 @@ Effective payroll professionals should be:
 Payroll Stakeholders
 ------------------------
 
-Stakeholders are the individuals, groups and agencies, both internal and external to the
-organization, who share an interest in the function and output of the payroll department.
-Stakeholders can be considered customers of the payroll department and payroll practitioners
-can take a proactive customer service approach to serving these individuals and groups.
+Stakeholders refer to the individuals, groups, and organizations—both within and outside the company—that have a vested 
+interest in the operations and outcomes of the payroll department. These stakeholders can be viewed as internal customers, 
+and payroll practitioners are encouraged to adopt a proactive, service-oriented approach in meeting their needs and 
+expectations.
 
 Payroll management stakeholders are the federal and provincial/territorial governments, the
 internal stakeholders and the external stakeholders. Internal stakeholders include employees,
