@@ -443,6 +443,21 @@ request for a supplementary payment and/or a fine.
     The Canada Revenue Agency’s Pensionable and Insurable Earnings Review (PIER) is an annual compliance review system. This system utilizes the data provided on the T4 
     information slips issued at year-end to validate the amounts of CPP contributions and EI premiums deducted by employers, and identifies any remittance deficiencies.
 
+Self-Assessment
+~~~~~~~~~~~~~~~
+
+Both the federal and provincial/territorial tax systems are based on the principle of selfassessment. This means that taxpayers and their agents, including employers, are responsible
+for calculating, reporting and remitting their contributions and the amounts withheld within
+the prescribed deadlines.
+As administrators of the tax system, the Canada Revenue Agency (CRA) and Revenu Québec
+(RQ) must ensure that each individual and organization is compliant and pays all of the
+amounts owing.
+Both the CRA and RQ recognize that taxpayers and agents are entitled to plan their affairs so
+that they pay only the amounts that are legally due. It is acceptable to take advantage of tax
+rules to minimize the amount of taxes paid. It is not lawful, however, to evade taxes owed by
+failing to report income, failing to remit taxes due or providing the CRA or RQ with false
+information.
+
 The Employee-Employer Relationship
 -----------------------------------
 
