@@ -91,7 +91,7 @@ There are three Canada Pension Plan benefits:
   - survivor benefits (including the death benefit, the survivor's pension and the children's benefit)
 
 The CPP operates throughout Canada while the province of Québec administers its own program for workers in Québec called the 
-Québec Pension Plan (QPP). The two plans work together to ensure that all contributors are protected, no matter where the 
+**Québec Pension Plan** (QPP). The two plans work together to ensure that all contributors are protected, no matter where the 
 individual lives. Québec Pension Plan requirements will be covered later in this course.
 
 Employment Insurance
