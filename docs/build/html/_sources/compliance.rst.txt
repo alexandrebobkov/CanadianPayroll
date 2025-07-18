@@ -12,6 +12,7 @@ affect payroll administration. Additionally, you will understand the Canada Reve
 an individual is classified as an employee or self-employed.
 
 This chapter will cover the following topics:
+
   1. Identify four uses of the term payroll
   2. Describe payroll's objectives
   3. Describe who payroll's stakeholders are
@@ -40,7 +41,7 @@ whether an employee-employer relationship exists. It is crucial to know how to d
 type of relationship that exists between the worker and the organization and to ensure that
 any payments made comply with legislation. 
 
-What are Payroll's Objectives?
+What are the Payroll's Objectives?
 ===============================
 
 The primary objective of the payroll function in every organization is to pay employees
