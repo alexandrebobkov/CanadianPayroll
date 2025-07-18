@@ -574,8 +574,7 @@ answers are more consistent with a contract of service or a contract for service
 Each of these factors will be discussed in the material and indicators showing whether the
 worker is an employee or self-employed will be provided.
 
-Control
-~~~~~~~
+**Control**
 
 One of the key factors in determining a worker's status is the extent to which the payer has the ability, authority, or 
 right to control both what work is performed and how it is carried out. Equally important is the level of independence the 
@@ -600,8 +599,7 @@ Worker is a *Self-Employed* when:
   - The worker can accept or refuse work from the payer.
   - The working relationship between the payer and the worker does not present a degree of continuity, loyalty, security, subordination, or integration.
 
-Tools and Equipment
-~~~~~~~~~~~~~~~~~~~~
+**Tools and Equipment**
 
 Ownership of tools and equipment is not a definitive factor in determining the nature of a working relationship or the type 
 of contract in place. While self-employed individuals often use their own tools to fulfill contractual obligations—making 
