@@ -57,3 +57,4 @@ term payroll can refer to:
   -  the department that administers the payroll
   -  the total number of people employed by an organization
   -  the wages and salaries paid out in a year
+  -  a list of employees to be paid and the amount due to each
