@@ -51,3 +51,6 @@ Every employee expects to receive their pay on the day it is due in the manner a
 their employer, either by cheque or direct deposit. In addition to ensuring that employees
 have been paid, payroll practitioners must also be able to communicate payroll information to
 all stakeholders.
+
+**Payroll** is the process of paying employees in exchange for the services they perform. The
+term payroll can refer to:
