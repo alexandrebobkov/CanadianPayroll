@@ -325,11 +325,16 @@ information for budgeting, analytical and quality purposes.
 External Stakeholders
 ~~~~~~~~~~~~~~~~~~~~~~
 
-External stakeholders are organizations that are neither government nor internal stakeholders,
-yet have a close working relationship with the payroll function. Compliance with external
-stakeholder requirements is also a responsibility of the payroll department. In most cases,
-compliance will require that payroll request a cheque from accounts payable and send it to
-the external organization along with supporting documentation.
+External stakeholders are entities outside of both the organization and government that maintain a collaborative or 
+service-based relationship with the payroll function. These may include benefit providers, insurance carriers, pension 
+plan administrators, unions, and third-party service vendors. Although not formally part of the company or regulatory bodies, 
+their involvement directly impacts payroll operations.
+
+Ensuring compliance with external stakeholder requirements is a key duty of the payroll department. This often includes 
+verifying data, meeting contractual obligations, and coordinating financial transactions. In many cases, payroll 
+professionals must initiate cheque requests through accounts payable and submit accompanying documentation to these 
+organizations to fulfill obligations accurately and on time. Maintaining strong communication and attention to detail with 
+external partners is essential for smooth and compliant payroll administration.
 
 **Benefit Carriers** are insurance companies that provide benefit coverage to employees.
 Payroll is responsible for deducting and remitting premiums for the insurance coverage to the
@@ -370,11 +375,10 @@ Federal and provincial/territorial legislation, and amendments to existing legis
 regulations, can affect the operations of a payroll department, as the requirement to comply
 with the new or amended legislation must be satisfied.
 
-Legislation determines what the rules are, while regulations determine how the rules are to be
+It is important to note the difference between legislation and regulatio. **Legislation** determines what the rules are, while **regulations** determine how the rules are to be
 applied. 
 
-The methods for calculating income tax deductions are specified by the federal government
-through regulations.
+The methods for calculating income tax deductions are specified by the federal government through regulations.
 
     *Example:*
 
