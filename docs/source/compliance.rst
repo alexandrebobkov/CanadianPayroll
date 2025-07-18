@@ -702,6 +702,10 @@ List four definitions of payroll.
 
 List the three types of payroll management stakeholders and provide an example of each.
 
+    Payroll management stakeholders are government (federal and provincial/territorial), internal 
+    (employees, employers and other departments) and external (benefit carriers, courts, unions, pension 
+    providers, charities, third party administrators and outsource/software vendors).
+
 Explain the difference between legislation and regulation.
 
 What are two examples of sources of information that you use (or could use) to keep upto-date on payroll compliance changes?
