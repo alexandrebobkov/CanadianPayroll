@@ -43,7 +43,7 @@ Objective of this section is to enable you to identify the following Canada Pens
 Employment Insurance
 --------------------
 
-Objective of this section is to enable you to Identify the following Employment Insurance components:
+Objective of this section is to enable you to identify the following Employment Insurance components:
  Who must pay Employment Insurance premiums
  Types of employment subject to Employment Insurance premiums
  Types of employment not subject to Employment Insurance premiums
