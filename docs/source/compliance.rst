@@ -44,14 +44,13 @@ administration and helps prevent legal or financial errors tied to misclassifica
 Payroll Objectives
 ------------------
 
-The primary objective of the payroll function in every organization is to pay employees
-accurately and on time, in compliance with legislative requirements, for a full annual payroll
-cycle.
+The payroll function plays a vital role in every organization, with its primary objective being to ensure employees are 
+compensated accurately and on time, in accordance with legislative requirements throughout the full annual payroll cycle.
 
-Every employee expects to receive their pay on the day it is due in the manner arranged with
-their employer, either by cheque or direct deposit. In addition to ensuring that employees
-have been paid, payroll practitioners must also be able to communicate payroll information to
-all stakeholders.
+Employees expect to receive their pay as scheduled and in the method agreed upon with their employer, whether by cheque or 
+direct deposit. Beyond ensuring timely payment, payroll practitioners are also responsible for effectively communicating 
+payroll-related information to all relevant stakeholders, supporting transparency, compliance, and organizational 
+accountability.
 
 **Payroll** is the process of paying employees in exchange for the services they perform. The
 term payroll can refer to:
@@ -65,24 +64,24 @@ sources that payroll practitioners must comply with at two separate levels ─ t
 the provincial/territorial governments. Later in the chapter we will explore the compliance
 requirements for the various pieces of legislation from these sources.
 
-**Compliance** is the observance of official requirements. For payroll practitioners, this means
+**Compliance** is the observance of official requirements. For payroll, this means
 performing payroll functions according to federal and provincial/territorial legislative and
 non-governmental stakeholder requirements.
 
-The legislative requirements are termed statutory. This means they are enacted, created, or
+The legislative requirements are termed **statutory**. This means they are enacted, created, or
 regulated by statute, a law enacted by the legislative branch of a government. Fines and
 penalties can be imposed if an organization is not in compliance with the legislative
 requirements in each jurisdiction.
 
-When dealing with federal and provincial/territorial government agencies, payroll
-practitioners must know the many pieces of legislation that regulate their work and the
-compliance requirements associated with each. Payroll practitioners are responsible for
-ensuring their organization is compliant with all payroll related legislation, thus eliminating
-the potential for any fines or penalties.
+When working with federal and provincial or territorial government agencies, payroll professionals must be well-versed in 
+the various laws and regulations that govern payroll operations, as well as the compliance requirements specific to each. 
+It is their responsibility to ensure the organization adheres to all applicable legislation, thereby minimizing the risk of 
+fines or legal penalties.
 
-In payroll, there are also compliance requirements from other non-government stakeholders,
-for example, union collective agreements or group insurance policies. Payroll practitioners
-must therefore ensure the organization is compliant with all stakeholder requirements.
+In addition to government regulations, payroll practitioners must also comply with obligations set forth by non-government 
+stakeholders. These may include collective agreements with unions, group insurance policies, pension plans, and other 
+contractual arrangements. Maintaining compliance across all stakeholder requirements is essential to the integrity and 
+effectiveness of the payroll function.
 
 Responsibilities and Functions of Payroll
 ---------------------------------------------------
