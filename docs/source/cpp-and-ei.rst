@@ -47,9 +47,6 @@ Objective of this section is to enable you to identify the following Canada Pens
   - Payments and benefits not subject to Canada Pension Plan contributions
   - Calculate Canada Pension Plan contributions at an individual level
 
-Canada Pension Plan
-~~~~~~~~~~~~~~~~~~~
-
 The **Canada Pension Plan** (CPP) is a federally legislated social insurance program established under the Canada Pension Plan 
 Act. Its primary purpose is to provide financial protection to contributors and their families in the event of retirement, 
 disability, or death. The program is funded through mandatory payroll deductions from employees, which are matched equally by 
@@ -71,6 +68,20 @@ Objective of this section is to enable you to identify the following Employment 
   - Payments and benefits subject to Employment Insurance premiums
   - Payments and benefits not subject to Employment Insurance premiums
   - Calculate Employment Insurance premiums at an individual level
+
+Employment Insurance (EI) is a federally legislated social insurance program established under the Employment Insurance Act. 
+It provides temporary financial support to individuals who are unemployed while seeking new employment or engaging in skill 
+development. In addition to regular benefits, EI offers special provisions for workers who take leave due to significant life 
+events such as illness, pregnancy, caring for a newborn or newly adopted child, supporting a critically ill or injured person, 
+or tending to a family member facing a serious health condition with a risk of death.
+
+The EI program is funded through payroll contributions made by employees, known as Employment Insurance premiums. Employers 
+also contribute by paying a premium that is calculated based on their employees' deductions.
+
+While Employment Insurance is a government-mandated program, it may not be the only insurance plan available in the workplace. 
+Many organizations offer private or non-government insurance options such as life and disability coverage, which are funded by 
+employers, employees, or both. Although this chapter focuses specifically on the federally legislated EI program, additional 
+information about private insurance plans will be covered in the later chapters.
 
 Record of Employment
 ---------------------
