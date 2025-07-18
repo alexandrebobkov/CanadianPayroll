@@ -155,7 +155,7 @@ the various stakeholders involved in the payroll process:
   - problem solving, decision-making, time management and organizational skills
 
 Behavioural and Ethical Standards
---------------------------------
+----------------------------------
 
 Behaviour and ethics are two areas that build on the skills that an effective payroll practitioner
 must have. Effective payroll professionals should be:
@@ -184,7 +184,7 @@ benefit carriers, courts, unions, pension providers, charities, third party admi
 outsource/software vendors. 
 
 Government Stakeholders
-----------------------
+-----------------------
 
 Government legislation provides the rules and regulations that the payroll function must
 administer with respect to payments made to employees. For this reason, it is important for
