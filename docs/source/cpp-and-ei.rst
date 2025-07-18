@@ -79,6 +79,25 @@ vehicles available within an organization's compensation structure.
     Employers located in Quebec are responsible for deducting Québec Pension Plan (QPP) contributions, instead
     of CPP contributions, from their Québec employees and remitting those contributions to Revenu Québec (RQ). 
 
+The Canada Pension Plan (CPP) was designed as an income replacement program for
+individuals who have been in pensionable employment during their working life. A CPP
+retirement pension is a monthly benefit paid to people who have contributed to the Canada
+Pension Plan. The pension is designed to replace about 25 percent of the earnings on which a
+person's contributions were based. Individuals can apply for their CPP retirement pension
+when they turn 60.
+There are three Canada Pension Plan benefits:
+
+
+
+retirement pension
+disability benefits (for contributors with a disability and their dependent children)
+survivor benefits (including the death benefit, the survivor's pension and the children's
+benefit)
+The CPP operates throughout Canada while the province of Québec administers its own
+program for workers in Québec called the Québec Pension Plan (QPP). The two plans work
+together to ensure that all contributors are protected, no matter where the individual lives.
+Québec Pension Plan requirements will be covered later in this course.
+
 Employment Insurance
 --------------------
 
