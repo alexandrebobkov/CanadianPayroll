@@ -51,6 +51,7 @@ Objective of this section is to enable you to identify the following Employment 
   - Types of employment not subject to Employment Insurance premiums
   - Payments and benefits subject to Employment Insurance premiums
   - Payments and benefits not subject to Employment Insurance premiums
+  - Calculate Employment Insurance premiums at an individual level
 
 Record of Employment
 ---------------------
