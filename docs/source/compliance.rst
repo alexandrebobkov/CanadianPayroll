@@ -191,6 +191,45 @@ employers and other departments within the organization. External stakeholders i
 benefit carriers, courts, unions, pension providers, charities, third party administrators and
 outsource/software vendors. 
 
+Government Stakeholders
+----------------------
+
+Government Stakeholders
+Government legislation provides the rules and regulations that the payroll function must
+administer with respect to payments made to employees. For this reason, it is important for
+the payroll practitioner to understand both the scope and the source of payroll-related
+legislation.
+Canada is ruled by a federal government with ten largely self-governing provinces and three
+territories controlled by the federal government. Payroll practitioners have to be compliant
+not only with the federal government legislation, but with the provincial and territorial
+governments' legislation as well.
+As a result, payroll practitioners and their organizations are affected by the enactment of
+legislation at both the federal and provincial/territorial level.
+The federal parliament has the power to make laws for the peace, order and good government
+of Canada. The federal cabinet is responsible for most of the legislation introduced by
+parliament, and has the sole power to prepare and introduce tax legislation involving the
+expenditure of public money.
+The provincial/territorial legislatures have power over direct taxation in the province or
+territory for the purposes of natural resources, prisons (except for federal penitentiaries),
+charitable institutions, hospitals (except marine hospitals), municipal institutions, education,
+licences for provincial/territorial and municipal revenue purposes, local works, incorporation
+of provincial/territorial organizations, the creation of courts and the administration of justice,
+fines and penalties for breaking provincial/territorial laws.
+Both the federal and provincial/territorial governments have power over agriculture,
+immigration and certain aspects of natural resources. Should their laws conflict, federal law
+prevails.
+In the case of old age, disability, and survivor's pensions, again both the federal and
+provincial/territorial governments have power. In this instance, if their laws conflict, the
+provincial/territorial power prevails.
+The federal government cannot transfer any of its powers to a provincial/territorial
+legislature, nor can a provincial/territorial legislature transfer any of its powers to the federal
+government. The federal government can, however, delegate the administration of a federal
+act to a provincial/territorial agency, and a provincial/territorial legislature can delegate the
+administration of a provincial/territorial act to a federal agency
+
+Federal Government
+~~~~~~~~~~~~~~~~~~
+
 Review Summary
 ==============
 
