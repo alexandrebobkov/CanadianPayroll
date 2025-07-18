@@ -440,7 +440,7 @@ request for a supplementary payment and/or a fine.
     **Record of Employment (ROE)** issuance
     Failure to issue a ROE within the established deadlines may result in a visit from an investigative officer from Service Canada.
 
-    The Canada Revenue Agency’s Pensionable and Insurable Earnings Review (PIER) is an annual compliance review system. This system utilizes the data provided on the T4 
+    The Canada Revenue Agency's Pensionable and Insurable Earnings Review (PIER) is an annual compliance review system. This system utilizes the data provided on the T4 
     information slips issued at year-end to validate the amounts of CPP contributions and EI premiums deducted by employers, and identifies any remittance deficiencies.
 
 Self-Assessment
