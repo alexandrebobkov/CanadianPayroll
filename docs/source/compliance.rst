@@ -86,25 +86,11 @@ effectiveness of the payroll function.
 Responsibilities and Functions of Payroll
 ---------------------------------------------------
 
-The responsibilities of the payroll practitioner will differ depending on the size of the
-organization, the number of jurisdictions in which they pay, the reporting structure under
-which they work, and whether there are other related departments, such as human resources,
-finance and administration in the organization.
+The responsibilities of a payroll practitioner can vary significantly based on the size and structure of the organization, the jurisdictions in which employees are paid, and the presence of other supporting departments such as human resources, finance, and administration. These factors influence both the scope and complexity of payroll duties within the organization.
 
-Small and medium-sized organizations may have payroll practitioners whose positions
-include other functions that, in a larger organization, would fall under other departments.
-This payroll practitioner may be required to handle multiple tasks, such as employee
-recruitment, human resource policy development, benefits administration, accounts payable,
-accounts receivable, budgets and/or administration. These practitioners must have excellent
-knowledge of all areas for which they are responsible and be aware of the resources available
-to provide advice and information.
+In small and medium-sized organizations, payroll practitioners often take on multiple roles that would typically be divided among separate departments in larger companies. Their responsibilities may extend beyond payroll to include tasks such as employee recruitment, human resources policy development, benefits administration, accounts payable and receivable, budgeting, and general administrative functions. In these settings, a broad and thorough knowledge of all assigned areas is essential, along with an understanding of the resources available to seek advice or guidance when needed.
 
-Larger organizations may have a distinct payroll department with specific payroll positions,
-in addition to separate human resources, accounting and administration groups. Even in a
-multi-departmental organization, payroll practitioners must have knowledge of the various
-stages of the life cycle of an employee. From hiring through termination of employment,
-many of these stages will impact how to produce the employee's pay and prepare required
-reports.
+In contrast, larger organizations tend to maintain dedicated payroll departments, supported by separate teams for human resources, accounting, and administration. Even within these multi-departmental structures, payroll professionals must possess a strong understanding of the employee life cycle. From onboarding through to termination, each stage carries specific implications for pay processing and reporting, requiring close coordination and specialized expertise.
 
 The payroll department in a large organization may have:
 
