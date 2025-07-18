@@ -427,30 +427,23 @@ The following are some of the available resources:
 Legislative Compliance
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-In addition to payroll's primary role of paying employees accurately and on time, payroll
-practitioners are also directly or indirectly responsible for supporting and/or ensuring
-compliance with the requirements of various government acts. Where legislation requires
-employer compliance (for example, remittance of payroll source deductions, Canada Pension
-Plan contributions, Employment Insurance premiums, and federal and provincial/territorial
-income tax deductions) there are financial penalties or the possibility of legal action to
-encourage compliance.
+Payroll plays a critical role not only in ensuring that employees are paid accurately and on time, but also in 
+supporting and maintaining compliance with numerous government regulations. This includes legislative obligations related to 
+payroll source deductions, Canada Pension Plan contributions, Employment Insurance premiums, and both federal and 
+provincial/territorial income tax withholdings. When these obligations are not met, employers may face serious consequences, 
+including financial penalties or legal enforcement actions designed to ensure compliance.
 
-Fines, penalties and interest charges are typically a result of audits and legal action. These
-may result in seizure of bank accounts and/or assets, fines of $1,000 to $25,000, and in some
-cases, jail sentences up to 12 months.
+Penalties such as fines, interest charges, and legal sanctions often result from audits or investigations into 
+non-compliance. In more severe cases, enforcement measures may include seizure of bank accounts or assets, and fines.
 
-Government departments and agencies responsible for administering legislation employ a
-variety of systems for tracking compliance. Some systems, such as the monitoring of source
-deduction remittances, are ongoing, with regimented reporting time frames that lay down a
-continual audit trail. Failure to meet the requirements of this legislation will incur a rapid
-response that may result in fines and penalties.
+To monitor and enforce these requirements, government agencies utilize a range of tracking systems. Some, such as those 
+used to oversee source deduction remittances, rely on strict reporting schedules that create a consistent audit trail. 
+Failure to meet these time-sensitive obligations typically triggers a swift response and the imposition of penalties.
 
-Reporting requirements that do not involve ongoing, regular reporting may not impose an
-immediate fine but may initiate a visit from an auditor or other official seeking compliance.
-
-Some compliance systems operate quarterly or annually, and the observations raised by these
-systems will result in requests for additional information or explanation and, in some cases, a
-request for a supplementary payment and/or a fine. 
+For reporting requirements that are less frequent or ongoing, the consequences of non-compliance may not be immediate. 
+However, they can lead to scrutiny from auditors or other officials tasked with verifying that payroll practices align with 
+current legislative standards. Payroll professionals must remain vigilant and informed to protect their organization from 
+financial and legal risk.
 
     *Example:*
 
