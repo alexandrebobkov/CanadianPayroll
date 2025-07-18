@@ -312,6 +312,16 @@ information for budgeting, analytical and quality purposes.
 External Stakeholders
 ~~~~~~~~~~~~~~~~~~~~~~
 
+External stakeholders are organizations that are neither government nor internal stakeholders,
+yet have a close working relationship with the payroll function. Compliance with external
+stakeholder requirements is also a responsibility of the payroll department. In most cases,
+compliance will require that payroll request a cheque from accounts payable and send it to
+the external organization along with supporting documentation.
+
+**Benefit Carriers** are insurance companies that provide benefit coverage to employees.
+Payroll is responsible for deducting and remitting premiums for the insurance coverage to the
+carriers and for providing reports on employee enrolment and coverage levels.
+
 Legislation
 -----------
 
