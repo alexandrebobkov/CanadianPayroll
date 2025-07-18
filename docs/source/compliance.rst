@@ -322,6 +322,16 @@ the external organization along with supporting documentation.
 Payroll is responsible for deducting and remitting premiums for the insurance coverage to the
 carriers and for providing reports on employee enrolment and coverage levels.
 
+**Courts and the CRA** require payroll to accurately deduct and remit amounts ordered to be
+withheld through garnishments, third party demands, requirements to pay and support
+deduction orders.
+
+**Unions** require that payroll accurately deduct and remit union dues and initiation fees, and to
+ensure that the terms of the collective agreement are adhered to. It is estimated that just under
+one-third of the workforce in Canada belongs to a trade union. Payroll professionals must be
+familiar with the role and activities of trade unions and the responsibilities of the employer
+and the payroll department in a unionized environment.
+
 Legislation
 -----------
 
