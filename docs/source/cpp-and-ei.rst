@@ -8,6 +8,17 @@ you need to know which employees must participate in these plans, what amounts t
 from employees and how much the employer will have to remit or send to the Canada
 Revenue Agency (CRA).
 
+Payroll plays a pivotal role in administering statutory deductions, specifically the collection and remittance of 
+Canada Pension Plan (CPP) contributions and Employment Insurance (EI) premiums. These mandatory deductions, along with the 
+employer's matching portion, must be accurately submitted to the Canada Revenue Agency (CRA) within prescribed timelines.
+
+This chapter outlines the essential criteria used to identify pensionable and insurable earnings, and provides detailed 
+guidance on calculating both employee deductions and employer contributions for regular and non-regular pay periods.
+
+In accordance with federal legislation, CPP contributions are the **first deduction** applied to employment income, 
+followed by EI premiums. Because these deductions are mandated by statute, they are classified as **statutory deductions**, 
+underscoring their legal significance and the employer's obligation to ensure full compliance.
+
 **Learning Objectives**
 
 Upon completion of this chapter, you should be able to explain:
@@ -80,7 +91,7 @@ Objective of this section is to enable you to identify the following Employment 
   - Payments and benefits not subject to Employment Insurance premiums
   - Calculate Employment Insurance premiums at an individual level
 
-Employment Insurance (EI) is a federally legislated social insurance program established under the Employment Insurance Act. 
+**Employment Insurance** (EI) is a federally legislated social insurance program established under the Employment Insurance Act. 
 It provides temporary financial support to individuals who are unemployed while seeking new employment or engaging in skill 
 development. In addition to regular benefits, EI offers special provisions for workers who take leave due to significant life 
 events such as illness, pregnancy, caring for a newborn or newly adopted child, supporting a critically ill or injured person, 
@@ -96,3 +107,8 @@ information about private insurance plans will be covered in the later chapters.
 
 Record of Employment
 ---------------------
+
+The **Record of Employment** (ROE) is the form used by Service Canada to determine an individual's qualification to collect 
+Employment Insurance benefits when their employment is interrupted, how much the benefit will be and how long they will 
+collect it. As payroll is responsible for completing the ROE, the form will be illustrated in this chapter, along with an
+explanation of what payroll information must be tracked for ROE reporting purposes.
