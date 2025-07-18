@@ -634,7 +634,8 @@ The worker is a self-employed individual when:
 Subcontracting Work or Hiring Assistants
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-As subcontracting work or hiring assistants can affect a worker's chance of profit or risk of loss, this can help determine the type of business relationship. 
+As subcontracting work or hiring assistants can affect a worker's chance of profit or risk of loss, this can help determine 
+the type of business relationship. 
 
 The worker is an employee when:
 
@@ -649,13 +650,9 @@ The worker is a self-employed individual when:
 Financial Risk
 ~~~~~~~~~~~~~~
 
-The CRA will examine if there are any fixed ongoing costs incurred by the worker or any
-expenses that are not reimbursed. Employers will usually reimburse employees for any
-expenses incurred in the performance of their job. Self-employed individuals can have
-financial risk and incur losses as they usually have ongoing monthly expenses whether or not
-work is being performed. Both employees and self-employed individuals may be reimbursed
-for business or travel expenses, however it is the expenses that are not reimbursed that are
-examined.
+When evaluating the nature of a working relationship, the Canada Revenue Agency (CRA) considers whether the individual incurs fixed, ongoing costs or unreimbursed expenses. In traditional employee arrangements, employers typically reimburse expenses that arise as part of the job—for example, travel or business-related costs.
+
+In contrast, self-employed individuals often assume greater financial risk by covering recurring operational costs regardless of whether active work is being performed. These may include equipment leasing, office space rental, or other business overheads. While both employees and contractors may receive reimbursement for certain expenses, the CRA places particular emphasis on identifying costs that are not reimbursed. The presence of such expenses may indicate a business relationship, reflecting the independence and financial responsibility characteristic of self-employment.
 
 The worker is an employee when:
 
