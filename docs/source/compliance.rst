@@ -350,8 +350,8 @@ contributions to the plan administrator.
 work with the payroll department to ensure the payroll is being processed accurately and
 efficiently.
 
-Legislation
------------
+Legislations and Regulations
+-----------------------------
 
 The Employee-Employer Relationship
 -----------------------------------
