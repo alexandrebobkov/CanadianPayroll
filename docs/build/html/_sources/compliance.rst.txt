@@ -768,8 +768,8 @@ Please consider the following scenario.
     *If the worker is considered self-employed, then payment, on submission of an invoice, will continue to be handled by AP. If, however, the worker is considered an
     employee, they would have to be set up on payroll, as they would be in receipt of income from employment, subject to all legislated statutory withholdings.*
 
-    *I have attached the CRA's form Request for a CPP/EI Ruling - Employee or SelfEmployed? - CPT1 for your information. This form can be completed by the
-company and sent with supporting documentation, such as the terms and conditions of the contract, for a ruling from the CRA on the individual's status.*
+    *I have attached the CRA's form Request for a CPP/EI Ruling - Employee or SelfEmployed? - CPT1 for your information. This form can be completed by the 
+    company and sent with supporting documentation, such as the terms and conditions of the contract, for a ruling from the CRA on the individual's status.*
 
     *I think that Payroll must coordinate with the Accounts Payable Department to ensure that these payments are being handled correctly.*
 

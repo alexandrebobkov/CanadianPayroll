@@ -353,6 +353,46 @@ efficiently.
 Legislations and Regulations
 -----------------------------
 
+Federal and provincial/territorial legislation, and amendments to existing legislation and
+regulations, can affect the operations of a payroll department, as the requirement to comply
+with the new or amended legislation must be satisfied.
+
+Legislation determines what the rules are, while regulations determine how the rules are to be
+applied. 
+
+The methods for calculating income tax deductions are specified by the federal government
+through regulations.
+
+    *Example:*
+
+    The Income Tax Act
+
+    The legislation: Specifies that employers are required to withhold income tax from employees.
+
+    The regulation: Specifies the taxation methods that should be used for non-periodic payments such as bonuses, retroactive pay increases, lump sum payments, etc.
+
+    Non-periodic bonus payments- Where a payment in respect of a bonus is made by an employer to an employee whose total remuneration (including the bonus) from the employer 
+    may reasonably be expected to exceed $5,000 in the taxation year of the employee in which the payment is made, the amount to be deducted or withheld by the employer is dictated 
+    through a calculation prescribed in the regulation within the Act.
+
+Legislative change can prove to be anything but routine, particularly if the change is
+implemented at a time other than at the beginning of a calendar year, or involves some sort of
+retroactivity. The change may involve a series of adjustments to individual payroll accounts
+and extra work for the payroll department to finalize reconciliations and year-end balancing
+requirements.
+
+In general, legislation, and in particular, labour legislation, is constantly being changed,
+amended, repealed or revised. As a result, it is essential to keep up-to-date with the changes
+in the jurisdiction(s) in which your organization operates.
+
+Changes in legislation are generally publicized in the media. In large organizations, human
+resource departments, tax specialists and corporate legal departments often provide this type
+of information. However, in both large and small organizations, the payroll practitioner
+should be proactive in keeping abreast of changes and bringing them to the attention of those
+involved. There are many ways to keep informed of changes that impact payroll.
+
+The following are some of the available resources:
+
 The Employee-Employer Relationship
 -----------------------------------
 
@@ -768,8 +808,8 @@ Please consider the following scenario.
     *If the worker is considered self-employed, then payment, on submission of an invoice, will continue to be handled by AP. If, however, the worker is considered an
     employee, they would have to be set up on payroll, as they would be in receipt of income from employment, subject to all legislated statutory withholdings.*
 
-    *I have attached the CRA's form Request for a CPP/EI Ruling - Employee or SelfEmployed? - CPT1 for your information. This form can be completed by the
-company and sent with supporting documentation, such as the terms and conditions of the contract, for a ruling from the CRA on the individual's status.*
+    *I have attached the CRA's form Request for a CPP/EI Ruling - Employee or SelfEmployed? - CPT1 for your information. This form can be completed by the 
+    company and sent with supporting documentation, such as the terms and conditions of the contract, for a ruling from the CRA on the individual's status.*
 
     *I think that Payroll must coordinate with the Accounts Payable Department to ensure that these payments are being handled correctly.*
 
