@@ -4,11 +4,12 @@ PAYROLL COMPLIANCE AND REGULATIONS
 
 **LEARNING OBJECTIVES**
 
-By the end of this chapter, you will have a foundational understanding of payroll compliance and regulations in Canada. 
-This includes the various stakeholders involved, the objectives of payroll, and the legal frameworks that govern payroll 
-processes. You will also learn how to differentiate between federal and provincial/territorial jurisdictions, and how they 
-affect payroll administration. Additionally, you will understand the Canada Revenue Agency's criteria for determining whether 
-an individual is classified as an employee or self-employed.
+This chapter provides a comprehensive introduction to the fundamentals of payroll compliance and regulations in Canada. 
+It outlines the key stakeholders involved, the core objectives of payroll, and the legal frameworks that shape payroll 
+operations. The differences between federal and provincial/territorial jurisdictions are clearly explained, with emphasis on 
+how each level of government influences payroll administration. The chapter also examines the Canada Revenue Agency's 
+criteria for determining whether an individual is considered an employee or self-employed, providing essential context for 
+accurate classification and compliance.
 
 This chapter will cover the following topics:
 
