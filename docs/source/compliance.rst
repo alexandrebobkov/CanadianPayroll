@@ -42,7 +42,7 @@ type of relationship that exists between the worker and the organization and to 
 any payments made comply with legislation. 
 
 2. What are the Payroll's Objectives?
-======================================
+-------------------------------------
 
 The primary objective of the payroll function in every organization is to pay employees
 accurately and on time, in compliance with legislative requirements, for a full annual payroll
@@ -85,7 +85,7 @@ for example, union collective agreements or group insurance policies. Payroll pr
 must therefore ensure the organization is compliant with all stakeholder requirements.
 
 What are the Responsibilities of Payroll Function?
---------------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The responsibilities of the payroll practitioner will differ depending on the size of the
 organization, the number of jurisdictions in which they pay, the reporting structure under
@@ -116,7 +116,7 @@ The payroll department in a large organization may have:
   - payroll managers who manage the payroll function, the payroll staff and represent payroll at the management level
 
 Content Knowledge
------------------
+~~~~~~~~~~~~~~~~~
 
 Payroll practitioners should know the following to effectively perform their duties:
 
@@ -127,7 +127,7 @@ Payroll practitioners should know the following to effectively perform their dut
   - Payroll Reporting: how to calculate and remit amounts due to government agencies, insurance companies, unions and other third parties. In addition, payroll reporting includes accounting for payroll expenses and accruals to internal financial systems and federal and provincial/territorial year-end reporting.
 
 Technical Skills
-----------------
+~~~~~~~~~~~~~~~~
 
 The technical skills required by payroll professionals include proficiency in computer
 programs such as payroll software and financial systems, spreadsheets, databases and word
@@ -139,7 +139,7 @@ ability to be adaptable to changing systems. As a payroll practitioner, you must
 and willing to embrace continuous learning.
 
 Personal and Professional Skills
---------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The following personal and professional skills will assist payroll practitioners in dealing with
 the various stakeholders involved in the payroll process:
@@ -155,7 +155,7 @@ the various stakeholders involved in the payroll process:
   - problem solving, decision-making, time management and organizational skills
 
 Behavioural and Ethical Standards
-----------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Behaviour and ethics are two areas that build on the skills that an effective payroll practitioner
 must have. Effective payroll professionals should be:
