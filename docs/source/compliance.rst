@@ -693,7 +693,12 @@ What is the primary objective of the payroll department?
     on time, in compliance with the legislative requirements for a full annual payroll
     cycle.
 
-List four definitions of payroll. 
+List four definitions of payroll.
+
+    - the department that administers the payroll
+    - the total number of people employed by an organization
+    - the wages and salaries paid out in a year
+    - a list of employees to be paid and the amount due to each
 
 List the three types of payroll management stakeholders and provide an example of each.
 
