@@ -504,6 +504,10 @@ Worker is a *Self-Employed* when:
   - The worker can accept or refuse work from the payer.
   - The working relationship between the payer and the worker does not present a degree of continuity, loyalty, security, subordination, or integration.
 
+Tools and Equipment
+~~~~~~~~~~~~~~~~~~~~
+
+
 Review Summary
 --------------
 
