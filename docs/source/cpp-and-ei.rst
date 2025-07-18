@@ -105,6 +105,9 @@ Canada Pension Plan contributions must be withheld from employees who:
 
   1. CPP contributions must be withheld from employees who have reached the age of 18 but are under the age of 70.
   2. CPP contributions must be withheld from employees who are in pensionable employment.
+  3. CPP contributions must be withheld from employees in pensionable employment who are not considered to be disabled by either Service Canada or Retraite Québec.
+  4. CPP contributions must be withheld from employees who are 65 years of age but are under the age of 70 and are in receipt of the Canada or Québec Pension Plan retirement 
+  pension, but have not filed an election to stop paying CPP contributions.
 
 Employment Insurance
 --------------------
