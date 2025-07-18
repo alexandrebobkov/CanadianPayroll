@@ -501,19 +501,42 @@ accomplishment of a clearly defined task but does not normally require that the 
 party do anything him/herself. A person who carries out a contract for service may be
 considered a contract worker, a self-employed person or an independent contractor.
 
-A business relationship is formed when a self-employed individual enters into a verbal or written agreement to complete specific work for a payer in exchange for compensation. This arrangement does not establish an employer-employee relationship; instead, it represents a contract for services.
+A business relationship is formed when a self-employed individual enters into a verbal or written agreement to complete 
+specific work for a payer in exchange for compensation. This arrangement does not establish an employer-employee relationship; 
+instead, it represents a contract for services.
 
-Under this type of agreement, the self-employed individual is responsible for delivering a final result within an agreed timeframe, using methods of their own choosing. They are not subject to the direction or supervision of the payer while completing the work, and they retain autonomy over how tasks are executed. In most cases, the payer does not participate in or influence the work process, meaning control over the work lies entirely with the self-employed individual. This structure reflects a high level of independence and flexibility, distinguishing it clearly from traditional employment relationships.
+Under this type of agreement, the self-employed individual is responsible for delivering a final result within an agreed 
+timeframe, using methods of their own choosing. They are not subject to the direction or supervision of the payer while 
+completing the work, and they retain autonomy over how tasks are executed. In most cases, the payer does not participate in 
+or influence the work process, meaning control over the work lies entirely with the self-employed individual. This structure 
+reflects a high level of independence and flexibility, distinguishing it clearly from traditional employment relationships.
 
-Under a contract for service, a self-employed individual accepts both the potential for profit and the risk of financial loss. Prior to engagement, the individual agrees on the total cost of the work, uses personal tools and equipment, and assumes full responsibility for how the work is performed. This means the individual bears any unforeseen costs or challenges that arise during the project. Conversely, if the work is completed more efficiently than expected, the financial gain—through retained profits—is greater.
+Under a contract for service, a self-employed individual accepts both the potential for profit and the risk of financial loss. 
+Prior to engagement, the individual agrees on the total cost of the work, uses personal tools and equipment, and assumes full 
+responsibility for how the work is performed. This means the individual bears any unforeseen costs or challenges that arise 
+during the project. Conversely, if the work is completed more efficiently than expected, the financial gain—through retained 
+profits—is greater.
 
-Organizations often utilize contracts for service when they require tasks or projects that fall outside their normal business operations. While the relationship between a payer and a self-employed contractor may resemble that of an employer and employee, there is a key distinction. In a contract for service, the payer specifies the desired outcome or deliverable, but not how the work should be completed. In contrast, a contract of service allows the employer to direct both the tasks and the method by which they are carried out, establishing a more controlled, employee-based relationship.
+Organizations often utilize contracts for service when they require tasks or projects that fall outside their normal business 
+operations. While the relationship between a payer and a self-employed contractor may resemble that of an employer and 
+employee, there is a key distinction. In a contract for service, the payer specifies the desired outcome or deliverable, but 
+not how the work should be completed. In contrast, a contract of service allows the employer to direct both the tasks and the 
+method by which they are carried out, establishing a more controlled, employee-based relationship.
 
-Under a contract for service, the payer exercises general oversight to ensure that the agreed work is completed as specified. However, this oversight does not extend to controlling how the work is performed. The self-employed individual retains autonomy over the methods used to complete the tasks. Receiving general instructions from a project manager or similar representative does not establish an employer-employee relationship.
+Under a contract for service, the payer exercises general oversight to ensure that the agreed work is completed as specified. 
+However, this oversight does not extend to controlling how the work is performed. The self-employed individual retains 
+autonomy over the methods used to complete the tasks. Receiving general instructions from a project manager or similar 
+representative does not establish an employer-employee relationship.
 
-An employee-employer relationship is recognized when an organization has the authority to direct and control both the work and the manner in which it is performed. If there is uncertainty about whether such a relationship exists, the Canada Revenue Agency (CRA) recommends submitting Form CPT1 — Request for a CPP/EI Ruling: Employee or Self-Employed? — to obtain clarification. A sample of this form can be found at the end of this section.
+An employee-employer relationship is recognized when an organization has the authority to direct and control both the work and 
+the manner in which it is performed. If there is uncertainty about whether such a relationship exists, the Canada Revenue 
+Agency (CRA) recommends submitting Form CPT1 — Request for a CPP/EI Ruling: Employee or Self-Employed? — to obtain 
+clarification. A sample of this form can be found at the end of this section.
 
-Independent contractors or self-employed individuals are not classified as employees if no employer-employee relationship is present. They typically submit invoices and receive payment through accounts payable. However, the act of submitting an invoice alone is not sufficient to confirm self-employment status. Proper assessment of the working relationship is essential to ensure accurate classification and compliance with tax and labor regulations.
+Independent contractors or self-employed individuals are not classified as employees if no employer-employee relationship is 
+present. They typically submit invoices and receive payment through accounts payable. However, the act of submitting an 
+invoice alone is not sufficient to confirm self-employment status. Proper assessment of the working relationship is essential 
+sto ensure accurate classification and compliance with tax and labor regulations.
 
 Factors Determining the Type of Contract
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -554,11 +577,9 @@ worker is an employee or self-employed will be provided.
 Control
 ~~~~~~~
 
-The ability, authority or right to exercise control over a worker concerning how the work is
-done and what work is done is one of the factors considered, as is the degree of independence
-held by the worker. Both the payer's control over the worker's daily activities and the payer's
-influence over the worker will be examined. The relevant factor is the payer's right to
-exercise control. Whether the payer actually exercises this right is irrelevant.
+One of the key factors in determining a worker’s status is the extent to which the payer has the ability, authority, or right to control both what work is performed and how it is carried out. Equally important is the level of independence the worker maintains in performing their duties.
+
+In evaluating the relationship, both the payer’s oversight of the worker’s day-to-day activities and their overall influence are assessed. However, it is the payer’s right to exercise control—rather than whether that control is actively used—that holds the most weight in determining the nature of the working relationship.
 
 Worker is an *Employee* when:
 
