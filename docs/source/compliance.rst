@@ -483,6 +483,12 @@ worker is an employee or self-employed will be provided.
 Control
 ~~~~~~~
 
+The ability, authority or right to exercise control over a worker concerning how the work is
+done and what work is done is one of the factors considered, as is the degree of independence
+held by the worker. Both the payer's control over the worker's daily activities and the payer's
+influence over the worker will be examined. The relevant factor is the payer's right to
+exercise control. Whether the payer actually exercises this right is irrelevant.
+
 Review Summary
 --------------
 
