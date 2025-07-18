@@ -577,9 +577,13 @@ worker is an employee or self-employed will be provided.
 Control
 ~~~~~~~
 
-One of the key factors in determining a worker’s status is the extent to which the payer has the ability, authority, or right to control both what work is performed and how it is carried out. Equally important is the level of independence the worker maintains in performing their duties.
+One of the key factors in determining a worker's status is the extent to which the payer has the ability, authority, or 
+right to control both what work is performed and how it is carried out. Equally important is the level of independence the 
+worker maintains in performing their duties.
 
-In evaluating the relationship, both the payer’s oversight of the worker’s day-to-day activities and their overall influence are assessed. However, it is the payer’s right to exercise control—rather than whether that control is actively used—that holds the most weight in determining the nature of the working relationship.
+In evaluating the relationship, both the payer's oversight of the worker's day-to-day activities and their overall 
+influence are assessed. However, it is the payer’s right to exercise control—rather than whether that control is actively 
+used—that holds the most weight in determining the nature of the working relationship.
 
 Worker is an *Employee* when:
 
