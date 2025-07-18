@@ -407,6 +407,30 @@ The following are some of the available resources:
 
   - Carswell publishes The Canadian Payroll Manual and offers a phone and email service to subscribers - www.carswell.com
 
+Legislative Compliance
+~~~~~~~~~~~~~~~~~~~~~~~
+
+In addition to payroll's primary role of paying employees accurately and on time, payroll
+practitioners are also directly or indirectly responsible for supporting and/or ensuring
+compliance with the requirements of various government acts. Where legislation requires
+employer compliance (for example, remittance of payroll source deductions, Canada Pension
+Plan contributions, Employment Insurance premiums, and federal and provincial/territorial
+income tax deductions) there are financial penalties or the possibility of legal action to
+encourage compliance.
+
+Fines, penalties and interest charges are typically a result of audits and legal action. These
+may result in seizure of bank accounts and/or assets, fines of $1,000 to $25,000, and in some
+cases, jail sentences up to 12 months.
+
+Government departments and agencies responsible for administering legislation employ a
+variety of systems for tracking compliance. Some systems, such as the monitoring of source
+deduction remittances, are ongoing, with regimented reporting time frames that lay down a
+continual audit trail. Failure to meet the requirements of this legislation will incur a rapid
+response that may result in fines and penalties.
+
+Reporting requirements that do not involve ongoing, regular reporting may not impose an
+immediate fine but may initiate a visit from an auditor or other official seeking compliance.
+
 The Employee-Employer Relationship
 -----------------------------------
 
