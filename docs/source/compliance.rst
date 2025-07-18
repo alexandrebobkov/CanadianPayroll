@@ -718,16 +718,11 @@ What are two examples of sources of information that you use (or could use) to k
       participation on an electronic mailing list with e-mail alerts for new content to the site
       - The Revenu Québec (RQ) website provides guides, publications, bulletins, forms, online services and enables participation on an electronic mailing list with e-mail notifications of tax news articles 
       - Employment/labour standards (federal, provincial and territorial) publications and websites
- Employment and Social Development Canada (ESDC) and Service Canada (SC)
-publications including information regarding the Employment Insurance (EI)
-program and the Social Insurance Number
- CCH Canada Limited publishes a series of volumes on employment and labour
-law, pensions and benefits, etc., that supplies information on legislation with
-regular updates as changes become law
- Carswell publishes The Canadian Payroll Manual and offers a phone-in service
-to subscribers
-Copies of legislation are available from the printing offices of the federal, provincial
-and territorial governments as well as through government websites. 
+      - Employment and Social Development Canada (ESDC) and Service Canada (SC) publications including information regarding the Employment Insurance (EI) program and the Social Insurance Number
+      - CCH Canada Limited publishes a series of volumes on employment and labour law, pensions and benefits, etc., that supplies information on legislation with regular updates as changes become law
+      - Carswell publishes The Canadian Payroll Manual and offers a phone-in service to subscribers
+
+    Copies of legislation are available from the printing offices of the federal, provincial and territorial governments as well as through government websites. 
 
 List three external stakeholders and explain their compliance requirements. 
 
