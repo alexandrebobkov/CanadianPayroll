@@ -284,6 +284,13 @@ employment/labour standards jurisdiction the employees of the organization fall.
 Organizations may have some employees who fall under federal jurisdiction and another
 group of employees who fall under provincial/territorial legislation.
 
+Internal Stakeholders
+~~~~~~~~~~~~~~~~~~~~~~
+
+
+Legislation
+-----------
+
 Review Summary
 --------------
 
