@@ -21,7 +21,7 @@ This chapter will cover the following topics:
   6. Apply the Canada Revenue Agency's factors for determining whether an individual is an employee or self-employed
 
 Introduction
-============
+~~~~~~~~~~~~
 
 Payroll is a necessary function in every organization that has employees, as each employee
 expects to be paid for the work they perform. While the amount of maximum remuneration
