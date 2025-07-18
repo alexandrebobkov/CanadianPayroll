@@ -134,7 +134,7 @@ professional landscape.
 
 **Personal and Professional Skills**
 
-The following personal and professional skills will assist payroll practitioners in dealing with
+The following personal and professional skills will assist payroll professionals in dealing with
 the various stakeholders involved in the payroll process:
 
   - written communication skills, such as preparing employee emails and memos, management reports, policies and procedures and correspondence with various levels of government
@@ -149,8 +149,13 @@ the various stakeholders involved in the payroll process:
 
 **Behavioural and Ethical Standards**
 
-Behaviour and ethics are two areas that build on the skills that an effective payroll practitioner
-must have. Effective payroll professionals should be:
+Professional behaviour and ethical conduct are critical components of an effective payroll practitioner’s skill set. In this role, individuals must demonstrate trustworthiness, given the constant potential for fraud. Attention to detail is essential, making conscientiousness a valued trait.
+
+Payroll professionals handle sensitive personal and financial data, so discretion is non-negotiable. They must also be tactful when interacting with employees, particularly in conversations involving financial concerns, which may be emotionally charged. Perceptiveness helps practitioners understand multiple perspectives in complex situations.
+
+The ability to work under pressure is key, especially when managing absolute deadlines. Sound judgment and common sense allow practitioners to identify problems quickly and implement effective solutions. Finally, maintaining objectivity and a factual approach when responding to questions and inquiries ensures fair and consistent communication across the organization.
+
+Effective payroll professionals should be:
 
   - trustworthy, as the potential for fraud is ever present
   - conscientious, with a keen attention to detail
