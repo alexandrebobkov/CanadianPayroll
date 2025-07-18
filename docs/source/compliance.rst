@@ -777,6 +777,6 @@ of the contract, for a ruling from the CRA on the individual’s status.
     I think that Payroll must coordinate with the Accounts Payable Department to
 ensure that these payments are being handled correctly.
 
-    Tom and I would be pleased to meet with you to ensure the company is in
-compliance with all legislative requirements. Would you be available next Friday
-morning at 10:00 to discuss?
+    *Tom and I would be pleased to meet with you to ensure the company is in
+    compliance with all legislative requirements. Would you be available next Friday
+    morning at 10:00 to discuss?*
