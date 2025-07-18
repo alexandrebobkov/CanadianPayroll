@@ -40,8 +40,8 @@ whether an employee-employer relationship exists. It is crucial to know how to d
 type of relationship that exists between the worker and the organization and to ensure that
 any payments made comply with legislation. 
 
-What are the Payroll's Objectives?
--------------------------------------
+Payroll Objectives
+------------------
 
 The primary objective of the payroll function in every organization is to pay employees
 accurately and on time, in compliance with legislative requirements, for a full annual payroll
