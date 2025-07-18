@@ -687,7 +687,11 @@ Finally, the CRA assesses the extent to which the worker can control their reven
 Review Questions
 ----------------
 
-What is the primary objective of the payroll department? 
+What is the primary objective of the payroll department?
+
+    The primary objective of the payroll department is to pay employees accurately and
+    on time, in compliance with the legislative requirements for a full annual payroll
+    cycle.
 
 List four definitions of payroll. 
 
