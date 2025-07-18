@@ -94,6 +94,34 @@ The CPP operates throughout Canada while the province of Québec administers its
 **Québec Pension Plan** (QPP). The two plans work together to ensure that all contributors are protected, no matter where the 
 individual lives. Québec Pension Plan requirements will be covered later in this course.
 
+Who Must Contribute to the Canada Pension Plan
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The CPP is a **contributory plan**. This means that all costs are covered by the financial contributions paid by employees, 
+employers and self-employed workers, and from revenue earned on CPP investments. The CPP is not funded through general tax 
+revenues.
+
+Canada Pension Plan contributions must be withheld from employees who:
+
+  1. CPP contributions must be withheld from employees who have reached the age of 18 but are under the age of 70.
+  2. CPP contributions must be withheld from employees who are in pensionable employment.
+  3. CPP contributions must be withheld from employees in pensionable employment who are not considered to be disabled by either Service Canada or Retraite Québec.
+  4. CPP contributions must be withheld from employees who are 65 years of age but are under the age of 70 and are in receipt of the Canada or Québec Pension Plan retirement 
+  pension, but have not filed an election to stop paying CPP contributions.
+
+In principle, employees who do not fall within the categories listed previously would not make CPP contributions. However, it 
+is not always clear what constitutes pensionable earnings and pensionable employment. To clarify eligibility, the CRA has 
+developed a list of the types of employment that are not subject to CPP contributions. This information can also be found in 
+the Employers' Guide - Payroll Deductions and Remittances - T4001, which is published by the CRA.
+
+The following types of employment are excluded by legislation and therefore do not constitute pensionable employment. Payments arising from such employment are not subject
+to CPP contributions:
+
+  - employment in agriculture, or an agricultural enterprise, horticulture, fishing, hunting, trapping, forestry, logging, or lumbering, by an employer:
+    - who pays the employee less than $250 in cash remuneration in a calendar year; or
+    - employs the employee for a period of less than 25 working days in the same year on terms providing for payment of cash remuneration—the working days do not have to be consecutive
+
+
 Employment Insurance
 --------------------
 
