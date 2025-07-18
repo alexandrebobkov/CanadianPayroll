@@ -32,6 +32,14 @@ This chapter will cover the following topics:
 Canada Pension Plan
 -------------------
 
+Objective of this section is to enable you to Identify the following Canada Pension Plan components:
+
+  - Who must contribute to the Canada Pension Plan
+  - Types of employment subject to Canada Pension Plan contributions
+  - Types of employment not subject to Canada Pension Plan contributions
+  - Payments and benefits subject to Canada Pension Plan contributions
+  - Payments and benefits not subject to Canada Pension Plan contributions
+
 Employment Insurance
 --------------------
 
