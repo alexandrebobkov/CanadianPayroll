@@ -729,25 +729,47 @@ The worker is a self-employed individual when:
 Review Summary
 --------------
 
-The core purpose of the payroll function within any organization is to ensure employees are compensated accurately and punctually, in accordance with all applicable legislation throughout the full annual payroll cycle. This essential function supports employee satisfaction, regulatory compliance, and overall operational efficiency.
+The core purpose of the payroll function within any organization is to ensure employees are compensated accurately and 
+punctually, in accordance with all applicable legislation throughout the full annual payroll cycle. This essential function 
+supports employee satisfaction, regulatory compliance, and overall operational efficiency.
 
-Payroll refers to the systematic process of remunerating employees for their services. It involves calculating earnings, applying deductions for taxes and benefits, and issuing payments through approved channels. Precision in these processes is critical to avoid financial discrepancies and foster organizational trust.
+Payroll refers to the systematic process of remunerating employees for their services. It involves calculating earnings, 
+applying deductions for taxes and benefits, and issuing payments through approved channels. Precision in these processes is 
+critical to avoid financial discrepancies and foster organizational trust.
 
-Legislation encompasses the legal framework enacted by federal, provincial, and territorial bodies that governs payroll activities. This includes tax laws, employment standards, and workplace rights. Compliance means adhering to these legal requirements to prevent penalties and uphold ethical business practices.
+Legislation encompasses the legal framework enacted by federal, provincial, and territorial bodies that governs payroll 
+activities. This includes tax laws, employment standards, and workplace rights. Compliance means adhering to these legal 
+requirements to prevent penalties and uphold ethical business practices.
 
-To execute payroll duties effectively, practitioners must possess comprehensive knowledge of payroll legislation, operational processes, and reporting obligations. Beyond technical expertise, strong interpersonal and professional skills are essential, enabling practitioners to adapt to legislative changes and uphold standards of accountability.
+To execute payroll duties effectively, practitioners must possess comprehensive knowledge of payroll legislation, operational 
+processes, and reporting obligations. Beyond technical expertise, strong interpersonal and professional skills are essential, 
+enabling practitioners to adapt to legislative changes and uphold standards of accountability.
 
-Stakeholders—both internal and external—have a vested interest in the payroll function’s integrity and outcomes. Internally, this includes employees, employers, and interconnected departments such as human resources and finance. Externally, stakeholders may include benefit providers, unions, pension administrators, charitable organizations, legal entities, and software vendors. Their interaction with payroll processes influences expectations around accuracy, compliance, and data coordination.
+Stakeholders—both internal and external—have a vested interest in the payroll function's integrity and outcomes. Internally, 
+this includes employees, employers, and interconnected departments such as human resources and finance. Externally, 
+stakeholders may include benefit providers, unions, pension administrators, charitable organizations, legal entities, and 
+software vendors. Their interaction with payroll processes influences expectations around accuracy, compliance, and data 
+coordination.
 
-Payroll governance is shaped by both federal and provincial/territorial authority. The federal government enacts legislation that applies nationally, particularly for industries operating across provinces or those serving a broader national interest. Provincial and territorial governments regulate regional matters such as civil rights, property, and employment standards within local industries. Any sector not under federal oversight typically falls under provincial or territorial jurisdiction.
+Payroll governance is shaped by both federal and provincial/territorial authority. The federal government enacts legislation 
+that applies nationally, particularly for industries operating across provinces or those serving a broader national interest. 
+Provincial and territorial governments regulate regional matters such as civil rights, property, and employment standards 
+within local industries. Any sector not under federal oversight typically falls under provincial or territorial jurisdiction.
 
-Employers are obliged to comply with the labour and employment standards applicable to the jurisdiction in which their employees work—unless federal laws take precedence. Where legislation mandates compliance, enforcement may include financial penalties or legal action to ensure accountability.
+Employers are obliged to comply with the labour and employment standards applicable to the jurisdiction in which their 
+employees work—unless federal laws take precedence. Where legislation mandates compliance, enforcement may include financial 
+penalties or legal action to ensure accountability.
 
-Employment relationships are defined through contractual arrangements. A contract of service refers to a traditional employer-employee relationship, where an individual commits to working for an employer—either on a full-time or part-time basis—for a specified or ongoing period. The employer has authority over both the duties and how they are executed.
+Employment relationships are defined through contractual arrangements. A contract of service refers to a traditional 
+employer-employee relationship, where an individual commits to working for an employer—either on a full-time or part-time 
+basis—for a specified or ongoing period. The employer has authority over both the duties and how they are executed.
 
-Conversely, a contract for service reflects a business arrangement where an independent contractor agrees to perform specific tasks, with discretion over how the work is completed. This signifies a client-provider relationship rather than an employment one.
+Conversely, a contract for service reflects a business arrangement where an independent contractor agrees to perform specific 
+tasks, with discretion over how the work is completed. This signifies a client-provider relationship rather than an employment 
+one.
 
-To assess worker classification—particularly outside Québec—the Canada Revenue Agency (CRA) employs a two-step evaluation. Key considerations include:
+To assess worker classification—particularly outside Québec—the Canada Revenue Agency (CRA) employs a two-step evaluation. Key 
+considerations include:
 
 Control: Whether the payer holds the right to determine what work is done and how it is executed.
 
