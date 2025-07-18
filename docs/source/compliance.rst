@@ -132,3 +132,30 @@ circumstances
 insurance companies, unions and other third parties. In addition, payroll reporting
 includes accounting for payroll expenses and accruals to internal financial systems
 and federal and provincial/territorial year-end reporting.
+
+Technical Skills
+----------------
+
+The technical skills required by payroll professionals include proficiency in computer
+programs such as payroll software and financial systems, spreadsheets, databases and word
+processing.
+
+Organizations often change their payroll and business systems to meet new technology
+requirements and corporate reporting needs. It is important for payroll personnel to have the
+ability to be adaptable to changing systems. As a payroll practitioner, you must be prepared
+and willing to embrace continuous learning.
+
+Personal and Professional Skills
+--------------------------------
+
+The following personal and professional skills will assist payroll practitioners in dealing with
+the various stakeholders involved in the payroll process:
+ written communication skills, such as preparing employee emails and memos,
+management reports, policies and procedures and correspondence with various levels
+of government
+ verbal communication skills, to be able to respond to internal and external
+stakeholder inquiries
+ the ability to read, understand and interpret legal terminology found in documents
+such as collective agreements, benefit contracts and government regulations
+ excellent mathematical skills to perform various calculations
+ problem solving, decision-making, time management and organizational skills
