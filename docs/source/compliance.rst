@@ -501,50 +501,19 @@ accomplishment of a clearly defined task but does not normally require that the 
 party do anything him/herself. A person who carries out a contract for service may be
 considered a contract worker, a self-employed person or an independent contractor.
 
-A business relationship is a verbal or written agreement in which a self-employed individual
-agrees to perform specific work for a payer in return for payment. There is no employer or
-employee. The self-employed individual generally does not have to carry out all or even part
-of the work himself. In this type of business relationship, a contract for services exists.
+A business relationship is formed when a self-employed individual enters into a verbal or written agreement to complete specific work for a payer in exchange for compensation. This arrangement does not establish an employer-employee relationship; instead, it represents a contract for services.
 
-The self-employed individual is required to produce a given result within a period of time in
-the manner he deems most appropriate. While performing the work, he is not under the
-orders or control of the person for whom he is doing the work and he can use his own
-initiative in matters that are not specified or determined at the outset. The payer is not
-normally involved in the performance of the work and, therefore, has no control over it.
+Under this type of agreement, the self-employed individual is responsible for delivering a final result within an agreed timeframe, using methods of their own choosing. They are not subject to the direction or supervision of the payer while completing the work, and they retain autonomy over how tasks are executed. In most cases, the payer does not participate in or influence the work process, meaning control over the work lies entirely with the self-employed individual. This structure reflects a high level of independence and flexibility, distinguishing it clearly from traditional employment relationships.
 
-Under a contract for service, a self-employed individual assumes the chance of profit and risk
-of loss. By agreeing, before he is engaged, to establish the overall cost of the work to be
-done, owning his tools and instruments and being solely responsible for the manner in which
-the work is done, the self-employed individual assumes all risk of loss resulting from events
-that occur during the course of the work which were not, or could not, be foreseen when the
-contract was negotiated. If, on the other hand, the work is completed sooner or more easily
-than expected, the contractor's profit will be greater.
+Under a contract for service, a self-employed individual accepts both the potential for profit and the risk of financial loss. Prior to engagement, the individual agrees on the total cost of the work, uses personal tools and equipment, and assumes full responsibility for how the work is performed. This means the individual bears any unforeseen costs or challenges that arise during the project. Conversely, if the work is completed more efficiently than expected, the financial gain—through retained profits—is greater.
 
-A contract for service is often used when an organization wishes to have work done which
-does not fall within its usual scope of operations. The relationship between a payer and a
-self-employed individual and that between an employer and their employees are sometimes
-quite similar. The main difference between the two relationships is that, in a contract for
-service, the party paying for the service is entitled to dictate what is to be done or what result
-is to be achieved; whereas, in a contract of service, the employer is also entitled to stipulate
-the manner in which the work is to be done.
+Organizations often utilize contracts for service when they require tasks or projects that fall outside their normal business operations. While the relationship between a payer and a self-employed contractor may resemble that of an employer and employee, there is a key distinction. In a contract for service, the payer specifies the desired outcome or deliverable, but not how the work should be completed. In contrast, a contract of service allows the employer to direct both the tasks and the method by which they are carried out, establishing a more controlled, employee-based relationship.
 
-Under a contract for service, the person for whom the work is being done exercises general
-supervision. He can and should see that the work is completed in accordance with the
-agreement, but it is not up to him to give orders to the self-employed individual regarding the
-manner in which the work is to be done. The mere fact that a self-employed individual
-receives general instructions from the project manager concerning the work to be done does
-not mean that he can be considered an employee.
+Under a contract for service, the payer exercises general oversight to ensure that the agreed work is completed as specified. However, this oversight does not extend to controlling how the work is performed. The self-employed individual retains autonomy over the methods used to complete the tasks. Receiving general instructions from a project manager or similar representative does not establish an employer-employee relationship.
 
-An employee-employer relationship is deemed to exist where the organization exercises, or
-has the right to exercise, direct control over the individual. If the organization is unsure as to
-whether or not a relationship exists, the Canada Revenue Agency (CRA) form Request for a
-CPP/EI Ruling - Employee or Self-Employed?  - CPT1 should be submitted to the CRA. A
-sample of the CPT1 form is provided at the end of this section.
+An employee-employer relationship is recognized when an organization has the authority to direct and control both the work and the manner in which it is performed. If there is uncertainty about whether such a relationship exists, the Canada Revenue Agency (CRA) recommends submitting Form CPT1 — Request for a CPP/EI Ruling: Employee or Self-Employed? — to obtain clarification. A sample of this form can be found at the end of this section.
 
-Independent contractors or self-employed individuals are not considered employees of the
-organization provided no employee-employer relationship exists. Persons who are truly selfemployed individuals will submit invoices and be paid through accounts payable. However,
-the submission of an invoice to accounts payable is not sufficient to determine if the
-individual is self-employed.
+Independent contractors or self-employed individuals are not classified as employees if no employer-employee relationship is present. They typically submit invoices and receive payment through accounts payable. However, the act of submitting an invoice alone is not sufficient to confirm self-employment status. Proper assessment of the working relationship is essential to ensure accurate classification and compliance with tax and labor regulations.
 
 Factors Determining the Type of Contract
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
