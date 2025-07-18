@@ -1,5 +1,5 @@
 ##########################
-🍁 OBNOARDING EMPLOYEE 🍁
+ OBNOARDING EMPLOYEE 
 ##########################
 
 In the context of Canadian payroll administration, onboarding an employee refers to the formal process of integrating a new hire into 
@@ -33,7 +33,7 @@ RRSP or pension plans), and other benefits. These deductions must be accurately 
 * Confirm Employment Agreement & Start Date
 
 
-🍁 Compliance & Record Keeping
+Compliance & Record Keeping
 
 * Employers in Canada are responsible for keeping accurate records of employee data, pay stubs, deductions, and remittances for 
 at least 6 years.

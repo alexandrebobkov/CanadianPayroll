@@ -17,7 +17,7 @@ the anxiety often associated with its complexity. Designed to be clear, practica
 to confidently perform essential payroll functions encountered in day-to-day operations.
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Table of Contents:
    :numbered:
 
