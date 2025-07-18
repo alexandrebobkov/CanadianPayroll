@@ -707,3 +707,20 @@ Indicate the jurisdiction the following employees fall under:
   - Canadian Broadcasting Corporation
   - A retail department store with locations in every province
   - A chartered bank. 
+
+What is the difference between a contract of service and a contract for service? 
+
+What are the factors that the Canada Revenue Agency (CRA) considers when
+determining if a contract of service or a contract for service exists? 
+
+Please consider the following scenario.
+
+    You are a payroll professional working for a large manufacturing company. Your
+    organization has had many change initiatives over the last number of years including
+    three mergers and two large group terminations. Your company endorses the use of
+    consultants rather than growing the number of permanent employees.
+
+    Write a memo to your supervisor, who is the Chief Financial Officer of the company, to
+    explain why your role must coordinate with the Accounts Payable Department to ensure
+    that these payments are being handled correctly. Please prepare your answer in a separate
+    document. 
