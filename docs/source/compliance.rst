@@ -41,8 +41,8 @@ whether an employee-employer relationship exists. It is crucial to know how to d
 type of relationship that exists between the worker and the organization and to ensure that
 any payments made comply with legislation. 
 
-What are the Payroll's Objectives?
-==================================
+2. What are the Payroll's Objectives?
+======================================
 
 The primary objective of the payroll function in every organization is to pay employees
 accurately and on time, in compliance with legislative requirements, for a full annual payroll
@@ -85,7 +85,7 @@ for example, union collective agreements or group insurance policies. Payroll pr
 must therefore ensure the organization is compliant with all stakeholder requirements.
 
 What are the Responsibilities of Payroll Function?
-==================================================
+--------------------------------------------------
 
 The responsibilities of the payroll practitioner will differ depending on the size of the
 organization, the number of jurisdictions in which they pay, the reporting structure under
