@@ -120,10 +120,8 @@ Content Knowledge
 
 Payroll practitioners should know the following to effectively perform their duties:
 
-  - Payroll Compliance Legislation: the Income Tax Act, the Employment Insurance
-Act, the Canada Pension Plan Act, Employment/Labour Standards, privacy
-legislation, Workers' Compensation and provincial/territorial payroll-specific
-legislation
+  - Payroll Compliance Legislation: the Income Tax Act, the Employment Insurance Act, the Canada Pension Plan Act, Employment/Labour Standards, privacy legislation, Workers' Compensation and provincial/territorial payroll-specific legislation
+
   - Payroll Processes: the remuneration and deduction components of payroll and how
 to use these components to calculate a net pay in both regular and non-regular
 circumstances
