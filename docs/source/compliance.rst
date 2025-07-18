@@ -184,7 +184,7 @@ benefit carriers, courts, unions, pension providers, charities, third party admi
 outsource/software vendors. 
 
 Government Stakeholders
------------------------
+~~~~~~~~~~~~~~~~~~~~~~~
 
 Government legislation provides the rules and regulations that the payroll function must
 administer with respect to payments made to employees. For this reason, it is important for
@@ -258,7 +258,7 @@ employees under federal jurisdiction in the following industries and organizatio
   - organizations whose operations have been declared for the general advantage of Canada or two or more provinces, and such Crown corporations as Canada Post Corporation, and the Canadian Broadcasting Corporation (CBC)
 
 Review Summary
-==============
+--------------
 
 The primary objective of the payroll function in every organization is to ensure that employees are paid accurately 
 and on time, in full compliance with legislative requirements, throughout the entire annual payroll cycle. This function is 
