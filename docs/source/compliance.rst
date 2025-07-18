@@ -644,8 +644,7 @@ The worker is a self-employed individual when:
   - The worker does not have to perform the service personally.
   - They can hire another party to complete the work, without consulting with the payer.
 
-Financial Risk
-~~~~~~~~~~~~~~
+**Financial Risk**
 
 When evaluating the nature of a working relationship, the Canada Revenue Agency (CRA) considers whether the individual 
 incurs fixed, ongoing costs or unreimbursed expenses. In traditional employee arrangements, employers typically reimburse 
