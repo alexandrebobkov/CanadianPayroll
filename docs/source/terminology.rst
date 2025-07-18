@@ -2,5 +2,5 @@
 TERMINOLOGY
 ###########
 
-Pensionabe Earnings
+Pensionable Earnings
 --------------------
