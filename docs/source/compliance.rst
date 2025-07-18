@@ -760,3 +760,23 @@ Please consider the following scenario.
     explain why your role must coordinate with the Accounts Payable Department to ensure
     that these payments are being handled correctly. Please prepare your answer in a separate
     document. 
+
+    *At the last weekly Finance meeting, Tom and I discussed the increase in the number of contractor invoices being 
+    processed through accounts payable (AP). We have some concerns as to whether these individuals would be considered truly 
+    selfemployed by the Canada Revenue Agency (CRA), or whether the CRA would determine them to be employees.*
+
+    If the worker is considered self-employed, then payment, on submission of an
+invoice, will continue to be handled by AP. If, however, the worker is considered an
+employee, they would have to be set up on payroll, as they would be in receipt of
+income from employment, subject to all legislated statutory withholdings.
+
+    I have attached the CRA’s form Request for a CPP/EI Ruling – Employee or SelfEmployed? – CPT1 for your information. This form can be completed by the
+company and sent with supporting documentation, such as the terms and conditions
+of the contract, for a ruling from the CRA on the individual’s status.
+
+    I think that Payroll must coordinate with the Accounts Payable Department to
+ensure that these payments are being handled correctly.
+
+    Tom and I would be pleased to meet with you to ensure the company is in
+compliance with all legislative requirements. Would you be available next Friday
+morning at 10:00 to discuss?
