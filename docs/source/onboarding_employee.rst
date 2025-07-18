@@ -33,7 +33,7 @@ RRSP or pension plans), and other benefits. These deductions must be accurately 
 * Confirm Employment Agreement & Start Date
 
 
-🍁 Compliance & Record Keeping
+Compliance & Record Keeping
 
 * Employers in Canada are responsible for keeping accurate records of employee data, pay stubs, deductions, and remittances for 
 at least 6 years.
