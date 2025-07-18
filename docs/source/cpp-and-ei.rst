@@ -94,6 +94,9 @@ The CPP operates throughout Canada while the province of Québec administers its
 **Québec Pension Plan** (QPP). The two plans work together to ensure that all contributors are protected, no matter where the 
 individual lives. Québec Pension Plan requirements will be covered later in this course.
 
+Who Must Contribute to the Canada Pension Plan
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 Employment Insurance
 --------------------
 
