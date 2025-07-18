@@ -20,8 +20,11 @@ This chapter will cover the following topics:
     - Who must pay Employment Insurance premiums
     - Types of employment subject to Employment Insurance premiums
     - Types of employment not subject to Employment Insurance premiums
- Payments and benefits subject to Employment Insurance premiums
- Payments and benefits not subject to Employment Insurance premiums
+    - Payments and benefits subject to Employment Insurance premiums
+    - Payments and benefits not subject to Employment Insurance premiums
+
   4. Calculate Employment Insurance premiums at an individual level
+
   5. Describe the purpose of a Record of Employment
+  
   6. Identify when the Record of Employment must be completed
