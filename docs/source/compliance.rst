@@ -401,3 +401,14 @@ Review Questions
 What is the primary objective of the payroll department? 
 
 List four definitions of payroll. 
+
+List the three types of payroll management stakeholders and provide an example of each.
+
+Indicate the jurisdiction the following employees fall under:
+
+  - Canada Post Corporation
+  - An insurance company
+  - A uranium mining company
+  - Canadian Broadcasting Corporation
+  - A retail department store with locations in every province
+  - A chartered bank. 
