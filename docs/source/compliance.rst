@@ -146,11 +146,12 @@ the various stakeholders involved in the payroll process:
 
   - written communication skills, such as preparing employee emails and memos, management reports, policies and procedures and correspondence with various levels of government
 
-  - verbal communication skills, to be able to respond to internal and external
-stakeholder inquiries
-  - the ability to read, understand and interpret legal terminology found in documents
-such as collective agreements, benefit contracts and government regulations
+  - verbal communication skills, to be able to respond to internal and external stakeholder inquiries
+
+  - the ability to read, understand and interpret legal terminology found in documents such as collective agreements, benefit contracts and government regulations
+  
   - excellent mathematical skills to perform various calculations
+
   - problem solving, decision-making, time management and organizational skills
 
 Behavioural and Ethical Standards
