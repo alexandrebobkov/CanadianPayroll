@@ -580,6 +580,14 @@ The worker is a self-employed individual when:
   - The worker hires helpers to assist and pays them.
   - The worker advertises the services offered.
 
+Responsibility for Investment and Management
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+If the worker is required to make an investment in order to provide the services, this is
+evidence that a business relationship may exist. Another factor indicating the existence of a
+contract for service is if the worker is responsible for making the business decisions that
+affect their profits or losses.
+
 The worker is an employee when:
 
 The worker is a self-employed individual when:
