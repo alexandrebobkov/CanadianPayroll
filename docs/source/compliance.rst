@@ -111,7 +111,7 @@ The payroll department in a large organization may have:
 
 **Content Knowledge**
 
-Payroll practitioners should know the following to effectively perform their duties:
+Payroll normally requires performing the following duties:
 
   - Payroll Compliance Legislation: the Income Tax Act, the Employment Insurance Act, the Canada Pension Plan Act, Employment/Labour Standards, privacy legislation, Workers' Compensation and provincial/territorial payroll-specific legislation
 
@@ -121,14 +121,16 @@ Payroll practitioners should know the following to effectively perform their dut
 
 **Technical Skills**
 
-The technical skills required by payroll professionals include proficiency in computer
-programs such as payroll software and financial systems, spreadsheets, databases and word
-processing.
+Payroll professionals must possess a strong set of technical skills to perform their roles effectively. These include 
+proficiency in payroll software and financial systems, as well as competence in commonly used computer applications such as 
+spreadsheets, databases, and word processing programs. Mastery of these tools ensures accurate processing, reporting, and 
+management of payroll-related data.
 
-Organizations often change their payroll and business systems to meet new technology
-requirements and corporate reporting needs. It is important for payroll personnel to have the
-ability to be adaptable to changing systems. As a payroll practitioner, you must be prepared
-and willing to embrace continuous learning.
+As organizations evolve and adapt to new technologies and reporting requirements, payroll and business systems are frequently 
+updated or replaced. Therefore, it is essential for payroll personnel to remain flexible and open to change. A successful 
+payroll practitioner should demonstrate a willingness to embrace continuous learning and stay current with system upgrades and 
+best practices. This adaptability not only enhances performance but also supports long-term career growth in an ever-changing 
+professional landscape.
 
 **Personal and Professional Skills**
 
