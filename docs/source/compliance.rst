@@ -572,6 +572,16 @@ Employers are required to adhere to the employment and labour standards legislat
 employees work, unless they are governed by federal labour standards. Where legislation mandates employer compliance, 
 financial penalties or legal action may be imposed to enforce adherence and promote accountability.
 
+A contract of service is an arrangement in which an individual, referred to as the employee, agrees to work either full-time or part-time for an employer over a specified or indeterminate period. This type of contract establishes an employer-employee relationship, where the employer typically has control over the work performed and the conditions under which it is carried out.
+
+In contrast, a contract for service defines a business relationship where one party agrees to perform specific tasks or services outlined in the contract for another party. This arrangement is more independent in nature and does not constitute an employer-employee relationship. Instead, it reflects a client-contractor dynamic.
+
+To determine the nature of the relationship between a worker and a payer—particularly outside the province of Québec—the Canada Revenue Agency (CRA) applies a two-step approach. One of the key factors considered is the payer’s right to exercise control over the worker, including how the work is done and what tasks are performed. The degree of independence the worker holds is also evaluated, but the central issue is whether the payer has the authority to direct the work.
+
+Another factor the CRA examines is the ownership of tools and equipment. The significance lies in the size of the investment made by the worker, as well as the costs associated with repair, replacement, and insurance. The CRA also considers whether the worker incurs fixed ongoing costs or unreimbursed expenses, which may indicate a greater level of independence.
+
+Finally, the CRA assesses the extent to which the worker can control their revenue and expenses. A higher degree of financial control typically suggests a contract for service, while limited control may point to a contract of service. These factors collectively help determine the correct classification of the working relationship for tax and legal purposes.
+
 Review Questions
 ----------------
 
