@@ -180,10 +180,19 @@ questions and inquiries
 Summary
 =======
 
-The primary objective of the payroll function in every organization is to ensure that employees are paid accurately and on time, in full compliance with legislative requirements, throughout the entire annual payroll cycle. This function is critical to maintaining employee satisfaction, legal integrity, and operational efficiency.
+The primary objective of the payroll function in every organization is to ensure that employees are paid accurately 
+and on time, in full compliance with legislative requirements, throughout the entire annual payroll cycle. This function is 
+critical to maintaining employee satisfaction, legal integrity, and operational efficiency.
 
-Payroll itself is the process of compensating employees for the services they perform. It encompasses calculating wages, deducting taxes and benefits, and distributing payments. Ensuring accuracy in this process is essential to avoid financial discrepancies and maintain trust within the organization.
+Payroll itself is the process of compensating employees for the services they perform. It encompasses calculating wages, 
+deducting taxes and benefits, and distributing payments. Ensuring accuracy in this process is essential to avoid financial 
+discrepancies and maintain trust within the organization.
 
-Legislation refers to the laws enacted by a legislative body that govern payroll practices. These laws may include tax regulations, labor standards, and employment rights, all of which must be adhered to by the payroll department. Compliance, in this context, means observing and fulfilling these official requirements to avoid legal penalties and ensure ethical operations.
+Legislation refers to the laws enacted by a legislative body that govern payroll practices. These laws may include tax 
+regulations, labor standards, and employment rights, all of which must be adhered to by the payroll department. Compliance, 
+in this context, means observing and fulfilling these official requirements to avoid legal penalties and ensure ethical 
+operations.
 
-A payroll practitioner's knowledge base includes a thorough understanding of payroll compliance legislation, payroll processes, and payroll reporting. In addition to technical expertise, practitioners must also possess strong personal and professional skills to manage responsibilities effectively and adapt to evolving regulatory environments.
+A payroll practitioner's knowledge base includes a thorough understanding of payroll compliance legislation, payroll 
+processes, and payroll reporting. In addition to technical expertise, practitioners must also possess strong personal and 
+professional skills to manage responsibilities effectively and adapt to evolving regulatory environments.
