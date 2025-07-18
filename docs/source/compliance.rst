@@ -465,18 +465,11 @@ Importantly, both agencies acknowledge the right of taxpayers to organize their 
 The Employee-Employer Relationship
 -----------------------------------
 
-In all situations, it is necessary to establish whether the relationship between the worker and
-the organization is one of an employee and an employer or if the worker is self-employed.
-This relationship determines the requirement for statutory withholdings and the requirement
-for compliance with related legislation. The Canada Revenue Agency (CRA) has established
-factors to assist in determining whether or not this relationship exists. It is not up to the
-worker to decide whether or not they are an employee, subject to statutory withholdings.
+Determining the nature of the working relationship between an individual and an organization is essential in all employment situations. Whether the individual is classified as an employee or self-employed directly affects the statutory withholding requirements and the organization’s compliance with applicable legislation. To support this assessment, the Canada Revenue Agency (CRA) provides a set of guidelines designed to help distinguish between the two classifications. Importantly, the decision is not made by the worker but must be based on objective criteria and legal standards.
 
-Payroll can take a proactive role in communicating the importance of determining the
-existence of the employee-employer relationship to all areas of the organization.
-When an employee-employer relationship exists, payroll has a compliance responsibility
-related to statutory withholdings, which requires that all employees have the appropriate
-statutory deductions withheld from their pay and remitted to the government.
+Payroll practitioners play an important role in promoting awareness of this distinction throughout the organization. By proactively communicating the significance of establishing a valid employee-employer relationship, payroll professionals help ensure that employment classifications are accurate and compliant.
+
+Once an employee-employer relationship is confirmed, the payroll department becomes responsible for meeting compliance obligations related to statutory withholdings. This includes deducting the appropriate amounts—such as income tax, Canada Pension Plan contributions, and Employment Insurance premiums—from employee pay and remitting them to the government within the required timelines. Proper classification and adherence to these rules are key to maintaining legal and financial accountability.
 
 Where an employee-employer relationship exists, the CRA requires the employer to:
 
