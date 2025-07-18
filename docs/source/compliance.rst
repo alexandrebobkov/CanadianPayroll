@@ -381,8 +381,8 @@ Information on the factors to consider when determining whether an employee-empl
 Canada Revenue Agency guide, Employee or Self-Employed? - RC4110. The guide is available on the CRA's website,
 https://www.canada.ca/en/revenue-agency.html.
 
-Contract of Service
-~~~~~~~~~~~~~~~~~~~
+Contract of Service (Employment)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 A **contract of service** is an arrangement whereby an individual (the employee) agrees to
 work on a full-time or part-time basis for an employer for a specified or indeterminate period
 of time.
@@ -390,8 +390,8 @@ of time.
 Under a contract of service, one party serves another in return for a salary or some other form
 of remuneration.
 
-Contract for Service
-~~~~~~~~~~~~~~~~~~~~
+Contract for Service (Subcontracting)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A **contract for service** is a business relationship whereby one party agrees to perform certain
 specific work stipulated in the contract for another party. It usually calls for the
