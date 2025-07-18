@@ -101,6 +101,11 @@ The CPP is a **contributory plan**. This means that all costs are covered by the
 employers and self-employed workers, and from revenue earned on CPP investments. The CPP is not funded through general tax 
 revenues.
 
+Canada Pension Plan contributions must be withheld from employees who:
+
+  1. CPP contributions must be withheld from employees who have reached the age of 18 but are under the age of 70.
+  2. CPP contributions must be withheld from employees who are in pensionable employment.
+
 Employment Insurance
 --------------------
 
