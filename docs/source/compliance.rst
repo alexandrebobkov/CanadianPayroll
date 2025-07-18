@@ -39,3 +39,6 @@ Both the federal and the Québec governments provide factors that can be used to
 whether an employee-employer relationship exists. It is crucial to know how to determine the
 type of relationship that exists between the worker and the organization and to ensure that
 any payments made comply with legislation. 
+
+What are Payroll's Objectives?
+===============================
