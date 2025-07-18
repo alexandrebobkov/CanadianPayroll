@@ -708,6 +708,8 @@ List the three types of payroll management stakeholders and provide an example o
 
 Explain the difference between legislation and regulation.
 
+    Legislation determines what the rules are, while regulations determine how the rules are to be applied. 
+
 What are two examples of sources of information that you use (or could use) to keep upto-date on payroll compliance changes?
 
 List three external stakeholders and explain their compliance requirements. 
