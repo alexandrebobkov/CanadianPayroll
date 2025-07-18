@@ -170,7 +170,7 @@ must have. Effective payroll professionals should be:
   - able to remain objective and maintain a factual perspective when dealing with questions and inquiries
 
 3. Payroll Stakeholders
-========================
+------------------------
 
 Stakeholders are the individuals, groups and agencies, both internal and external to the
 organization, who share an interest in the function and output of the payroll department.
