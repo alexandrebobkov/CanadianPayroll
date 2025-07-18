@@ -774,8 +774,7 @@ income from employment, subject to all legislated statutory withholdings.
 company and sent with supporting documentation, such as the terms and conditions
 of the contract, for a ruling from the CRA on the individual’s status.
 
-    I think that Payroll must coordinate with the Accounts Payable Department to
-ensure that these payments are being handled correctly.
+    *I think that Payroll must coordinate with the Accounts Payable Department to ensure that these payments are being handled correctly.*
 
     *Tom and I would be pleased to meet with you to ensure the company is in
     compliance with all legislative requirements. Would you be available next Friday
