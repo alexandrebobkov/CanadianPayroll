@@ -742,6 +742,10 @@ Indicate the jurisdiction the following employees fall under:
 
 What is the difference between a contract of service and a contract for service? 
 
+    A contract of service is an arrangement whereby an individual (the employee) agrees to work on a full-time or part-time basis for an employer for a specified or indeterminate period of time.
+    
+    A contract for service is a business relationship whereby one party agrees to perform certain specific work stipulated in the contract for another party. 
+
 What are the factors that the Canada Revenue Agency (CRA) considers when
 determining if a contract of service or a contract for service exists? 
 
