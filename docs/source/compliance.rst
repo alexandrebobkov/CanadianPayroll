@@ -726,6 +726,11 @@ What are two examples of sources of information that you use (or could use) to k
 
 List three external stakeholders and explain their compliance requirements. 
 
+    Benefit Carriers - Payroll is responsible for deducting and remitting premiums for the insurance coverage to the carriers and for providing reports on employee enrolment and coverage levels.
+    Courts and the CRA - Payroll must accurately deduct and remit amounts ordered to be withheld through garnishments, third party demands, requirements to pay and support deduction orders.
+    Unions - Payroll must accurately deduct and remit union dues and initiation fees, and ensure that the terms of the collective agreement are adhered to.
+    Pension Providers - Third party pension plan providers may require payroll to provide enrolment reports on participating employees and length of service calculations, and to remit employee deductions and employer contributions.
+
 Indicate the jurisdiction the following employees fall under:
 
   - Canada Post Corporation (F)
