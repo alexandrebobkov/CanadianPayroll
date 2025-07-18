@@ -717,8 +717,7 @@ What are two examples of sources of information that you use (or could use) to k
       - The Canada Revenue Agency (CRA) produces guides, publications and Income Tax Bulletins, folios and Circulars, posts news bulletins and enables 
       participation on an electronic mailing list with e-mail alerts for new content to the site
       - The Revenu Québec (RQ) website provides guides, publications, bulletins, forms, online services and enables participation on an electronic mailing list with e-mail notifications of tax news articles 
-      - Employment/labour standards (federal, provincial and territorial) publications
-and websites
+      - Employment/labour standards (federal, provincial and territorial) publications and websites
  Employment and Social Development Canada (ESDC) and Service Canada (SC)
 publications including information regarding the Employment Insurance (EI)
 program and the Social Insurance Number
