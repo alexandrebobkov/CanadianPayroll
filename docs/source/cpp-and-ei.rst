@@ -117,6 +117,11 @@ the Employers' Guide - Payroll Deductions and Remittances - T4001, which is publ
 The following types of employment are excluded by legislation and therefore do not constitute pensionable employment. Payments arising from such employment are not subject
 to CPP contributions:
 
+  - employment in agriculture, or an agricultural enterprise, horticulture, fishing, hunting, trapping, forestry, logging, or lumbering, by an employer:
+    - who pays the employee less than $250 in cash remuneration in a calendar year; or
+    - employs the employee for a period of less than 25 working days in the same year on terms providing for payment of cash remuneration—the working days do not have to be consecutive
+
+
 Employment Insurance
 --------------------
 
