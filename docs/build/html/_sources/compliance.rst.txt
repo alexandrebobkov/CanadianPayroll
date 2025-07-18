@@ -42,7 +42,7 @@ type of relationship that exists between the worker and the organization and to 
 any payments made comply with legislation. 
 
 What are the Payroll's Objectives?
-===============================
+==================================
 
 The primary objective of the payroll function in every organization is to pay employees
 accurately and on time, in compliance with legislative requirements, for a full annual payroll
@@ -83,3 +83,52 @@ the potential for any fines or penalties.
 In payroll, there are also compliance requirements from other non-government stakeholders,
 for example, union collective agreements or group insurance policies. Payroll practitioners
 must therefore ensure the organization is compliant with all stakeholder requirements.
+
+What are the Responsibilities of Payroll Function?
+==================================================
+
+The responsibilities of the payroll practitioner will differ depending on the size of the
+organization, the number of jurisdictions in which they pay, the reporting structure under
+which they work, and whether there are other related departments, such as human resources,
+finance and administration in the organization.
+
+Small and medium-sized organizations may have payroll practitioners whose positions
+include other functions that, in a larger organization, would fall under other departments.
+This payroll practitioner may be required to handle multiple tasks, such as employee
+recruitment, human resource policy development, benefits administration, accounts payable,
+accounts receivable, budgets and/or administration. These practitioners must have excellent
+knowledge of all areas for which they are responsible and be aware of the resources available
+to provide advice and information.
+
+Larger organizations may have a distinct payroll department with specific payroll positions,
+in addition to separate human resources, accounting and administration groups. Even in a
+multi-departmental organization, payroll practitioners must have knowledge of the various
+stages of the life cycle of an employee. From hiring through termination of employment,
+many of these stages will impact how to produce the employee's pay and prepare required
+reports.
+
+The payroll department in a large organization may have:
+
+  - payroll administrators who are responsible for entering payroll data into the system
+and making required payroll remittances
+  - payroll coordinators who are responsible for preparing the payroll journal entries and
+reconciling the payroll related accounts
+  - payroll managers who manage the payroll function, the payroll staff and represent
+payroll at the management level
+
+Content Knowledge
+-----------------
+
+Payroll practitioners should know the following to effectively perform their duties:
+
+  - Payroll Compliance Legislation: the Income Tax Act, the Employment Insurance
+Act, the Canada Pension Plan Act, Employment/Labour Standards, privacy
+legislation, Workers' Compensation and provincial/territorial payroll-specific
+legislation
+  - Payroll Processes: the remuneration and deduction components of payroll and how
+to use these components to calculate a net pay in both regular and non-regular
+circumstances
+  - Payroll Reporting: how to calculate and remit amounts due to government agencies,
+insurance companies, unions and other third parties. In addition, payroll reporting
+includes accounting for payroll expenses and accruals to internal financial systems
+and federal and provincial/territorial year-end reporting.
