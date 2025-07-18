@@ -336,6 +336,10 @@ and the payroll department in a unionized environment.
 enrolment reports on participating employees and length of service calculations, and to remit
 employee deductions and employer contributions
 
+**Charities** have arrangements with some organizations to facilitate employee donations
+through payroll deductions. Payroll is responsible for remitting these deductions to the
+charity.
+
 Legislation
 -----------
 
