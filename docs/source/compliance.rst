@@ -447,6 +447,22 @@ individual is self-employed.
 Factors Determining the Type of Contract
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+The CRA uses a two-step approach to examine the relationship between the worker and the
+payer for relationships outside the province of Québec. The approach used for relationships
+in the province of Québec will be discussed in a later chapter.
+
+Step 1:
+The first step is to establish what the intent was when the worker and the payer entered into
+the working arrangement. Did they intend to enter into an employee-employer relationship
+(contract of service) or did they intend to enter into a business relationship (contract for
+service). The CRA must determine not only how the working relationship has been defined
+but why it was defined that way.
+Step 2:
+The CRA then considers certain factors when determining if a contract of service or a
+contract for service exists. In order to understand the working relationship and verify that the
+intent of the worker and the payer is reflected in the facts, they will ask a series of questions
+that relate to the following factors:
+
 Review Summary
 --------------
 
