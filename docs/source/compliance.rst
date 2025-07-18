@@ -399,9 +399,7 @@ website for members, www.payroll.ca, that contains guidelines, legislative updat
 and other useful payroll related information. As well, the Association is available on
 Twitter(@cdnpayroll), LinkedIn (The Canadian Payroll Association) and Facebook (@canadianpayroll).
 
-  - The Canada Revenue Agency (CRA) produces guides, publications, Income Tax
-Bulletins, folios and Circulars, posts news bulletins and enables participation on an
-electronic mailing list with e-mail alerts for new content to the Canada.ca website.
+  - The Canada Revenue Agency (CRA) produces guides, publications, Income Tax Bulletins, folios and Circulars, posts news bulletins and enables participation on an electronic mailing list with e-mail alerts for new content to the Canada.ca website.
 
   - The Revenu Québec (RQ) website provides guides, publications, bulletins, forms, online services and enables participation on an electronic mailing list with e-mail notifications of tax news articles - https://www.revenuquebec.ca/en/
 
