@@ -111,8 +111,10 @@ The payroll department in a large organization may have:
 
   - payroll administrators who are responsible for entering payroll data into the system
 and making required payroll remittances
+
   - payroll coordinators who are responsible for preparing the payroll journal entries and
 reconciling the payroll related accounts
+
   - payroll managers who manage the payroll function, the payroll staff and represent
 payroll at the management level
 
