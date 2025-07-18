@@ -149,11 +149,17 @@ the various stakeholders involved in the payroll process:
 
 **Behavioural and Ethical Standards**
 
-Professional behaviour and ethical conduct are critical components of an effective payroll practitioner’s skill set. In this role, individuals must demonstrate trustworthiness, given the constant potential for fraud. Attention to detail is essential, making conscientiousness a valued trait.
+Professional behaviour and ethical conduct are critical components of an effective payroll practitioner's skill set. In this 
+role, individuals must demonstrate trustworthiness, given the constant potential for fraud. Attention to detail is essential, 
+making conscientiousness a valued trait.
 
-Payroll professionals handle sensitive personal and financial data, so discretion is non-negotiable. They must also be tactful when interacting with employees, particularly in conversations involving financial concerns, which may be emotionally charged. Perceptiveness helps practitioners understand multiple perspectives in complex situations.
+Payroll professionals handle sensitive personal and financial data, so discretion is non-negotiable. They must also be 
+tactful when interacting with employees, particularly in conversations involving financial concerns, which may be emotionally 
+charged. Perceptiveness helps practitioners understand multiple perspectives in complex situations.
 
-The ability to work under pressure is key, especially when managing absolute deadlines. Sound judgment and common sense allow practitioners to identify problems quickly and implement effective solutions. Finally, maintaining objectivity and a factual approach when responding to questions and inquiries ensures fair and consistent communication across the organization.
+The ability to work under pressure is key, especially when managing absolute deadlines. Sound judgment and common sense allow 
+practitioners to identify problems quickly and implement effective solutions. Finally, maintaining objectivity and a factual 
+approach when responding to questions and inquiries ensures fair and consistent communication across the organization.
 
 Effective payroll professionals should be:
 
