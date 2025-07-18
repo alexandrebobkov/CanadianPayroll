@@ -124,8 +124,7 @@ Payroll practitioners should know the following to effectively perform their dut
 
   - Payroll Reporting: how to calculate and remit amounts due to government agencies, insurance companies, unions and other third parties. In addition, payroll reporting includes accounting for payroll expenses and accruals to internal financial systems and federal and provincial/territorial year-end reporting.
 
-Technical Skills
-~~~~~~~~~~~~~~~~
+**Technical Skills**
 
 The technical skills required by payroll professionals include proficiency in computer
 programs such as payroll software and financial systems, spreadsheets, databases and word
@@ -136,8 +135,7 @@ requirements and corporate reporting needs. It is important for payroll personne
 ability to be adaptable to changing systems. As a payroll practitioner, you must be prepared
 and willing to embrace continuous learning.
 
-Personal and Professional Skills
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Personal and Professional Skills**
 
 The following personal and professional skills will assist payroll practitioners in dealing with
 the various stakeholders involved in the payroll process:
@@ -152,8 +150,7 @@ the various stakeholders involved in the payroll process:
 
   - problem solving, decision-making, time management and organizational skills
 
-Behavioural and Ethical Standards
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Behavioural and Ethical Standards**
 
 Behaviour and ethics are two areas that build on the skills that an effective payroll practitioner
 must have. Effective payroll professionals should be:
@@ -167,7 +164,7 @@ must have. Effective payroll professionals should be:
   - able to use common sense in order to recognize problems quickly and apply sound solutions
   - able to remain objective and maintain a factual perspective when dealing with questions and inquiries
 
-3. Payroll Stakeholders
+Payroll Stakeholders
 ------------------------
 
 Stakeholders are the individuals, groups and agencies, both internal and external to the
