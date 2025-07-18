@@ -582,7 +582,7 @@ right to control both what work is performed and how it is carried out. Equally 
 worker maintains in performing their duties.
 
 In evaluating the relationship, both the payer's oversight of the worker's day-to-day activities and their overall 
-influence are assessed. However, it is the payer’s right to exercise control—rather than whether that control is actively 
+influence are assessed. However, it is the payer's right to exercise control—rather than whether that control is actively 
 used—that holds the most weight in determining the nature of the working relationship.
 
 Worker is an *Employee* when:
