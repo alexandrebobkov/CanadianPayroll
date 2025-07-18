@@ -393,6 +393,33 @@ involved. There are many ways to keep informed of changes that impact payroll.
 
 The following are some of the available resources:
 
+  - The Canadian Payroll Association offers a phone and email information service,
+Payroll InfoLine, for members' payroll related questions. The Association also has a
+website for members, www.payroll.ca, that contains guidelines, legislative updates
+and other useful payroll related information. As well, the Association is available on
+Twitter(@cdnpayroll), LinkedIn (The Canadian Payroll Association) and Facebook (@canadianpayroll).
+
+  - The Canada Revenue Agency (CRA) produces guides, publications, Income Tax
+Bulletins, folios and Circulars, posts news bulletins and enables participation on an
+electronic mailing list with e-mail alerts for new content to the Canada.ca website.
+
+  - The Revenu Québec (RQ) website provides guides, publications, bulletins, forms,
+online services and enables participation on an electronic mailing list with e-mail
+notifications of tax news articles - https://www.revenuquebec.ca/en/
+
+  - Employment/labour standards (federal, provincial and territorial) publications and
+websites. Each jurisdiction has a website providing information on their
+employment/labour standards. For example, the websites for Alberta and Québec are:
+Alberta - https://www.alberta.ca/employment-standards.aspx
+Québec - www.cnt.gouv.qc.ca/en
+
+  - Employment and Social Development Canada (ESDC) and Service Canada (SC)
+publications including information regarding the Employment Insurance (EI) program and the Social Insurance Number - www.canada.ca
+
+  - CCH Canada Limited publishes a series of volumes on employment and labour law, pensions and benefits, etc., that supplies information on legislation with regular updates as changes become law - www.cch.ca
+
+  - Carswell publishes The Canadian Payroll Manual and offers a phone and email service to subscribers - www.carswell.com
+
 The Employee-Employer Relationship
 -----------------------------------
 
