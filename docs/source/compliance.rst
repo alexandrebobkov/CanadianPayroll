@@ -689,8 +689,7 @@ The worker is a self-employed individual when:
 
   - The worker has capital investment, manages his or her staff, hires and pays individuals to help perform the work, and has established a business presence.
 
-Opportunity for Profit
-~~~~~~~~~~~~~~~~~~~~~~~~~
+**Opportunity for Profit**
 
 A business relationship is often indicated when a worker has the ability to realize a profit or incur a loss, reflecting their 
 control over the financial and operational aspects of the services they provide. Self-employed individuals typically 
