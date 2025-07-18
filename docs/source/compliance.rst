@@ -11,7 +11,7 @@ how each level of government influences payroll administration. The chapter also
 criteria for determining whether an individual is considered an employee or self-employed, providing essential context for 
 accurate classification and compliance.
 
-This chapter will cover the following topics:
+Topics covered in this chapter are:
 
   1. Identify four uses of the term payroll
   2. Describe payroll's objectives
@@ -23,23 +23,23 @@ This chapter will cover the following topics:
 Introduction
 ------------
 
-Payroll is a necessary function in every organization that has employees, as each employee
-expects to be paid for the work they perform. While the amount of maximum remuneration
-that an employee receives for their work is not legislated by any government (unless the
-employee is a federal or provincial/territorial civil servant), there is legislation in place at
-both the federal and provincial/territorial levels that governs many aspects of processing
-employees' pay, their taxable benefits and observing their rights as employees.
+Payroll is an essential operational function in any organization that employs staff, ensuring individuals are compensated 
+appropriately for their work. The payroll process is subject to a robust framework of legislation. Both federal and 
+provincial/territorial governments enact regulations that oversee various elements of payroll administration, 
+including compensation practices, taxation of employee benefits, and the protection of worker rights. These legal obligations 
+help establish consistency, accountability, and fairness in how employee remuneration is managed across sectors.
 
-It is important to note that for the scope of this course, the payroll includes the function of paying employees
-for work performed for employers. Self-employed workers or contractors, who submit
-invoices for the work they perform and receive payment through accounts payable and not
-payroll, are not employees. This chapter illustrates how to determine if an employeeemployer relationship exists. Once an employee-employer relationship has been established,
-the correct method of payment for services can be determined.
+For the purposes of this course, payroll refers specifically to the process of compensating employees for work performed 
+within the framework of an employer-employee relationship. Individuals who are self-employed or work as contractors submit 
+invoices for their services and are paid through accounts payable, not through the payroll system — and therefore are not 
+considered employees. This chapter explains how to assess whether a true employee-employer relationship exists. Once that 
+relationship is confirmed, the appropriate method of payment can be accurately identified and applied.
 
-Both the federal and the Québec governments provide factors that can be used to determine
-whether an employee-employer relationship exists. It is crucial to know how to determine the
-type of relationship that exists between the worker and the organization and to ensure that
-any payments made comply with legislation. 
+Various levels of the governments offer specific criteria that help determine whether an employee-employer 
+relationship is in place. Understanding the nature of this relationship is essential when evaluating a worker's status within 
+an organization. Once the relationship is clearly identified, it becomes possible to ensure that payments made to the 
+individual are handled in full compliance with applicable legislation. This distinction plays a vital role in payroll 
+administration and helps prevent legal or financial errors tied to misclassification.
 
 Payroll Objectives
 ------------------
