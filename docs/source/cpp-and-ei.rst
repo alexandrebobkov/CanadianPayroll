@@ -128,6 +128,7 @@ to CPP contributions:
     - employed by that employer for less than seven days in a year
 
   - employment of a person by a government body as an election worker, if that person:
+  
     - is not a regular employee of the government body, and
     - works for less than 35 hours in a calendar year
 
