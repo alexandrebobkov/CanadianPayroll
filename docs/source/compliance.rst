@@ -180,6 +180,17 @@ questions and inquiries
 3. Payroll Stakeholders
 ========================
 
+Stakeholders are the individuals, groups and agencies, both internal and external to the
+organization, who share an interest in the function and output of the payroll department.
+Stakeholders can be considered customers of the payroll department and payroll practitioners
+can take a proactive customer service approach to serving these individuals and groups.
+
+Payroll management stakeholders are the federal and provincial/territorial governments, the
+internal stakeholders and the external stakeholders. Internal stakeholders include employees,
+employers and other departments within the organization. External stakeholders include
+benefit carriers, courts, unions, pension providers, charities, third party administrators and
+outsource/software vendors. 
+
 Review Summary
 ==============
 
