@@ -356,6 +356,34 @@ Legislation
 The Employee-Employer Relationship
 -----------------------------------
 
+In all situations, it is necessary to establish whether the relationship between the worker and
+the organization is one of an employee and an employer or if the worker is self-employed.
+This relationship determines the requirement for statutory withholdings and the requirement
+for compliance with related legislation. The Canada Revenue Agency (CRA) has established
+factors to assist in determining whether or not this relationship exists. It is not up to the
+worker to decide whether or not they are an employee, subject to statutory withholdings.
+
+Payroll can take a proactive role in communicating the importance of determining the
+existence of the employee-employer relationship to all areas of the organization.
+When an employee-employer relationship exists, payroll has a compliance responsibility
+related to statutory withholdings, which requires that all employees have the appropriate
+statutory deductions withheld from their pay and remitted to the government.
+
+Where an employee-employer relationship exists, the CRA requires the employer to:
+
+  - register with the Canada Revenue Agency for a Business Number (BN)
+  - withhold the statutory deductions of income tax, Canada Pension Plan (CPP) contributions, and Employment Insurance (EI) premiums on amounts paid to employees
+  - remit the amounts withheld as well as the required employer's share of CPP contributions and EI premiums to the Canada Revenue Agency
+  - report the employees' income and deductions on the appropriate information return
+  - give the employees copies of their T4 slips by the end of February of the following calendar year
+
+Information on the factors to consider when determining whether an employee-employer
+relationship exists can be found in the Canada Revenue Agency guide, Employee or Self –
+Employed? – RC4110. The guide is available on the CRA’s website,
+https://www.canada.ca/en/revenue-agency.html.
+The factors used by the Canada Revenue Agency and Revenu Québec to determine whether
+an employee-employer relationship exists in Québec will be discussed in a later chapter.
+
 Review Summary
 --------------
 
