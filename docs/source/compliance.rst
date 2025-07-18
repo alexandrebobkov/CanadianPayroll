@@ -507,6 +507,28 @@ Worker is a *Self-Employed* when:
 Tools and Equipment
 ~~~~~~~~~~~~~~~~~~~~
 
+Ownership of tools and equipment is not, in itself, a determining factor relating to
+establishing the type of contract in effect. The fact that workers use their own equipment
+when performing their work is not sufficient to conclude that they are self-employed.
+Self-employed individuals often supply the tools and equipment necessary to complete a
+contract, making their ownership commonly associated with a business relationship; however
+employees can also be required to provide their own tools.
+
+In an employee-employer relationship, the employer generally supplies the equipment and
+tools required by the employee. In addition, the employer covers the following costs related
+to their use: repairs, insurance, transport, rental and operation (for example, fuel).
+
+In some trades, however, it is normal for employees to supply their own tools. This is
+generally the case for auto mechanics, painters and carpenters. Similarly, employed computer
+scientists, architects and surveyors sometimes supply their own software and instruments.
+
+In a business relationship, workers generally supply their own equipment and tools and cover
+costs related to their use. When workers purchase or rent equipment or large tools that
+require a major investment and costly maintenance, it usually indicates that they are selfemployed individuals as they may incur a financial loss when replacing or repairing their
+equipment.
+
+The relevance of the ownership of tools and equipment is in the size of the investment along
+with the cost of repair, replacement and insurance. 
 
 Review Summary
 --------------
