@@ -54,3 +54,6 @@ all stakeholders.
 
 **Payroll** is the process of paying employees in exchange for the services they perform. The
 term payroll can refer to:
+  -  the department that administers the payroll
+  -  the total number of people employed by an organization
+  -  the wages and salaries paid out in a year
