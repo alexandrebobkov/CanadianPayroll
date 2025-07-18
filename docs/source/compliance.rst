@@ -265,10 +265,10 @@ dealing with employment/labour standards. Employment/labour standards are rules 
 by each provincial/territorial jurisdiction that dictate issues such as hours of work, minimum
 wage, overtime, vacation pay and termination pay requirements. 
 
-  Employers must follow the employment/labour standards legislated by the jurisdiction in
-  which their employees work, unless they are governed by federal labour standards. Federal
-  labour standards apply to certain industries and organizations, regardless of where the
-  employees work.
+    Employers must follow the employment/labour standards legislated by the jurisdiction in
+    which their employees work, unless they are governed by federal labour standards. Federal
+    labour standards apply to certain industries and organizations, regardless of where the
+    employees work.
 
 The person or persons performing the payroll function must clearly understand under which
 employment/labour standards jurisdiction the employees of the organization fall.
