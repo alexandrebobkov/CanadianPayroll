@@ -394,11 +394,19 @@ The methods for calculating income tax deductions are specified by the federal g
     may reasonably be expected to exceed $5,000 in the taxation year of the employee in which the payment is made, the amount to be deducted or withheld by the employer is dictated 
     through a calculation prescribed in the regulation within the Act.
 
-Legislative changes can present significant challenges for payroll departments, especially when implemented mid-year or applied retroactively. These adjustments often require updates to individual payroll records, additional reconciliation efforts, and revisions to year-end balancing procedures, placing extra demands on payroll professionals.
+Legislative changes can present significant challenges for payroll departments, especially when implemented mid-year or 
+applied retroactively. These adjustments often require updates to individual payroll records, additional reconciliation 
+efforts, and revisions to year-end balancing procedures, placing extra demands on payroll professionals.
 
-Labour legislation in particular is subject to frequent modifications, including amendments, repeals, and revisions. Therefore, it is critical for payroll practitioners to remain informed about the laws and regulatory updates relevant to each jurisdiction in which their organization operates.
+Labour legislation in particular is subject to frequent modifications, including amendments, repeals, and revisions. 
+Therefore, it is critical for payroll practitioners to remain informed about the laws and regulatory updates relevant to 
+each jurisdiction in which their organization operates.
 
-Legislative changes are typically communicated through public media. In larger organizations, updates may also be shared internally by human resources, tax specialists, or legal departments. Regardless of the organization’s size, payroll professionals should take a proactive role in monitoring relevant developments and ensuring that all affected parties are made aware of any changes. A variety of resources—such as government publications, industry newsletters, professional associations, and online portals—can support this ongoing effort to stay informed and maintain compliance.
+Legislative changes are typically communicated through public media. In larger organizations, updates may also be shared 
+internally by human resources, tax specialists, or legal departments. Regardless of the organization’s size, payroll 
+professionals should take a proactive role in monitoring relevant developments and ensuring that all affected parties are 
+made aware of any changes. A variety of resources—such as government publications, industry newsletters, professional 
+associations, and online portals—can support this ongoing effort to stay informed and maintain compliance.
 
 The following are some of the available resources:
 
