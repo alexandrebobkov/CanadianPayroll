@@ -58,3 +58,27 @@ term payroll can refer to:
   -  the total number of people employed by an organization
   -  the wages and salaries paid out in a year
   -  a list of employees to be paid and the amount due to each
+
+**Legislation** refers to laws enacted by a legislative body. In Canada there are many legislative
+sources that payroll practitioners must comply with at two separate levels ─ the federal and
+the provincial/territorial governments. Later in the chapter we will explore the compliance
+requirements for the various pieces of legislation from these sources.
+
+**Compliance** is the observance of official requirements. For payroll practitioners, this means
+performing payroll functions according to federal and provincial/territorial legislative and
+non-governmental stakeholder requirements.
+
+The legislative requirements are termed statutory. This means they are enacted, created, or
+regulated by statute, a law enacted by the legislative branch of a government. Fines and
+penalties can be imposed if an organization is not in compliance with the legislative
+requirements in each jurisdiction.
+
+When dealing with federal and provincial/territorial government agencies, payroll
+practitioners must know the many pieces of legislation that regulate their work and the
+compliance requirements associated with each. Payroll practitioners are responsible for
+ensuring their organization is compliant with all payroll related legislation, thus eliminating
+the potential for any fines or penalties.
+
+In payroll, there are also compliance requirements from other non-government stakeholders,
+for example, union collective agreements or group insurance policies. Payroll practitioners
+must therefore ensure the organization is compliant with all stakeholder requirements.
