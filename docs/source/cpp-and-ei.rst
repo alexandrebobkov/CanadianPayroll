@@ -97,6 +97,10 @@ individual lives. Québec Pension Plan requirements will be covered later in thi
 Who Must Contribute to the Canada Pension Plan
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+The CPP is a **contributory plan**. This means that all costs are covered by the financial contributions paid by employees, 
+employers and self-employed workers, and from revenue earned on CPP investments. The CPP is not funded through general tax 
+revenues.
+
 Employment Insurance
 --------------------
 
