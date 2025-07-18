@@ -20,7 +20,7 @@ This chapter will cover the following topics:
   6. Apply the Canada Revenue Agency's factors for determining whether an individual is an employee or self-employed
 
 Introduction
-~~~~~~~~~~~~
+------------
 
 Payroll is a necessary function in every organization that has employees, as each employee
 expects to be paid for the work they perform. While the amount of maximum remuneration
@@ -40,7 +40,7 @@ whether an employee-employer relationship exists. It is crucial to know how to d
 type of relationship that exists between the worker and the organization and to ensure that
 any payments made comply with legislation. 
 
-2. What are the Payroll's Objectives?
+What are the Payroll's Objectives?
 -------------------------------------
 
 The primary objective of the payroll function in every organization is to pay employees
@@ -84,7 +84,7 @@ for example, union collective agreements or group insurance policies. Payroll pr
 must therefore ensure the organization is compliant with all stakeholder requirements.
 
 What are the Responsibilities of Payroll Function?
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+---------------------------------------------------
 
 The responsibilities of the payroll practitioner will differ depending on the size of the
 organization, the number of jurisdictions in which they pay, the reporting structure under
@@ -114,8 +114,7 @@ The payroll department in a large organization may have:
 
   - payroll managers who manage the payroll function, the payroll staff and represent payroll at the management level
 
-Content Knowledge
-~~~~~~~~~~~~~~~~~
+**Content Knowledge**
 
 Payroll practitioners should know the following to effectively perform their duties:
 
