@@ -669,8 +669,7 @@ The worker is a self-employed individual when:
   - The worker hires helpers to assist and pays them.
   - The worker advertises the services offered.
 
-Responsibility for Investment and Management
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Responsibility for Investment and Management**
 
 When assessing whether a business relationship exists, one important indicator is the worker's financial investment in the 
 services they provide. If an individual is required to invest in equipment, materials, or other resources to complete the 
