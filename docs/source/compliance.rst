@@ -28,3 +28,14 @@ that an employee receives for their work is not legislated by any government (un
 employee is a federal or provincial/territorial civil servant), there is legislation in place at
 both the federal and provincial/territorial levels that governs many aspects of processing
 employees' pay, their taxable benefits and observing their rights as employees.
+
+It is important to note that for the scope of this course, the payroll includes the function of paying employees
+for work performed for employers. Self-employed workers or contractors, who submit
+invoices for the work they perform and receive payment through accounts payable and not
+payroll, are not employees. This chapter illustrates how to determine if an employeeemployer relationship exists. Once an employee-employer relationship has been established,
+the correct method of payment for services can be determined.
+
+Both the federal and the Québec governments provide factors that can be used to determine
+whether an employee-employer relationship exists. It is crucial to know how to determine the
+type of relationship that exists between the worker and the organization and to ensure that
+any payments made comply with legislation. 
