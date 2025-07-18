@@ -590,6 +590,15 @@ affect their profits or losses.
 
 The worker is an employee when:
 
+  - The worker has no capital investment in the business.
+  - The worker does not have a business presence.
+
+The worker is a self-employed individual when:
+
+  - The worker has capital investment, manages his or her staff, hires and pays individuals to help perform the work, and has established a business presence.
+
+The worker is an employee when:
+
 The worker is a self-employed individual when:
 
 Review Summary
