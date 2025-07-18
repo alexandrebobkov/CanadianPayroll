@@ -597,6 +597,37 @@ The worker is a self-employed individual when:
 
   - The worker has capital investment, manages his or her staff, hires and pays individuals to help perform the work, and has established a business presence.
 
+Opportunity for Profit
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+A business relationship likely exists where the worker can realize a profit or incur a loss as
+this indicates the worker controls the business aspects of the services rendered. Selfemployed individuals have the ability to accept contracts as they wish. They can negotiate
+the rate for their work and can accept more than one contract at the same time. In order to
+carry out the terms and conditions of their contract, they often incur expenses which they
+must manage to increase their profit.
+
+Employees normally do not have a chance of profit or a risk of loss. While some employees
+who are paid by commission have an opportunity to increase their earnings based on their
+sales, this is not a profit as it is not an excess of income over expenses. As well, employees
+generally do not share in profits or suffer losses incurred by the business they work for.
+
+The CRA will look at the degree to which the worker can control their revenues and
+expenses. They will also look at the method of payment. Employees are typically guaranteed
+their earnings according to an established rate (hourly, daily, weekly, annual) and pay
+frequency. While self-employed individuals may be paid on an hourly basis, if they are paid
+a flat rate for the work performed, it generally indicates a business relationship, especially if
+they incur expenses while performing the services.
+
+The worker is an employee when:
+
+  - The worker is not in a position to realize a business profit or loss.
+  - The worker is entitled to benefit plans that are normally only offered to employees.
+
+The worker is a self-employed individual when:
+
+  - The worker is compensated by a flat fee.
+  - The worker can hire and pay a substitute.
+
 The worker is an employee when:
 
 The worker is a self-employed individual when:
