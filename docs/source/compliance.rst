@@ -629,8 +629,7 @@ The worker is a self-employed individual when:
   - The worker provides the tools and equipment required and is responsible for the cost of repairs, insurance and maintenance and retains the right over the use of these assets.
   - The worker supplies his or her own workspace, is responsible for the costs to maintain it, and does substantial work from that site.
 
-Subcontracting Work or Hiring Assistants
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Subcontracting Work or Hiring Assistants**
 
 As subcontracting work or hiring assistants can affect a worker's chance of profit or risk of loss, this can help determine 
 the type of business relationship. 
