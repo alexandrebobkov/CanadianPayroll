@@ -189,18 +189,17 @@ outsource/software vendors.
 Government Stakeholders
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-Government legislation provides the rules and regulations that the payroll function must
-administer with respect to payments made to employees. For this reason, it is important for
-the payroll practitioner to understand both the scope and the source of payroll-related
-legislation.
+Government legislation establishes the rules and regulations that govern payroll practices, particularly in relation to 
+employee compensation. It is therefore essential for payroll practitioners to understand both the scope and the origin of all 
+payroll-related laws.
 
 Canada is ruled by a federal government with ten largely self-governing provinces and three
 territories controlled by the federal government. Payroll practitioners have to be compliant
 not only with the federal government legislation, but with the provincial and territorial
 governments' legislation as well.
 
-As a result, payroll practitioners and their organizations are affected by the enactment of
-legislation at both the federal and provincial/territorial level.
+As a result, payroll departments are directly influenced by legislative developments at both the federal and provincial or 
+territorial levels, making ongoing legal awareness a critical component of payroll management.
 
 The federal parliament has the power to make laws for the peace, order and good government
 of Canada. The federal cabinet is responsible for most of the legislation introduced by
@@ -268,10 +267,14 @@ territories exists over:
   - all laws regarding property and civil rights, which give the provinces/territories the authority to enact legislation to establish employment standards for working conditions
   - employment in manufacturing, mining, construction, wholesale and retail trade, service industries, local businesses and any industry or occupation not specifically covered under federal jurisdiction
 
-The existing divisions between federal and provincial/territorial control impact payroll when
-dealing with employment/labour standards. Employment/labour standards are rules legislated
-by each provincial/territorial jurisdiction that dictate issues such as hours of work, minimum
-wage, overtime, vacation pay and termination pay requirements. 
+Canada's division of authority between federal and provincial or territorial governments directly influences payroll 
+practices, particularly in relation to employment and labour standards. These standards are governed independently by 
+each province and territory, and outline key rules related to workplace conditions.
+
+Among the issues addressed are hours of work, minimum wage, overtime eligibility, vacation entitlements, and termination pay. 
+Because each jurisdiction sets its own legislation, payroll practitioners must ensure compliance with the specific 
+requirements applicable to the location where the employee works. Navigating these variations is an essential aspect of 
+effective and lawful payroll administration.
 
     **Example:**
 
@@ -295,9 +298,11 @@ group of employees who fall under provincial/territorial legislation.
 Internal Stakeholders
 ~~~~~~~~~~~~~~~~~~~~~~
 
-Internal stakeholders are those individuals or departments closely related to the organization
-that the payroll department is serving. This group includes employers, employees and other
-departments in the organization.
+Internal stakeholders are the people and departments within the organization that rely on the payroll function to operate 
+effectively. They form the core audience served by payroll and include employees who depend on accurate and timely 
+compensation, employers who oversee workforce management, and other internal teams—such as human resources, finance, 
+and operations—that collaborate closely with payroll for data sharing, planning, and compliance. These stakeholders play a 
+direct role in shaping how payroll services are delivered and supported across the organization.
 
 **Employers** - Management may require certain information from payroll to make sound
 business decisions. 
