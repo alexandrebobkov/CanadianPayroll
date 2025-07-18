@@ -431,10 +431,17 @@ response that may result in fines and penalties.
 Reporting requirements that do not involve ongoing, regular reporting may not impose an
 immediate fine but may initiate a visit from an auditor or other official seeking compliance.
 
+Some compliance systems operate quarterly or annually, and the observations raised by these
+systems will result in requests for additional information or explanation and, in some cases, a
+request for a supplementary payment and/or a fine. 
+
     *Example:*
 
     **Record of Employment (ROE)** issuance
     Failure to issue a ROE within the established deadlines may result in a visit from an investigative officer from Service Canada.
+
+    The Canada Revenue Agency’s Pensionable and Insurable Earnings Review (PIER) is an annual compliance review system. This system utilizes the data provided on the T4
+    information slips issued at year-end to validate the amounts of CPP contributions and EI premiums deducted by employers, and identifies any remittance deficiencies.
 
 The Employee-Employer Relationship
 -----------------------------------
