@@ -287,6 +287,16 @@ group of employees who fall under provincial/territorial legislation.
 Internal Stakeholders
 ~~~~~~~~~~~~~~~~~~~~~~
 
+Internal stakeholders are those individuals or departments closely related to the organization
+that the payroll department is serving. This group includes employers, employees and other
+departments in the organization.
+
+**Employers** - Management may require certain information from payroll to make sound
+business decisions. 
+
+**Employees** - Employees require that their pay is received in a timely and accurate manner to
+meet personal obligations. Employees must also be assured that their personal information is
+kept confidential. 
 
 Legislation
 -----------
