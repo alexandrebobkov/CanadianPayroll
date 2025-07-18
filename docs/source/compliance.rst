@@ -399,6 +399,54 @@ accomplishment of a clearly defined task but does not normally require that the 
 party do anything him/herself. A person who carries out a contract for service may be
 considered a contract worker, a self-employed person or an independent contractor.
 
+A business relationship is a verbal or written agreement in which a self-employed individual
+agrees to perform specific work for a payer in return for payment. There is no employer or
+employee. The self-employed individual generally does not have to carry out all or even part
+of the work himself. In this type of business relationship, a contract for services exists.
+
+The self-employed individual is required to produce a given result within a period of time in
+the manner he deems most appropriate. While performing the work, he is not under the
+orders or control of the person for whom he is doing the work and he can use his own
+initiative in matters that are not specified or determined at the outset. The payer is not
+normally involved in the performance of the work and, therefore, has no control over it.
+
+Under a contract for service, a self-employed individual assumes the chance of profit and risk
+of loss. By agreeing, before he is engaged, to establish the overall cost of the work to be
+done, owning his tools and instruments and being solely responsible for the manner in which
+the work is done, the self-employed individual assumes all risk of loss resulting from events
+that occur during the course of the work which were not, or could not, be foreseen when the
+contract was negotiated. If, on the other hand, the work is completed sooner or more easily
+than expected, the contractor's profit will be greater.
+
+A contract for service is often used when an organization wishes to have work done which
+does not fall within its usual scope of operations. The relationship between a payer and a
+self-employed individual and that between an employer and their employees are sometimes
+quite similar. The main difference between the two relationships is that, in a contract for
+service, the party paying for the service is entitled to dictate what is to be done or what result
+is to be achieved; whereas, in a contract of service, the employer is also entitled to stipulate
+the manner in which the work is to be done.
+
+Under a contract for service, the person for whom the work is being done exercises general
+supervision. He can and should see that the work is completed in accordance with the
+agreement, but it is not up to him to give orders to the self-employed individual regarding the
+manner in which the work is to be done. The mere fact that a self-employed individual
+receives general instructions from the project manager concerning the work to be done does
+not mean that he can be considered an employee.
+
+An employee-employer relationship is deemed to exist where the organization exercises, or
+has the right to exercise, direct control over the individual. If the organization is unsure as to
+whether or not a relationship exists, the Canada Revenue Agency (CRA) form Request for a
+CPP/EI Ruling – Employee or Self-Employed? – CPT1 should be submitted to the CRA. A
+sample of the CPT1 form is provided at the end of this section.
+
+Independent contractors or self-employed individuals are not considered employees of the
+organization provided no employee-employer relationship exists. Persons who are truly selfemployed individuals will submit invoices and be paid through accounts payable. However,
+the submission of an invoice to accounts payable is not sufficient to determine if the
+individual is self-employed.
+
+Factors Determining the Type of Contract
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 Review Summary
 --------------
 
