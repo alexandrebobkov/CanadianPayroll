@@ -456,17 +456,11 @@ financial and legal risk.
 Self-Assessment
 ~~~~~~~~~~~~~~~
 
-Both the federal and provincial/territorial tax systems are based on the principle of selfassessment. This means that 
-taxpayers and their agents, including employers, are responsible for calculating, reporting and remitting their 
-contributions and the amounts withheld within the prescribed deadlines.
+Both the federal and provincial/territorial tax systems in Canada operate on the principle of self-assessment. Under this system, taxpayers and their representatives—including employers—are responsible for accurately calculating, reporting, and remitting taxes and other required contributions by the prescribed deadlines.
 
-As administrators of the tax system, the Canada Revenue Agency (CRA) and Revenu Québec (RQ) must ensure that each individual 
-and organization is compliant and pays all of the amounts owing.
+The Canada Revenue Agency (CRA) and Revenu Québec (RQ) serve as administrators of these systems, ensuring that individuals and organizations remain compliant and that all amounts owed are properly paid.
 
-Both the CRA and RQ recognize that taxpayers and agents are entitled to plan their affairs so
-that they pay only the amounts that are legally due. It is acceptable to take advantage of tax
-rules to minimize the amount of taxes paid. It is not lawful, however, to evade taxes owed by
-failing to report income, failing to remit taxes due or providing the CRA or RQ with false information.
+Importantly, both agencies acknowledge the right of taxpayers to organize their financial affairs in a way that minimizes their tax liability, provided it remains within legal boundaries. While tax planning is permitted, tax evasion—such as failing to report income, neglecting to remit amounts due, or submitting false information—is strictly prohibited and subject to enforcement actions.
 
 The Employee-Employer Relationship
 -----------------------------------
