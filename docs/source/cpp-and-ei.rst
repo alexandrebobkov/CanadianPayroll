@@ -6,7 +6,7 @@ Membership or participation in the Canada Pension Plan (CPP) and Employment Insu
 Plan (EI) is compulsory for certain types of employment. As a person responsible for the payroll 
 you need to know which employees must participate in these plans, what amounts to withhold
 from employees and how much the employer will have to remit or send to the Canada
-Revenue Agency (CRA)
+Revenue Agency (CRA).
 
 **Learning Objectives**
 
