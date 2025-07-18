@@ -278,7 +278,7 @@ processes, and payroll reporting. In addition to technical expertise, practition
 professional skills to manage responsibilities effectively and adapt to evolving regulatory environments.
 
 Review Questions
-=================
+----------------
 
 What is the primary objective of the payroll department? 
 
