@@ -52,7 +52,7 @@ direct deposit. Beyond ensuring timely payment, payroll practitioners are also r
 payroll-related information to all relevant stakeholders, supporting transparency, compliance, and organizational 
 accountability.
 
-**Payroll** is the process of paying employees in exchange for the services they perform. The
+**Payroll** is the process of paying employees in exchange for the work they perform. The
 term payroll can refer to:
   -  the department that administers the payroll
   -  the total number of people employed by an organization
