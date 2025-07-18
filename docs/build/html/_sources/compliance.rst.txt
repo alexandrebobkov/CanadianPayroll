@@ -2,7 +2,7 @@
 PAYROLL COMPLIANCE AND REGULATIONS
 ##################################
 
-**Learning Objectives**
+**LEARNING OBJECTIVES**
 
 By the end of this chapter, you will have a foundational understanding of payroll compliance and regulations in Canada. 
 This includes the various stakeholders involved, the objectives of payroll, and the legal frameworks that govern payroll 
@@ -365,13 +365,15 @@ through regulations.
 
     *Example:*
 
-    The Income Tax Act
+    *The Income Tax Act*
 
     The legislation: Specifies that employers are required to withhold income tax from employees.
 
     The regulation: Specifies the taxation methods that should be used for non-periodic payments such as bonuses, retroactive pay increases, lump sum payments, etc.
 
-    Non-periodic bonus payments- Where a payment in respect of a bonus is made by an employer to an employee whose total remuneration (including the bonus) from the employer 
+    *Non-periodic bonus payments*
+    
+    Where a payment in respect of a bonus is made by an employer to an employee whose total remuneration (including the bonus) from the employer 
     may reasonably be expected to exceed $5,000 in the taxation year of the employee in which the payment is made, the amount to be deducted or withheld by the employer is dictated 
     through a calculation prescribed in the regulation within the Act.
 
