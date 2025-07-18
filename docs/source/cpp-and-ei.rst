@@ -50,6 +50,16 @@ Objective of this section is to enable you to identify the following Canada Pens
 Canada Pension Plan
 ~~~~~~~~~~~~~~~~~~~
 
+The **Canada Pension Plan** (CPP) is a federally legislated social insurance program established under the Canada Pension Plan 
+Act. Its primary purpose is to provide financial protection to contributors and their families in the event of retirement, 
+disability, or death. The program is funded through mandatory payroll deductions from employees, which are matched equally by 
+employers. These employee contributions are specifically referred to as Canada Pension Plan contributions.
+
+In addition to the CPP, employers may offer private or non-government pension plans, which may also involve payroll 
+deductions from employees. The specific payroll withholding requirements for these supplementary pension plans will be discussed 
+in more detail in the later chapters; it is important to note that the CPP is often one of multiple retirement savings 
+vehicles available within an organization's compensation structure.
+
 Employment Insurance
 --------------------
 
