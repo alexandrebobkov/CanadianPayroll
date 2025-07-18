@@ -650,9 +650,15 @@ The worker is a self-employed individual when:
 Financial Risk
 ~~~~~~~~~~~~~~
 
-When evaluating the nature of a working relationship, the Canada Revenue Agency (CRA) considers whether the individual incurs fixed, ongoing costs or unreimbursed expenses. In traditional employee arrangements, employers typically reimburse expenses that arise as part of the job—for example, travel or business-related costs.
+When evaluating the nature of a working relationship, the Canada Revenue Agency (CRA) considers whether the individual 
+incurs fixed, ongoing costs or unreimbursed expenses. In traditional employee arrangements, employers typically reimburse 
+expenses that arise as part of the job—for example, travel or business-related costs.
 
-In contrast, self-employed individuals often assume greater financial risk by covering recurring operational costs regardless of whether active work is being performed. These may include equipment leasing, office space rental, or other business overheads. While both employees and contractors may receive reimbursement for certain expenses, the CRA places particular emphasis on identifying costs that are not reimbursed. The presence of such expenses may indicate a business relationship, reflecting the independence and financial responsibility characteristic of self-employment.
+In contrast, self-employed individuals often assume greater financial risk by covering recurring operational costs 
+regardless of whether active work is being performed. These may include equipment leasing, office space rental, or other 
+business overheads. While both employees and contractors may receive reimbursement for certain expenses, the CRA places 
+particular emphasis on identifying costs that are not reimbursed. The presence of such expenses may indicate a business 
+relationship, reflecting the independence and financial responsibility characteristic of self-employment.
 
 The worker is an employee when:
 
