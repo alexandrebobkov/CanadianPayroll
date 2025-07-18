@@ -143,9 +143,9 @@ Personal and Professional Skills
 
 The following personal and professional skills will assist payroll practitioners in dealing with
 the various stakeholders involved in the payroll process:
-  - written communication skills, such as preparing employee emails and memos,
-management reports, policies and procedures and correspondence with various levels
-of government
+
+  - written communication skills, such as preparing employee emails and memos, management reports, policies and procedures and correspondence with various levels of government
+
   - verbal communication skills, to be able to respond to internal and external
 stakeholder inquiries
   - the ability to read, understand and interpret legal terminology found in documents
