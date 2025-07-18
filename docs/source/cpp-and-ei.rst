@@ -4,6 +4,12 @@ CANADA PENSION PLAN AND EMPLOYMENT INSURANCE
 
 **Learning Objectives**
 
+Upon completion of this chapter, you should be able to explain:
+
+  1. The requirements and calculations for Canada Pension Plan contributions
+  2. The requirements and calculations for Employment Insurance premiums
+  3. What Service Canada uses the information on a Record of Employment for
+
 This chapter will cover the following topics:
 
 
