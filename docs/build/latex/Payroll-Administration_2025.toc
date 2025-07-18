@@ -26,12 +26,6 @@
 \contentsline {subsection}{\numberline {4.6.1}Contract of Service (Employment)}{17}{subsection.4.6.1}%
 \contentsline {subsection}{\numberline {4.6.2}Contract for Service (Subcontracting)}{18}{subsection.4.6.2}%
 \contentsline {subsection}{\numberline {4.6.3}Factors Determining the Type of Contract}{18}{subsection.4.6.3}%
-\contentsline {subsection}{\numberline {4.6.4}Control}{19}{subsection.4.6.4}%
-\contentsline {subsection}{\numberline {4.6.5}Tools and Equipment}{19}{subsection.4.6.5}%
-\contentsline {subsection}{\numberline {4.6.6}Subcontracting Work or Hiring Assistants}{20}{subsection.4.6.6}%
-\contentsline {subsection}{\numberline {4.6.7}Financial Risk}{20}{subsection.4.6.7}%
-\contentsline {subsection}{\numberline {4.6.8}Responsibility for Investment and Management}{21}{subsection.4.6.8}%
-\contentsline {subsection}{\numberline {4.6.9}Opportunity for Profit}{21}{subsection.4.6.9}%
 \contentsline {section}{\numberline {4.7}Review Summary}{22}{section.4.7}%
 \contentsline {section}{\numberline {4.8}Review Questions}{23}{section.4.8}%
 \contentsline {chapter}{\numberline {5}Canada Pension Plan}{27}{chapter.5}%
