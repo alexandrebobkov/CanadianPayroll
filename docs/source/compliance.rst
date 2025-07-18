@@ -196,3 +196,10 @@ operations.
 A payroll practitioner's knowledge base includes a thorough understanding of payroll compliance legislation, payroll 
 processes, and payroll reporting. In addition to technical expertise, practitioners must also possess strong personal and 
 professional skills to manage responsibilities effectively and adapt to evolving regulatory environments.
+
+Review Questions
+=================
+
+What is the primary objective of the payroll department? 
+
+List four definitions of payroll. 
