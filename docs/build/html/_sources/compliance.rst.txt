@@ -350,8 +350,8 @@ contributions to the plan administrator.
 work with the payroll department to ensure the payroll is being processed accurately and
 efficiently.
 
-Legislation
------------
+Legislations and Regulations
+-----------------------------
 
 The Employee-Employer Relationship
 -----------------------------------
@@ -693,26 +693,58 @@ What is the primary objective of the payroll department?
     on time, in compliance with the legislative requirements for a full annual payroll
     cycle.
 
-List four definitions of payroll. 
+List four definitions of payroll.
+
+    - the department that administers the payroll
+    - the total number of people employed by an organization
+    - the wages and salaries paid out in a year
+    - a list of employees to be paid and the amount due to each
 
 List the three types of payroll management stakeholders and provide an example of each.
 
+    Payroll management stakeholders are government (federal and provincial/territorial), internal 
+    (employees, employers and other departments) and external (benefit carriers, courts, unions, pension 
+    providers, charities, third party administrators and outsource/software vendors).
+
 Explain the difference between legislation and regulation.
+
+    Legislation determines what the rules are, while regulations determine how the rules are to be applied. 
 
 What are two examples of sources of information that you use (or could use) to keep upto-date on payroll compliance changes?
 
+    The Canadian Payroll Association offers Payroll InfoLine, a phone-in and e-mail information service for members
+
+      - The Canada Revenue Agency (CRA) produces guides, publications and Income Tax Bulletins, folios and Circulars, posts news bulletins and enables 
+      participation on an electronic mailing list with e-mail alerts for new content to the site
+      - The Revenu Québec (RQ) website provides guides, publications, bulletins, forms, online services and enables participation on an electronic mailing list with e-mail notifications of tax news articles 
+      - Employment/labour standards (federal, provincial and territorial) publications and websites
+      - Employment and Social Development Canada (ESDC) and Service Canada (SC) publications including information regarding the Employment Insurance (EI) program and the Social Insurance Number
+      - CCH Canada Limited publishes a series of volumes on employment and labour law, pensions and benefits, etc., that supplies information on legislation with regular updates as changes become law
+      - Carswell publishes The Canadian Payroll Manual and offers a phone-in service to subscribers
+
+    Copies of legislation are available from the printing offices of the federal, provincial and territorial governments as well as through government websites. 
+
 List three external stakeholders and explain their compliance requirements. 
+
+    Benefit Carriers - Payroll is responsible for deducting and remitting premiums for the insurance coverage to the carriers and for providing reports on employee enrolment and coverage levels.
+    Courts and the CRA - Payroll must accurately deduct and remit amounts ordered to be withheld through garnishments, third party demands, requirements to pay and support deduction orders.
+    Unions - Payroll must accurately deduct and remit union dues and initiation fees, and ensure that the terms of the collective agreement are adhered to.
+    Pension Providers - Third party pension plan providers may require payroll to provide enrolment reports on participating employees and length of service calculations, and to remit employee deductions and employer contributions.
 
 Indicate the jurisdiction the following employees fall under:
 
-  - Canada Post Corporation
-  - An insurance company
-  - A uranium mining company
-  - Canadian Broadcasting Corporation
-  - A retail department store with locations in every province
-  - A chartered bank. 
+  - Canada Post Corporation (F)
+  - An insurance company (P)
+  - A uranium mining company (F)
+  - Canadian Broadcasting Corporation (F)
+  - A retail department store with locations in every province (P)
+  - A chartered bank (F)
 
 What is the difference between a contract of service and a contract for service? 
+
+    A contract of service is an arrangement whereby an individual (the employee) agrees to work on a full-time or part-time basis for an employer for a specified or indeterminate period of time.
+    
+    A contract for service is a business relationship whereby one party agrees to perform certain specific work stipulated in the contract for another party. 
 
 What are the factors that the Canada Revenue Agency (CRA) considers when
 determining if a contract of service or a contract for service exists? 
@@ -728,3 +760,19 @@ Please consider the following scenario.
     explain why your role must coordinate with the Accounts Payable Department to ensure
     that these payments are being handled correctly. Please prepare your answer in a separate
     document. 
+
+    *At the last weekly Finance meeting, Tom and I discussed the increase in the number of contractor invoices being 
+    processed through accounts payable (AP). We have some concerns as to whether these individuals would be considered truly 
+    selfemployed by the Canada Revenue Agency (CRA), or whether the CRA would determine them to be employees.*
+
+    *If the worker is considered self-employed, then payment, on submission of an invoice, will continue to be handled by AP. If, however, the worker is considered an
+    employee, they would have to be set up on payroll, as they would be in receipt of income from employment, subject to all legislated statutory withholdings.*
+
+    *I have attached the CRA's form Request for a CPP/EI Ruling - Employee or SelfEmployed? - CPT1 for your information. This form can be completed by the
+company and sent with supporting documentation, such as the terms and conditions of the contract, for a ruling from the CRA on the individual's status.*
+
+    *I think that Payroll must coordinate with the Accounts Payable Department to ensure that these payments are being handled correctly.*
+
+    *Tom and I would be pleased to meet with you to ensure the company is in
+    compliance with all legislative requirements. Would you be available next Friday
+    morning at 10:00 to discuss?*
