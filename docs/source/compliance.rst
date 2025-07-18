@@ -603,28 +603,13 @@ Worker is a *Self-Employed* when:
 Tools and Equipment
 ~~~~~~~~~~~~~~~~~~~~
 
-Ownership of tools and equipment is not, in itself, a determining factor relating to
-establishing the type of contract in effect. The fact that workers use their own equipment
-when performing their work is not sufficient to conclude that they are self-employed.
-Self-employed individuals often supply the tools and equipment necessary to complete a
-contract, making their ownership commonly associated with a business relationship; however
-employees can also be required to provide their own tools.
+Ownership of tools and equipment is not a definitive factor in determining the nature of a working relationship or the type of contract in place. While self-employed individuals often use their own tools to fulfill contractual obligations—making such ownership common in business relationships—this alone does not confirm self-employment. Employees may also be required to supply their own tools, depending on the trade or occupation.
 
-In an employee-employer relationship, the employer generally supplies the equipment and
-tools required by the employee. In addition, the employer covers the following costs related
-to their use: repairs, insurance, transport, rental and operation (for example, fuel).
+In typical employee-employer relationships, the employer provides the necessary equipment and assumes the costs associated with its use, including maintenance, insurance, transportation, rental fees, and operational expenses such as fuel. However, in certain industries—such as automotive repair, painting, carpentry, and technical fields like software development or surveying—it is standard practice for employees to use their own tools or specialized instruments.
 
-In some trades, however, it is normal for employees to supply their own tools. This is
-generally the case for auto mechanics, painters and carpenters. Similarly, employed computer
-scientists, architects and surveyors sometimes supply their own software and instruments.
+In contrast, self-employed individuals not only supply their own equipment but also bear the associated costs. Significant financial investment in tools—especially those that require ongoing maintenance or replacement—can suggest a business relationship, as these individuals assume both the potential for profit and the risk of loss.
 
-In a business relationship, workers generally supply their own equipment and tools and cover
-costs related to their use. When workers purchase or rent equipment or large tools that
-require a major investment and costly maintenance, it usually indicates that they are selfemployed individuals as they may incur a financial loss when replacing or repairing their
-equipment.
-
-The relevance of the ownership of tools and equipment is in the size of the investment along
-with the cost of repair, replacement and insurance. 
+Ultimately, the key consideration is the scale of the investment and the financial responsibility related to repairs, replacement, and insurance, rather than mere ownership itself.
 
 The worker is an employee when:
 
