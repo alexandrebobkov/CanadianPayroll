@@ -24,6 +24,7 @@ to confidently perform essential payroll functions encountered in day-to-day ope
    preface 
    introduction
    terminology
+   compliance
    compensation
    onboarding_employee
    payroll_accounting
