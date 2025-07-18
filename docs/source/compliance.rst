@@ -531,11 +531,13 @@ The relevance of the ownership of tools and equipment is in the size of the inve
 with the cost of repair, replacement and insurance. 
 
 The worker is an employee when:
+
   - The payer supplies most of the tools and equipment. 
   - The payer retains the right of use over the tools and equipment provided to the worker.
   - The worker supplies the tools and equipment and the payer reimburses the worker for their use
 
 The worker is a self-employed individual when:
+
   - The worker provides the tools and equipment required and is responsible for the cost of repairs, insurance and maintenance and retains the right over the use of these assets.
   - The worker supplies his or her own workspace, is responsible for the costs to maintain it, and does substantial work from that site.
 
@@ -545,12 +547,38 @@ Subcontracting Work or Hiring Assistants
 As subcontracting work or hiring assistants can affect a worker's chance of profit or risk of loss, this can help determine the type of business relationship. 
 
 The worker is an employee when:
+
   - The worker cannot hire helpers or assistants.
   - The worker must perform the services personally.
 
 The worker is a self-employed individual when:
+
   - The worker does not have to perform the service personally.
   - They can hire another party to complete the work, without consulting with the payer.
+
+Financial Risk
+~~~~~~~~~~~~~~
+
+The CRA will examine if there are any fixed ongoing costs incurred by the worker or any
+expenses that are not reimbursed. Employers will usually reimburse employees for any
+expenses incurred in the performance of their job. Self-employed individuals can have
+financial risk and incur losses as they usually have ongoing monthly expenses whether or not
+work is being performed. Both employees and self-employed individuals may be reimbursed
+for business or travel expenses, however it is the expenses that are not reimbursed that are
+examined.
+
+The worker is an employee when:
+
+ - The worker is not usually responsible for any operating expenses.
+ - The worker is not financially liable if he or she does not fulfill the obligations of the contract.
+ - The payer determines and controls the method and amount of pay.
+
+The worker is a self-employed individual when:
+
+  - The worker is financially liable if he or she does not fulfill the obligations of the contract.
+  - The worker does not receive any protection or benefits from the payer.
+  - The worker hires helpers to assist and pays them.
+  - The worker advertises the services offered.
 
 The worker is an employee when:
 
