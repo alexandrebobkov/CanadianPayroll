@@ -965,10 +965,6 @@ Chapter 14.
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package rerunfilecheck Info: File `Payroll-Administration_2025.out' has not cha
 nged.
 (rerunfilecheck)             Checksum: DA4736DB5D0227CC50E6C0448A35BF74;9911.
