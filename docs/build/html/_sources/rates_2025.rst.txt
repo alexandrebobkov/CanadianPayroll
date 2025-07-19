@@ -22,13 +22,6 @@ CPP2 CONTRIBUTION RATES MAXIMUMS
    :file: rates/rates_cpp2_2025.csv
    :delim: ,
 
-References
-----------
-
-`CPP Maximum contributory earnings <https://laws-lois.justice.gc.ca/eng/acts/C-8/page-5.html#docCont>`_
-
-`Second additional CPP contributions <https://laws-lois.justice.gc.ca/eng/acts/C-8/page-3.html#docCont>`_
-
 .. comment
    "Yearly maximum pensionable earnings", "$66,600", "$66,600"
    "Annual maximum contributory earnings", "$66,600", "$66,600"
