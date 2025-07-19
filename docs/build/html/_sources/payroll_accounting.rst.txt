@@ -52,9 +52,9 @@ These entries are essential for maintaining accurate financial records and ensur
    * - Payroll Expenses
      - 
      - $10,500.00
-    * -
-      - Payroll Payable
-      - $10,500.00
+   * -
+     - Payroll Payable
+     - $10,500.00
 
 +==================+==================+============+
 | DR Account       | CR Account       |   Amount   |
