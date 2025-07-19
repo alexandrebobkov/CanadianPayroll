@@ -45,7 +45,6 @@ These entries are essential for maintaining accurate financial records and ensur
 .. list-table:: Journal Entry Example
    :header-rows: 1
    :widths: 25 25 10
-   :unnumbered:
 
    * - DR Account
      - CR Account
