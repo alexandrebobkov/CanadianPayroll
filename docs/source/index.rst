@@ -30,13 +30,10 @@ to confidently perform essential payroll functions encountered in day-to-day ope
    payroll_accounting
    review_questions
    terminology
-   
-   TD1
    calculating-net-pay
    rates_2025
    references
    errata
-   syntax
 
 Glossary
 =========
