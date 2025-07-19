@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.10.18)  18 JUL 2025 21:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.10.18)  18 JUL 2025 21:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -888,7 +888,7 @@ Chapter 6.
 ]
 Chapter 7.
 [31] [32] [33]
-<onboarding-employee_001.png, id=503, 452.892pt x 409.53pt>
+<onboarding-employee_001.png, id=498, 452.892pt x 409.53pt>
 LaTeX Font Info:    Trying to load font information for T1+txtt on input line 2
 408.
  (/usr/share/texlive/texmf-dist/tex/latex/txfonts/t1txtt.fd
@@ -900,32 +900,32 @@ Package pdftex.def Info: onboarding-employee_001.png  used on input line 2408.
 (pdftex.def)             Requested size: 452.89088pt x 409.52899pt.
 
 [34]
-<onboarding-employee_002.png, id=509, 452.892pt x 409.53pt>
+<onboarding-employee_002.png, id=504, 452.892pt x 409.53pt>
 File: onboarding-employee_002.png Graphic file (type png)
 <use onboarding-employee_002.png>
 Package pdftex.def Info: onboarding-employee_002.png  used on input line 2410.
 (pdftex.def)             Requested size: 452.89088pt x 409.52899pt.
  [35 <./onboarding-employee_001.png>]
-<onboarding-employee_003.png, id=515, 452.892pt x 409.53pt>
+<onboarding-employee_003.png, id=510, 452.892pt x 409.53pt>
 File: onboarding-employee_003.png Graphic file (type png)
 <use onboarding-employee_003.png>
 Package pdftex.def Info: onboarding-employee_003.png  used on input line 2412.
 (pdftex.def)             Requested size: 452.89088pt x 409.52899pt.
  [36 <./onboarding-employee_002.png>]
-<onboarding-employee_004.png, id=521, 452.892pt x 409.53pt>
+<onboarding-employee_004.png, id=516, 452.892pt x 409.53pt>
 File: onboarding-employee_004.png Graphic file (type png)
 <use onboarding-employee_004.png>
 Package pdftex.def Info: onboarding-employee_004.png  used on input line 2414.
 (pdftex.def)             Requested size: 452.89088pt x 409.52899pt.
 
 [37 <./onboarding-employee_003.png>]
-<onboarding-employee_005.png, id=527, 452.892pt x 409.53pt>
+<onboarding-employee_005.png, id=522, 452.892pt x 409.53pt>
 File: onboarding-employee_005.png Graphic file (type png)
 <use onboarding-employee_005.png>
 Package pdftex.def Info: onboarding-employee_005.png  used on input line 2416.
 (pdftex.def)             Requested size: 452.89088pt x 409.52899pt.
  [38 <./onboarding-employee_004.png>]
-<onboarding-employee_006.png, id=533, 452.892pt x 409.53pt>
+<onboarding-employee_006.png, id=528, 452.892pt x 409.53pt>
 File: onboarding-employee_006.png Graphic file (type png)
 <use onboarding-employee_006.png>
 Package pdftex.def Info: onboarding-employee_006.png  used on input line 2418.
@@ -948,11 +948,11 @@ Chapter 10.
 
 ]
 Chapter 11.
-[49] [50]
-Chapter 12.
-[51
+[49] [50
 
-] [52
+]
+Chapter 12.
+[51] [52
 
 ]
 Chapter 13.
@@ -967,11 +967,11 @@ L3 programming layer <2024-01-22>
  ***********
 Package rerunfilecheck Info: File `Payroll-Administration_2025.out' has not cha
 nged.
-(rerunfilecheck)             Checksum: 34A94A52E10F9D61DA115A3FD5DF1830;10018.
+(rerunfilecheck)             Checksum: DA4736DB5D0227CC50E6C0448A35BF74;9911.
  ) 
 Here is how much of TeX's memory you used:
  17048 strings out of 476106
- 290473 string characters out of 5793932
+ 290497 string characters out of 5793932
  1943975 words of memory out of 5000000
  38522 multiletter control sequences out of 15000+600000
  614330 words of font info for 77 fonts, out of 8000000 for 9000
@@ -984,10 +984,10 @@ c/tex-gyre/qhvbi.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qhvr.pfb></u
 sr/share/texmf/fonts/type1/public/tex-gyre/qtmb.pfb></usr/share/texmf/fonts/typ
 e1/public/tex-gyre/qtmr.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qtmri
 .pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/t1xtt.pfb>
-Output written on Payroll-Administration_2025.pdf (59 pages, 566493 bytes).
+Output written on Payroll-Administration_2025.pdf (59 pages, 566042 bytes).
 PDF statistics:
- 701 PDF objects out of 1000 (max. 8388607)
- 605 compressed objects within 7 object streams
+ 694 PDF objects out of 1000 (max. 8388607)
+ 599 compressed objects within 6 object streams
  161 named destinations out of 1000 (max. 500000)
- 523 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 515 words of extra memory for PDF output out of 10000 (max. 10000000)
 

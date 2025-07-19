@@ -54,7 +54,6 @@
 \contentsline {chapter}{\numberline {11}RATES FOR 2025}{49}{chapter.11}%
 \contentsline {section}{\numberline {11.1}CANADA / QUEBEC PENSION PLAN (CPP / QPP)}{49}{section.11.1}%
 \contentsline {section}{\numberline {11.2}CPP2 CONTRIBUTION RATES MAXIMUMS}{49}{section.11.2}%
-\contentsline {section}{\numberline {11.3}References}{50}{section.11.3}%
 \contentsline {chapter}{\numberline {12}REFERENCES}{51}{chapter.12}%
 \contentsline {chapter}{\numberline {13}Errors and Errata}{53}{chapter.13}%
 \contentsline {chapter}{\numberline {14}Glossary}{55}{chapter.14}%
