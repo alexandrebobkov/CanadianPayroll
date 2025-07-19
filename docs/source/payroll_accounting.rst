@@ -42,7 +42,7 @@ These entries are essential for maintaining accurate financial records and ensur
 
   CR    Payroll Payable     ($10,500.00)
 
-.. list-table:: Journal Entry Example
+.. list-table:: *To record accrual of payroll expenses for the period.*
    :header-rows: 1
    :widths: 25 25 10
 
