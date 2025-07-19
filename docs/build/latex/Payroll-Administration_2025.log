@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.10.18)  18 JUL 2025 22:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.10.18)  18 JUL 2025 22:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -936,29 +936,11 @@ Package pdftex.def Info: onboarding-employee_006.png  used on input line 2418.
 
 ]
 Chapter 8.
+[43] [44
 
-Underfull \hbox (badness 10000) in paragraph at lines 2635--2643
-[]\T1/qtm/m/n/10 +==================+==================+============+ | DR Ac-c
-ount | CR Ac-count
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2635--2643
-\T1/qtm/m/n/10 | Amount | +==================+==================+============+ 
-| Pay-roll Ex-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2635--2643
-\T1/qtm/m/n/10 penses | | $10,500.00 | +^^V^^V^^V^^V^^V^^V+^^V^^V^^V^^V^^V^^V+^
-^V^^V^^V^^V+ | | Pay-roll Payable | $10,500.00 |
- []
-
-[43] [44]
+]
 Chapter 9.
-[45
-
-] [46
+[45] [46
 
 ]
 Chapter 10.
@@ -1002,7 +984,7 @@ c/tex-gyre/qhvbi.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qhvr.pfb></u
 sr/share/texmf/fonts/type1/public/tex-gyre/qtmb.pfb></usr/share/texmf/fonts/typ
 e1/public/tex-gyre/qtmr.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qtmri
 .pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/t1xtt.pfb>
-Output written on Payroll-Administration_2025.pdf (59 pages, 566748 bytes).
+Output written on Payroll-Administration_2025.pdf (59 pages, 566506 bytes).
 PDF statistics:
  699 PDF objects out of 1000 (max. 8388607)
  603 compressed objects within 7 object streams
