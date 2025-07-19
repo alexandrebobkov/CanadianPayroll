@@ -2,9 +2,7 @@
 PREFACE
 ######################
 
-Through this material, students will gain a comprehensive understanding of core payroll principles and practices. They will explore legislative compliance requirements and the role of key regulatory bodies that govern payroll operations in Canada.
-
-Students will learn how to:
+The material of this study guide aim to make students to be be able to:
 
 - Accurately calculate net pay for salaried, hourly, commissioned, and contract employees.
 - Identify and meet payroll-related obligations for businesses.
@@ -13,17 +11,12 @@ Students will learn how to:
 - Payroll's responsibilities from hiring through to termination.
 - Payroll compliance legislation in practical scenarios.
 - Individual pay calculation process.
-
-Learning Outcomes
-******************
-
-The material of this study guide aim to make students to be be able to:
-
 - Calculate regular individual pay
 - Calculate non-regular individual pay
 - Calculate termination payments
 - Complete a Record of Employment (ROE)
 - Apply federal and provincial legislation to payroll, including:
+
   - The Canada Pension Plan Act
   - The Employment Insurance Act
   - The Income Tax Act
