@@ -42,7 +42,8 @@ These entries are essential for maintaining accurate financial records and ensur
 
   CR    Payroll Payable     ($10,500.00)
 
-| DR/CR | Account | Amount |
-| :---: | :-----: | :----: |
++-------+------------------+------------+
+| DR/CR |      Account     |   Amount   |
++-------+------------------+------------+
 |   DR  | Payroll Expenses | $10,500.00 |
 |   CR  | Payroll Payable  | $10,500.00 |
