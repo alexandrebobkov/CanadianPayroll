@@ -11,5 +11,7 @@ New Employee Information
 Which one of the following is correct?
 
   a. Choice A
+  
   b. Choice B
+
   **c.** Choice C
