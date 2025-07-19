@@ -1,8 +1,5 @@
 \babel@toc {english}{}\relax 
 \contentsline {chapter}{\numberline {1}PREFACE}{3}{chapter.1}%
-\contentsline {section}{\numberline {1.1}Learning Outcomes}{3}{section.1.1}%
-\contentsline {section}{\numberline {1.2}Recommended Course Material}{3}{section.1.2}%
-\contentsline {section}{\numberline {1.3}Material Structure Overview}{3}{section.1.3}%
 \contentsline {chapter}{\numberline {2}INTRODUCTION}{5}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Outcomes}{5}{section.2.1}%
 \contentsline {subsection}{\numberline {2.1.1}Payroll Legal Framework}{5}{subsection.2.1.1}%
@@ -72,4 +69,3 @@
 \contentsline {chapter}{\numberline {17}TITLE \#}{61}{chapter.17}%
 \contentsline {section}{\numberline {17.1}TITLE =}{61}{section.17.1}%
 \contentsline {chapter}{\numberline {18}Glossary}{63}{chapter.18}%
-\contentsline {chapter}{\numberline {19}Canadian Payroll Administration}{65}{chapter.19}%
