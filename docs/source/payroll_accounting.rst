@@ -38,5 +38,5 @@ Journal Entries
 Journal entries are a key part of payroll accounting, as they document the financial impact of payroll transactions on the organization's accounts. Each payroll run generates a series of journal entries that reflect the distribution of wages, taxes, and deductions across various accounts.
 These entries are essential for maintaining accurate financial records and ensuring that the organization's financial statements reflect the true cost of employee compensation. The Canadian Payroll Administration system automates the generation of these journal entries, reducing the risk of errors and ensuring compliance with accounting standards.
 
-| DR    Payroll Expenses    $10,500.00
-|   CR  Payroll Payable   $10,500.00
+DR    Payroll Expenses    $10,500.00
+  CR  Payroll Payable     $10,500.00
