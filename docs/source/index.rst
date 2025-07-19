@@ -22,8 +22,7 @@ to confidently perform essential payroll functions encountered in day-to-day ope
    :caption: Table of Contents:
    :numbered:
 
-   preface 
-   introduction
+   preface
    terminology
    compliance
    cpp-and-ei
