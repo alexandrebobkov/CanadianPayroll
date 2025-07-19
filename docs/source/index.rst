@@ -23,13 +23,13 @@ to confidently perform essential payroll functions encountered in day-to-day ope
    :numbered:
 
    preface
-   terminology
    compliance
    cpp-and-ei
    compensation
    onboarding_employee
    payroll_accounting
    review_questions
+   terminology
    
    TD1
    calculating-net-pay
