@@ -22,22 +22,18 @@ to confidently perform essential payroll functions encountered in day-to-day ope
    :caption: Table of Contents:
    :numbered:
 
-   preface 
-   introduction
-   terminology
+   preface
    compliance
    cpp-and-ei
    compensation
    onboarding_employee
    payroll_accounting
    review_questions
-   
-   TD1
+   terminology
    calculating-net-pay
    rates_2025
    references
    errata
-   syntax
 
 Glossary
 =========

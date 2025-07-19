@@ -1,5 +1,5 @@
 ##########################################
-DETERMINING ANNUAL AND PAY PERIOD EARNINGS
+CALCULATING NET EARNINGS
 ##########################################
 
 Employment Income
