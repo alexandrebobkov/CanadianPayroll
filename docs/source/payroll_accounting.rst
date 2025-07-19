@@ -55,6 +55,6 @@ These entries are essential for maintaining accurate financial records and ensur
    * -
      - Payroll Payable
      - $10,500.00
-   * - *To record accrual of payroll expenses for the period*
+   * - *To record accrual of payroll expenses for the period.*
      -
      - 
