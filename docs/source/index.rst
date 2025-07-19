@@ -44,9 +44,7 @@ Glossary
 
 * :ref:`genindex`
 
-##############################################
-Canadian Payroll Administration
-##############################################
+**sys variables**
 
 .. program-output:: python --version
 
