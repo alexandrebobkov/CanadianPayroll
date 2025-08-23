@@ -92,12 +92,12 @@ deduction to be withheld from an employee’s gross pay.
 Employment Insurance (EI)
 --------------------------
 
-The CRA’s responsibility for the Employment Insurance program is associated with the
+The CRA's responsibility for the Employment Insurance program is associated with the
 collection of employee and employer premiums. It also makes decisions about which types of
 remuneration are considered insurable and, therefore, subject to EI premiums.
 All employers are required by law to deduct EI premiums from the insurable earnings paid to
-their employees, and remit these deductions, along with the employer’s portion, to the CRA.
-The employer’s portion is 1.4 times the employee’s portion.
+their employees, and remit these deductions, along with the employer's portion, to the CRA.
+The employer's portion is 1.4 times the employee's portion.
 
 *Example:*
 
@@ -105,8 +105,8 @@ Janet Frank has $20.00 in EI premiums deducted from her gross pay. Her employer,
 Skies must contribute $28.00 ($20.00 x 1.4). A total of $48.00 in EI premiums must be
 remitted to the CRA.
 
-EI premiums are the second statutory deduction to be withheld from an employee’s pay.
-Employers are also required to track the employee’s insurable earnings and insurable hours
+EI premiums are the second statutory deduction to be withheld from an employee's pay.
+Employers are also required to track the employee's insurable earnings and insurable hours
 by pay period for reporting purposes, such as completing the Record of Employment for a
 terminated or inactive employee.
 
