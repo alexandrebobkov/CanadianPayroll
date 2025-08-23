@@ -39,6 +39,12 @@ The CRA's program responsibilities that are specifically related to payroll incl
 
   - Income Tax
 
+Each of these programs requires compliance by employers to withhold deductions from their
+employees' pay for CPP contributions, EI premiums and income tax deductions. These
+withholdings are termed statutory deductions as the deductions are required under legislative
+statute. Statutory deductions are the first deductions to be withheld from an employee’s gross
+pay.
+
 Canada Pension Plan (CPP)
 --------------------------
 
