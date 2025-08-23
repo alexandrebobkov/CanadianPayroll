@@ -100,7 +100,7 @@ Legislation vs. regulation
 **The regulation** specifies the __methods__ of applying the legislation.
 
 Payroll Content Knowledge
---------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Payroll administrators should know the following to effectively perform 
 their duties:
@@ -113,7 +113,7 @@ their duties:
 In addition, payroll reporting includes accounting for payroll expenses and accruals to internal financial systems and federal and provincial/territorial year-end reporting.
 
 Technical Skills
------------------
+~~~~~~~~~~~~~~~~~
 
 The technical skills required by payroll professionals include proficiency in 
 computer programs such as payroll software and financial systems, 
@@ -126,7 +126,7 @@ As a payroll practitioner, you must be prepared and willing to embrace
 continuous learning.
 
 Personal and Professional Skills
-----------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The following personal and professional skills will assist payroll 
 administrators in dealing with the various stakeholders involved in the 
