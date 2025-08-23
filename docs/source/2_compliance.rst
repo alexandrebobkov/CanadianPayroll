@@ -219,13 +219,11 @@ Employment Equity Act
 Content Review
 ~~~~~~~~~~~~~~~~
 
-  - Under the Canada Pension Plan Act and the Employment Insurance Act, the Canada
-Revenue Agency is responsible for determining:
-o whether or not an individual's employment is pensionable under the Canada
-Pension Plan Act or insurable under the Employment Insurance Act
-o the types of earnings that are considered pensionable or insurable
-o how many hours an insured person has in insurable employment
-o the recovery of any debts owed as a result of an overpayment of Canada
+  - Under the Canada Pension Plan Act and the Employment Insurance Act, the Canada Revenue Agency is responsible for determining:
+    - whether or not an individual's employment is pensionable under the Canada Pension Plan Act or insurable under the Employment Insurance Act
+    - the types of earnings that are considered pensionable or insurable
+    - how many hours an insured person has in insurable employment
+    - the recovery of any debts owed as a result of an overpayment of Canada
 Pension Plan, Employment Insurance, or Old Age Security benefits
 
   - The Canada Revenue Agency is responsible for ensuring that Canada Pension Plan
