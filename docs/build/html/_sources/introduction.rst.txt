@@ -140,31 +140,38 @@ Behavioural and Ethical Standards
 
 Behaviour and ethics are two areas that build on the skills that an effective payroll practitioner
 must have. Effective payroll professionals should be:
+
   - trustworthy, as the potential for fraud is ever present
+
   - conscientious, with a keen attention to detail
+
   - discreet, due to the confidential nature of information being handled
+
   - tactful in dealing with employees who can be very sensitive when 
   discussing their financial issues
+
   - perceptive, able to understand all sides of an issue
+
   - able to work under the pressures of absolute deadlines
+
   - able to use common sense in order to recognize problems quickly and 
   apply sound solutions
+
   - able to remain objective and maintain a factual perspective when 
   dealing with questions and inquiries
 
 Content Review
 -----------------
 
-  - The primary objective of the payroll function in every organization is to pay
-employees accurately and on time, in compliance with legislative requirements, for a
-full annual payroll cycle.
+  - The primary objective of the payroll function in every organization is to pay employees accurately and on time, in compliance with legislative requirements, for a full annual payroll cycle.
 
   - Payroll is the process of paying employees in exchange for the services they perform.
+
   - Legislation refers to laws enacted by a legislative body.
+
   - Compliance is the observance of official requirements.
-  - Payroll practitioner knowledge consists of information on payroll compliance
-legislation, payroll processes and payroll reporting as well as technical, personal and
-professional skills.
+
+  - Payroll practitioner knowledge consists of information on payroll compliance legislation, payroll processes and payroll reporting as well as technical, personal and professional skills.
 
 Review Questions
 -----------------
