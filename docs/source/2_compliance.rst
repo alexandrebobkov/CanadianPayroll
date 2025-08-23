@@ -347,8 +347,96 @@ Information.
 The Privacy Principles
 -----------------------
 
+The Canadian Standards Association (CSA) Model Code is a set of principles that was
+developed with input from organizations, governments, consumer associations and other
+privacy stakeholders. They are incorporated in Federal private sector privacy legislation and
+have become the generally accepted framework for evaluating privacy processes and systems
+in Canada2.
+Principle 1. Accountability
+An organization is responsible for personal information under its control and shall designate
+an individual or individuals to be accountable for the organization's compliance with the
+following principles.
+Principle 2. Identifying Purposes
+The purposes for which personal information is collected shall be identified by the
+organization at or before the time the information is collected.
+Principle 3. Consent
+The knowledge and consent of the individual are required for the collection, use, or
+disclosure of personal information, except where inappropriate. Note: In certain
+circumstances, personal information can be collected, used, or disclosed without the
+knowledge and consent of the individual. For example, legal, medical, or security reasons
+may make it impossible or impractical to seek consent.
+Principle 4. Limiting Collection
+The collection of personal information shall be limited to that which is necessary for the
+purposes identified by the organization. Information shall be collected by fair and lawful
+means.
+Principle 5. Limiting Use, Disclosure, and Retention
+Personal information shall not be used or disclosed for purposes other than those for which it
+was collected, except with the consent of the individual or as required by law. Personal
+information shall be retained only as long as is necessary for the fulfillment of those
+purposes.
+Principle 6. Accuracy
+Personal information shall be as accurate, complete, and up-to-date as is necessary for the
+purposes for which it is to be used.
+Principle 7. Safeguards
+Personal information shall be protected by security safeguards appropriate to the sensitivity
+of the information.
+Principle 8. Openness
+An organization shall make readily available to individuals specific information about its
+policies and practices relating to the management of personal information.
+Principle 9. Individual Access
+Upon request, an individual shall be informed of the existence, use and disclosure of his or
+her personal information and shall be given access to that information. An individual shall be
+able to challenge the accuracy and completeness of the information and have it amended as
+appropriate. In certain situations, an organization may not be able to provide access to all the
+personal information it holds about an individual. Exceptions to the access requirement
+should be limited and specific. The reasons for denying access should be provided to the
+individual upon request. Exceptions may include information that is prohibitively costly to
+provide, information that contains references to other individuals, information that cannot be
+disclosed for legal, security, or commercial proprietary reasons, and information that is
+subject to solicitor–client or litigation privilege.
+Principle 10. Challenging Compliance
+An individual shall be able to address a challenge concerning compliance with the above
+principles to the designated individual or individuals accountable for the organization's
+compliance.
+
 The Personal Information Protection and Electronic Documents Act (PIPEDA)
 --------------------------------------------------------------------------
+The federal government drew upon the CSA Privacy Principles in its drafting of the federal
+Personal Information Protection and Electronic Documents Act (PIPEDA) and the spirit and
+much of the wording of the principles can be found throughout PIPEDA.
+The mandate of the Office of the Privacy Commissioner of Canada (OPC) is overseeing
+compliance with both the Privacy Act, which covers the personal information-handling
+practices of federal government departments and agencies (including employee data), and the
+Personal Information Protection and Electronic Documents Act (PIPEDA), Canada’s private
+sector privacy law.
+PIPEDA has applied to federally regulated organizations such as banks, telecommunications
+and transportation companies since January 2001 and applies to the collection, use or
+disclosure of personal information in the course of any commercial activity within a province
+that does not have its own privacy legislation, since January 2004.
+While this protection of personal information legislation has a significant impact on how
+organizations collect, use and disclose personal information relating to commercial
+transactions (for example, customer/client lists and information), it is the effect of this
+legislation on employee personal information that concerns the payroll and human resources
+departments.
+Employers collect personal employee information to conduct and protect their business, and
+to comply with government legislation (for example, Employment/Labour Standards and
+statutory deductions relating to CPP/QPP contributions, EI and QPIP premiums along with
+income tax). As well, many employers provide benefits such as dental, medical and pension
+plans that require the collection of even greater amounts of personal data.
+
+.. note::
+
+    Notice
+PIPEDA does not require that employers obtain consent from prospective employees, current
+employees, or terminated employees to collect, use, and disclose information about that
+person where the information is necessary for the creation, maintenance, and termination of
+the employment relationship. It is, however, the case that the employer will provide notice to
+the employee so that they are knowledgeable with respect to the information that the
+employer collects, uses, and discloses.
+This notice should be provided to prospective employees as part of the recruitment process
+and also as part of the on-boarding process. In addition, if there are changes to personal data
+practices for employee information, employees should be informed about such changes in a
+timely manner.
 
 Pension Benefits Standards Act
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
