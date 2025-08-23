@@ -17,6 +17,7 @@ Plan Act or insurable under the Employment Insurance Act
 
   - the recovery of any debts owed as a result of an overpayment of Canada Pension
 Plan, Employment Insurance, or Old Age Security benefits
+
 The CRA is also responsible for ensuring that CPP contributions and EI premiums are
 deducted, remitted and reported as required by legislation.
 
