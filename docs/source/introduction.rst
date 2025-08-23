@@ -36,3 +36,9 @@ all stakeholders.
 
 - Payroll is the process of paying employees in exchange for the services 
 they perform.
+
+- Legislation refers to laws enacted by a legislative body. In Canada 
+there are many legislative sources that payroll practitioners must comply 
+with at two separate levels ─ the federal and the provincial/territorial 
+governments. Later in the chapter we will explore the compliance
+requirements for the various pieces of legislation from these sources.
