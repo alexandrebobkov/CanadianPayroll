@@ -23,6 +23,7 @@ to confidently perform essential payroll functions encountered in day-to-day ope
    :numbered:
 
    preface
+   introduction
    compliance
    cpp-and-ei
    compensation
