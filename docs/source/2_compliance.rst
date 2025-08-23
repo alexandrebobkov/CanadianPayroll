@@ -193,6 +193,7 @@ Canadians in making choices that help them live productive and rewarding lives a
 improve their quality of life.
 
 To do this, the department:
+
   - develops policies that make Canada a society in which all can use their talents, skills and resources to participate in learning, work and their community
   - creates programs and support initiatives that help Canadians move through life's transitions—from families with children to seniors, from school to work, from one job to another, from unemployment to employment, from the workforce to retirement
   - creates better outcomes for Canadians through service excellence with Service Canada and other partners
@@ -200,6 +201,7 @@ To do this, the department:
 ESDC supports human capital development and labour market development; and is dedicated
 to establishing a culture of lifelong learning for Canadians. Some of their specific program
 responsibilities include:
+
   - Canada Pension Plan and Old Age Security
   - Employment Insurance
   - Employment Programs
@@ -208,6 +210,7 @@ responsibilities include:
   - Canada Student Loans and Grants
 
 ESDC is responsible for matters relating to:
+
   - amending the regulations made under the Canada Pension Plan and the Employment *Insurance Act*
   - keeping records of each individual's CPP contributions and pensionable earnings
   - the establishment of annual maximum insurable earnings
