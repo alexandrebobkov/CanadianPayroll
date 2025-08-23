@@ -351,15 +351,23 @@ The Canadian Standards Association (CSA) Model Code is a set of principles that 
 developed with input from organizations, governments, consumer associations and other
 privacy stakeholders. They are incorporated in Federal private sector privacy legislation and
 have become the generally accepted framework for evaluating privacy processes and systems
-in Canada2.
+in Canada.
+
 Principle 1. Accountability
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 An organization is responsible for personal information under its control and shall designate
 an individual or individuals to be accountable for the organization's compliance with the
 following principles.
+
 Principle 2. Identifying Purposes
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 The purposes for which personal information is collected shall be identified by the
 organization at or before the time the information is collected.
+
 Principle 3. Consent
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 The knowledge and consent of the individual are required for the collection, use, or
 disclosure of personal information, except where inappropriate. Note: In certain
 circumstances, personal information can be collected, used, or disclosed without the
