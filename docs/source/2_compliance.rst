@@ -81,9 +81,7 @@ All employers are required by law to deduct CPP contributions from pensionable e
 paid to their employees, and to remit these deductions, along with the employer's portion, to
 the CRA. The employer matches the employee's contributions dollar for dollar.
 
-.. note::
-
-    *Example:*
+.. admonition:: EXAMPLE
 
     Janet Frank has $45.00 in CPP contributions deducted from her gross pay. Her employer,
     Northern Skies, must match her contribution of $45.00. A total of $90.00 in CPP contributions must be remitted to the CRA.
