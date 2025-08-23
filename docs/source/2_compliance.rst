@@ -246,6 +246,39 @@ employee and the employer are also determined annually.
 Service Canada
 ~~~~~~~~~~~~~~~~~
 
+Service Canada (SC) was created by the federal government in 2005 with the goal of
+providing easy-to-access, one-stop personalized service to Canadians. The agency integrates
+services from a number of federal departments to form a service delivery network. These
+services often touch all aspects of the lives of Canadians: from parental and pension benefits,
+to matching employers with job seekers, and obtaining a Social Insurance Number.
+Service Canada serves as the government’s operational arm while Employment and Social
+Development Canada (ESDC) operates as the policy-making body. ESDC makes the rules
+for the various programs while Service Canada delivers the programs.
+
+Some of Service Canada’s program responsibilities include:
+  - the issuance of Social Insurance Numbers (SIN) and the protection and security of
+SIN information
+  - the delivery of services to employers, including Record of Employment on the Web
+the administration of Employment Insurance programs to individuals, including
+regular, illness, pregnancy/parental, critically ill or injured person and compassionate
+care benefits
+  - the administration of the Employment Insurance Premium Reduction program,
+including granting qualified employers a reduced Employment Insurance premium
+rate
+  - the administration of Canada Pension Plan benefits, including retirement, disability,
+survivor, children’s and death benefits
+  - the administration of benefits for seniors, including the Old Age Security Program
+and the Guaranteed Income Supplement
+
+Through the Canada Pension Plan program, SC administers the payment of CPP benefits.
+These payments have little impact on payroll. The biggest impact Service Canada has on
+payroll is through the administration of the Record of Employment program and the Social
+Insurance Number.
+Payroll is responsible for deducting and remitting EI premiums on behalf of employees and
+employers. They are also responsible for capturing information related to insurable earnings
+and hours, and reporting that information on the Record of Employment, which is explained
+in detail in a later chapter.
+
 Social Insurance Number (SIN)
 ------------------------------
 
