@@ -187,6 +187,31 @@ trust money for statutory deductions is still owed to the CRA.
 
 Employment and Social Development Canada (ESDC)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Employment and Social Development Canada (ESDC), a department of the Government of
+Canada, is committed to building a stronger and more competitive Canada by supporting
+Canadians in making choices that help them live productive and rewarding lives and to
+improve their quality of life.
+To do this, the department:
+
+
+
+develops policies that make Canada a society in which all can use their talents, skills
+and resources to participate in learning, work and their community
+creates programs and support initiatives that help Canadians move through life’s
+transitions—from families with children to seniors, from school to work, from one
+job to another, from unemployment to employment, from the workforce to retirement
+creates better outcomes for Canadians through service excellence with Service
+Canada and other partners
+
+ESDC supports human capital development and labour market development; and is dedicated
+to establishing a culture of lifelong learning for Canadians. Some of their specific program
+responsibilities include:
+  - Canada Pension Plan and Old Age Security
+  - Employment Insurance
+  - Employment Programs
+  - Youth Employment Strategies
+  - Canada Education Savings Program
+  - Canada Student Loans and Grants
 
 Service Canada
 ~~~~~~~~~~~~~~~~~
@@ -215,7 +240,7 @@ Canadian Human Rights Act
 Employment Equity Act
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Content Review
+Summary
 ~~~~~~~~~~~~~~~~
 
   - Under the Canada Pension Plan Act and the Employment Insurance Act, the Canada Revenue Agency is responsible for determining:
@@ -233,3 +258,16 @@ Content Review
   - Employers who remit withholdings or deductions late, withhold the statutory deductions but do not remit them, or fail to deduct the required deductions will be subject to penalties, which may increase on subsequent occurrences, plus interest charges.
 
   - All monies deducted on behalf of the Canada Revenue Agency are considered to be held “in trust” for the Receiver General.
+
+Review Questions
+~~~~~~~~~~~~~~~~~~~~~
+
+1. What are the three main programs specifically related to payroll that the Canada
+Revenue Agency administers?
+
+2. If an organization deducts $27,400 in Canada Pension Plan contributions from its
+employees and $21,200 in Employment Insurance premiums, how much would have to
+be remitted in total to the Canada Revenue Agency?
+
+3. True or False: The Canada Revenue Agency collects provincial/territorial income taxes
+for all provinces and territories.
