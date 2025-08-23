@@ -258,6 +258,7 @@ Development Canada (ESDC) operates as the policy-making body. ESDC makes the rul
 for the various programs while Service Canada delivers the programs.
 
 Some of Service Canada's program responsibilities include:
+
   - the issuance of Social Insurance Numbers (SIN) and the protection and security of SIN information
   - the delivery of services to employers, including Record of Employment on the Web the administration of Employment Insurance programs to individuals, including regular, illness, pregnancy/parental, critically ill or injured person and compassionate care benefits
   - the administration of the Employment Insurance Premium Reduction program, including granting qualified employers a reduced Employment Insurance premium rate
