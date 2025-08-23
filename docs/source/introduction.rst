@@ -143,7 +143,7 @@ payroll process:
   - problem solving, decision-making, time management and organizational skills
 
 Behavioural and Ethical Standards
-----------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Behaviour and ethics are two areas that build on the skills that an effective payroll practitioner
 must have. Effective payroll professionals should be:
@@ -176,7 +176,7 @@ output of the payroll department. Stakeholders can be considered customers of th
 can take a proactive customer service approach to serving these individuals and groups.
 
 Payroll Management Stakeholders
---------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Payroll Management Stakeholders** are the federal and provincial/territorial governments, 
 the internal stakeholders and the external stakeholders. Internal stakeholders 
@@ -185,7 +185,7 @@ External stakeholders include benefit carriers, courts, unions, pension
 providers, charities, third party administrators and outsource/software vendors.
 
 Government Stakeholders
---------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Government legislation provides the rules and regulations that the payroll function must
 administer with respect to payments made to employees. For this reason, it is important for
@@ -222,7 +222,7 @@ act to a provincial/territorial agency, and a provincial/territorial legislature
 administration of a provincial/territorial act to a federal agency.
 
 Federal Government
--------------------
+~~~~~~~~~~~~~~~~~~~
 
 The *Constitution Act of 1867* outlined the division of legislative power and authority between
 federal and provincial/territorial jurisdictional governments. The exclusive legislative
@@ -260,7 +260,7 @@ employees under federal jurisdiction in the following industries and organizatio
   - organizations whose operations have been declared for the general advantage of Canada or two or more provinces, and such Crown corporations as Canada Post Corporation, and the Canadian Broadcasting Corporation (CBC)
 
 Provincial/Territorial Governments
-------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Under the *Constitution Act of 1867*, the exclusive legislative authority of the provinces and
 territories exists over:
@@ -285,7 +285,7 @@ Organizations may have some employees who fall under federal jurisdiction and an
 group of employees who fall under provincial/territorial legislation.
 
 Internal Stakeholders
----------------------
+~~~~~~~~~~~~~~~~~~~~~~
 
 Internal stakeholders are those individuals or departments closely related to the organization
 that the payroll department is serving. This group includes employers, employees and other
@@ -312,7 +312,7 @@ In addition, other departments such as contracts and manufacturing often need pa
 information for budgeting, analytical and quality purposes.
 
 External Stakeholders
----------------------
+~~~~~~~~~~~~~~~~~~~~~~
 
 External stakeholders are organizations that are neither government nor internal stakeholders,
 yet have a close working relationship with the payroll function. Compliance with external
