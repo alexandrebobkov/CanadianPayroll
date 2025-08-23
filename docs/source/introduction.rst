@@ -93,14 +93,14 @@ The payroll department in a large organization may have:
   - payroll managers who manage the payroll function, the payroll staff and represent payroll at the management level
 
 Legislation vs. regulation
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+---------------------------
 
 **The legislation** specifies the __requirements__.
 
 **The regulation** specifies the __methods__ of applying the legislation.
 
 Payroll Content Knowledge
---------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Payroll administrators should know the following to effectively perform 
 their duties:
