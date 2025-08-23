@@ -58,7 +58,7 @@ The CRA's program responsibilities that are specifically related to payroll incl
 Each of these programs requires compliance by employers to withhold deductions from their
 employees' pay for CPP contributions, EI premiums and income tax deductions. These
 withholdings are termed statutory deductions as the deductions are required under legislative
-statute. Statutory deductions are the first deductions to be withheld from an employee’s gross
+statute. Statutory deductions are the first deductions to be withheld from an employee's gross
 pay.
 
 Canada Pension Plan (CPP)
@@ -77,8 +77,8 @@ benefits, the plan provides supplementary benefits in the form of:
   - death benefits payable upon the death of a contributor
 
 All employers are required by law to deduct CPP contributions from pensionable earnings
-paid to their employees, and to remit these deductions, along with the employer’s portion, to
-the CRA. The employer matches the employee’s contributions dollar for dollar.
+paid to their employees, and to remit these deductions, along with the employer's portion, to
+the CRA. The employer matches the employee's contributions dollar for dollar.
 
 *Example:*
 
@@ -87,7 +87,7 @@ Northern Skies, must match her contribution of $45.00. A total of $90.00 in CPP
 contributions must be remitted to the CRA.
 
 CPP contributions take priority over all other deductions and are therefore the first statutory
-deduction to be withheld from an employee’s gross pay.
+deduction to be withheld from an employee's gross pay.
 
 Employment Insurance (EI)
 --------------------------
