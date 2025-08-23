@@ -92,3 +92,21 @@ and making required payroll remittances
 reconciling the payroll related accounts
   - payroll managers who manage the payroll function, the payroll staff and represent
 payroll at the management level
+
+Payroll Content Knowledge
+--------------------------
+
+Payroll administrators should know the following to effectively perform 
+their duties:
+  - **Payroll Compliance Legislation:** the Income Tax Act, the Employment 
+  Insurance Act, the Canada Pension Plan Act, Employment/Labour Standards, 
+  privacy legislation, Workers' Compensation and provincial/territorial 
+  payroll-specific legislation
+  - **Payroll Processes**: the remuneration and deduction components of 
+  payroll and how to use these components to calculate a net pay in both 
+  regular and non-regular circumstances
+  - **Payroll Reporting**: how to calculate and remit amounts due to 
+  government agencies, insurance companies, unions and other third parties. 
+  In addition, payroll reporting includes accounting for payroll expenses 
+  and accruals to internal financial systems and federal and 
+  provincial/territorial year-end reporting.
