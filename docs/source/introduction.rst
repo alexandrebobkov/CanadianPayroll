@@ -34,11 +34,16 @@ In addition to ensuring that employees have been paid, payroll
 practitioners must also be able to communicate payroll information to
 all stakeholders.
 
-- Payroll is the process of paying employees in exchange for the services 
+- **Payroll** is the process of paying employees in exchange for the services 
 they perform.
 
-- Legislation refers to laws enacted by a legislative body. In Canada 
+- **Legislation** refers to laws enacted by a legislative body. In Canada 
 there are many legislative sources that payroll practitioners must comply 
 with at two separate levels ─ the federal and the provincial/territorial 
 governments. Later in the chapter we will explore the compliance
 requirements for the various pieces of legislation from these sources.
+
+- **Compliance** is the observance of official requirements. For payroll 
+practitioners, this means performing payroll functions according to 
+federal and provincial/territorial legislative and non-governmental 
+stakeholder requirements.
