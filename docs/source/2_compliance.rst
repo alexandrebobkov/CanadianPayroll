@@ -15,24 +15,26 @@ mission is to promote compliance with Canada’s tax legislation and regulations
 communication, quality service, and responsible enforcement, thereby contributing to the
 economic and social well-being of Canadians.
 
-From this mission comes the CRA’s mandate to:
-
-
-collect revenues and administer tax laws for the federal government and for most
+From this mission comes the CRA's mandate to:
+  - collect revenues and administer tax laws for the federal government and for most
 provinces and territories
-deliver various social and economic benefit incentive programs to Canadians
+  - deliver various social and economic benefit incentive programs to Canadians
+
 The CRA tracks the success of the first part of its mandate by measuring compliance in the
 following areas:
-Filing – The CRA’s goal is to have over 90% of individual and corporate income tax and
+
+  - **Filing:** the CRA’s goal is to have over 90% of individual and corporate income tax and
 registered business’ goods and services tax/harmonized sales tax (GST/HST) returns filed on
 time.
-Registration – The CRA measures its success in this area by ensuring that the majority of all
+
+  - **Registration:** the CRA measures its success in this area by ensuring that the majority of all
 known businesses are registered for various programs including corporate income tax,
 GST/HST, payroll deductions, and import/export accounts.
-Remittance – The CRA’s goal is to have over 90% of individual and corporate tax filers pay
+
+  - **Remittance:** the CRA’s goal is to have over 90% of individual and corporate tax filers pay
 their taxes on time.
 
-Reporting: The CRA measures reporting compliance through the information it receives on
+  - **Reporting:** the CRA measures reporting compliance through the information it receives on
 tax documents, for example, the T4 and T4A information slips.
 
 The CRA's program responsibilities that are specifically related to payroll include the administration of:
