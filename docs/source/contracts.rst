@@ -121,7 +121,8 @@ answers are more consistent with a contract of service or a contract for service
 Each of these factors will be discussed in the material and indicators showing whether the
 worker is an employee or self-employed will be provided.
 
-**Control**
+Control
+~~~~~~~
 
 One of the key factors in determining a worker's status is the extent to which the payer has the ability, authority, or 
 right to control both what work is performed and how it is carried out. Equally important is the level of independence the 
