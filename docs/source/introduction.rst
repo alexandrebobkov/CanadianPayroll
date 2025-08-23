@@ -92,6 +92,13 @@ The payroll department in a large organization may have:
 
   - payroll managers who manage the payroll function, the payroll staff and represent payroll at the management level
 
+Legislation vs. regulation
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**The legislation** specifies the __requirements__.
+
+**The regulation** specifies the __methods__ of applying the legislation.
+
 Payroll Content Knowledge
 --------------------------
 
@@ -176,6 +183,105 @@ the internal stakeholders and the external stakeholders. Internal stakeholders
 include employees, employers and other departments within the organization. 
 External stakeholders include benefit carriers, courts, unions, pension 
 providers, charities, third party administrators and outsource/software vendors.
+
+Government Stakeholders
+--------------------------
+Government legislation provides the rules and regulations that the payroll function must
+administer with respect to payments made to employees. For this reason, it is important for
+the payroll practitioner to understand both the scope and the source of payroll-related
+legislation.
+Canada is ruled by a federal government with ten largely self-governing provinces and three
+territories controlled by the federal government. Payroll practitioners have to be compliant
+not only with the federal government legislation, but with the provincial and territorial
+governments’ legislation as well.
+As a result, payroll practitioners and their organizations are affected by the enactment of
+legislation at both the federal and provincial/territorial level.
+The federal parliament has the power to make laws for the peace, order and good government
+of Canada. The federal cabinet is responsible for most of the legislation introduced by
+parliament, and has the sole power to prepare and introduce tax legislation involving the
+expenditure of public money.
+The provincial/territorial legislatures have power over direct taxation in the province or
+territory for the purposes of natural resources, prisons (except for federal penitentiaries),
+charitable institutions, hospitals (except marine hospitals), municipal institutions, education,
+licences for provincial/territorial and municipal revenue purposes, local works, incorporation
+of provincial/territorial organizations, the creation of courts and the administration of justice,
+fines and penalties for breaking provincial/territorial laws.
+
+In the case of old age, disability, and survivor’s pensions, again both the federal and
+provincial/territorial governments have power. In this instance, if their laws conflict, the
+provincial/territorial power prevails.
+The federal government cannot transfer any of its powers to a provincial/territorial
+legislature, nor can a provincial/territorial legislature transfer any of its powers to the federal
+government. The federal government can, however, delegate the administration of a federal
+act to a provincial/territorial agency, and a provincial/territorial legislature can delegate the
+administration of a provincial/territorial act to a federal agency.
+
+Federal Government
+-------------------
+
+The Constitution Act of 1867 outlined the division of legislative power and authority between
+federal and provincial/territorial jurisdictional governments. The exclusive legislative
+authority of the Parliament of Canada extends to all matters regarding:
+
+
+
+
+
+
+
+
+regulation of trade and commerce
+Employment Insurance
+postal service
+fixing and providing salaries and allowances for civil and other officers of the
+Government of Canada
+navigation and shipping
+ferries between a province and any British or foreign country or between two
+provinces
+criminal law, except the Constitution of Courts of Criminal Jurisdiction, but including
+the Procedure in Criminal Matters
+anything not specifically assigned to the provinces under this Act
+The Canada Labour Code is legislation that consolidates certain statutes respecting labour.
+Part I deals with Industrial Relations, Part II deals with Occupational Health and Safety and
+Part III deals with Labour Standards. The primary objective of Part III is to establish and
+protect employees’ and employers’ rights to fair and equitable conditions of employment.
+Part III provisions establish minimum requirements concerning the working conditions of
+employees under federal jurisdiction in the following industries and organizations:
+
+
+industries and undertakings of inter-provincial/territorial, national, or international
+nature, that is, transportation, communications, radio and television broadcasting,
+banking, uranium mining, grain elevators, and flour and feed operations
+organizations whose operations have been declared for the general advantage of
+Canada or two or more provinces, and such Crown corporations as Canada Post
+Corporation, and the Canadian Broadcasting Corporation (CBC)
+
+Provincial/Territorial Governments
+------------------------------------
+
+Under the Constitution Act of 1867, the exclusive legislative authority of the provinces and
+territories exists over:
+
+
+all laws regarding property and civil rights, which give the provinces/territories the
+authority to enact legislation to establish employment standards for working
+conditions
+employment in manufacturing, mining, construction, wholesale and retail trade,
+service industries, local businesses and any industry or occupation not specifically
+covered under federal jurisdiction
+The existing divisions between federal and provincial/territorial control impact payroll when
+dealing with employment/labour standards. Employment/labour standards are rules legislated
+by each provincial/territorial jurisdiction that dictate issues such as hours of work, minimum
+wage, overtime, vacation pay and termination pay requirements.
+
+Employers must follow the employment/labour standards legislated by the jurisdiction in
+which their employees work, unless they are governed by federal labour standards. Federal
+labour standards apply to certain industries and organizations, regardless of where the
+employees work.
+The person or persons performing the payroll function must clearly understand under which
+employment/labour standards jurisdiction the employees of the organization fall.
+Organizations may have some employees who fall under federal jurisdiction and another
+group of employees who fall under provincial/territorial legislation.
 
 Content Review
 ==================
