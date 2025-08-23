@@ -393,15 +393,11 @@ Review Questions
 1. What are the three main programs specifically related to payroll that the Canada
 Revenue Agency administers?
 
-2. If an organization deducts $27,400 in Canada Pension Plan contributions from its
-employees and $21,200 in Employment Insurance premiums, how much would have to
-be remitted in total to the Canada Revenue Agency?
+2. If an organization deducts $27,400 in Canada Pension Plan contributions from its employees and $21,200 in Employment Insurance premiums, how much would have to be remitted in total to the Canada Revenue Agency?
 
-3. True or False: The Canada Revenue Agency collects provincial/territorial income taxes
-for all provinces and territories.
+3. True or False: The Canada Revenue Agency collects provincial/territorial income taxes for all provinces and territories.
 
-4. True or False: The emphasis of the Employment Insurance program is on paying people
-so they don’t have to return to work.
+4. True or False: The emphasis of the Employment Insurance program is on paying people so they don't have to return to work.
 
 5. Indicate which federal department or agency would be responsible in the following scenarios.
 
