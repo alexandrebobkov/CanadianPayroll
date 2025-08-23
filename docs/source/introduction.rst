@@ -283,6 +283,42 @@ employment/labour standards jurisdiction the employees of the organization fall.
 Organizations may have some employees who fall under federal jurisdiction and another
 group of employees who fall under provincial/territorial legislation.
 
+Internal Stakeholders
+---------------------
+
+Internal stakeholders are those individuals or departments closely related to the organization
+that the payroll department is serving. This group includes employers, employees and other
+departments in the organization.
+
+Employers - Management may require certain information from payroll to make sound
+business decisions.
+
+Employees – Employees require that their pay is received in a timely and accurate manner to
+meet personal obligations. Employees must also be assured that their personal information is
+kept confidential.
+
+Other departments – Many departments interact with payroll, either for information or
+reporting. According to the Canadian Payroll Association’s 2020 National Payroll Week
+(NPW) Payroll Professional Research Survey, fifty-five percent of payroll practitioners
+report through the finance department and thirty-two percent report through the human
+resources department. Information such as general ledger posting, payroll and benefit costs
+and salary information must flow between payroll, human resources and finance in formats
+needed for their various requirements.
+In addition, other departments such as contracts and manufacturing often need payroll
+information for budgeting, analytical and quality purposes.
+
+External Stakeholders
+---------------------
+
+External stakeholders are organizations that are neither government nor internal stakeholders,
+yet have a close working relationship with the payroll function. Compliance with external
+stakeholder requirements is also a responsibility of the payroll department. In most cases,
+compliance will require that payroll request a cheque from accounts payable and send it to
+the external organization along with supporting documentation.
+Benefit Carriers are insurance companies that provide benefit coverage to employees.
+Payroll is responsible for deducting and remitting premiums for the insurance coverage to the
+carriers and for providing reports on employee enrolment and coverage levels.
+
 Content Review
 ==================
 
