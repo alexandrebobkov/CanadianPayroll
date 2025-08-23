@@ -630,4 +630,4 @@ example of each.
 
 8. The Personal Information Protection and Electronic Documents Act contains ten
 privacy principles. Choose two and develop a statement for each that could be included
-in your organization’s privacy policy.
+in your organization's privacy policy.
