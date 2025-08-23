@@ -149,11 +149,11 @@ must have. Effective payroll professionals should be:
   - trustworthy, as the potential for fraud is ever present
   - conscientious, with a keen attention to detail
   - discreet, due to the confidential nature of information being handled
-  - tactful in dealing with employees who can be very sensitive when discussing their
-financial issues
-perceptive, able to understand all sides of an issue
-able to work under the pressures of absolute deadlines
-able to use common sense in order to recognize problems quickly and apply sound
-solutions
-able to remain objective and maintain a factual perspective when dealing with
-questions and inquiries
+  - tactful in dealing with employees who can be very sensitive when 
+  discussing their financial issues
+  - perceptive, able to understand all sides of an issue
+  - able to work under the pressures of absolute deadlines
+  - able to use common sense in order to recognize problems quickly and 
+  apply sound solutions
+  - able to remain objective and maintain a factual perspective when 
+  dealing with questions and inquiries
