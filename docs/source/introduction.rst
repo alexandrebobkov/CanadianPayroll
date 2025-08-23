@@ -93,7 +93,7 @@ The payroll department in a large organization may have:
   - payroll managers who manage the payroll function, the payroll staff and represent payroll at the management level
 
 Legislation vs. regulation
----------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **The legislation** specifies the __requirements__.
 
@@ -113,7 +113,7 @@ their duties:
 In addition, payroll reporting includes accounting for payroll expenses and accruals to internal financial systems and federal and provincial/territorial year-end reporting.
 
 Technical Skills
-~~~~~~~~~~~~~~~~
+-----------------
 
 The technical skills required by payroll professionals include proficiency in 
 computer programs such as payroll software and financial systems, 
