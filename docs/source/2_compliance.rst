@@ -99,11 +99,11 @@ All employers are required by law to deduct EI premiums from the insurable earni
 their employees, and remit these deductions, along with the employer's portion, to the CRA.
 The employer's portion is 1.4 times the employee's portion.
 
-*Example:*
+.. admonition:: EXAMPLE
 
-Janet Frank has $20.00 in EI premiums deducted from her gross pay. Her employer, Northern
-Skies must contribute $28.00 ($20.00 x 1.4). A total of $48.00 in EI premiums must be
-remitted to the CRA.
+    Janet Frank has $20.00 in EI premiums deducted from her gross pay. Her employer, Northern
+    Skies must contribute $28.00 ($20.00 x 1.4). A total of $48.00 in EI premiums must be
+    remitted to the CRA.
 
 EI premiums are the second statutory deduction to be withheld from an employee's pay.
 Employers are also required to track the employee's insurable earnings and insurable hours
