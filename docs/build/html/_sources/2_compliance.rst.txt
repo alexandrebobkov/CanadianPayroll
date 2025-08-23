@@ -112,7 +112,6 @@ terminated or inactive employee.
 
 Income Tax
 ----------
-
 Income taxation began in Canada, and in many other countries, during World War I. In July
 1917, the Government of Canada passed legislation which enabled the government to levy a
 temporary tax on personal income. This tax was intended to help finance government
