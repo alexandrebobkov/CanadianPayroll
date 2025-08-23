@@ -89,7 +89,7 @@ The payroll department in a large organization may have:
   - payroll administrators who are responsible for entering payroll data into the system and making required payroll remittances
 
   - payroll coordinators who are responsible for preparing the payroll journal entries and reconciling the payroll related accounts
-  
+
   - payroll managers who manage the payroll function, the payroll staff and represent payroll at the management level
 
 Payroll Content Knowledge
@@ -101,9 +101,11 @@ their duties:
   Insurance Act, the Canada Pension Plan Act, Employment/Labour Standards, 
   privacy legislation, Workers' Compensation and provincial/territorial 
   payroll-specific legislation
+
   - **Payroll Processes**: the remuneration and deduction components of 
   payroll and how to use these components to calculate a net pay in both 
   regular and non-regular circumstances
+  
   - **Payroll Reporting**: how to calculate and remit amounts due to 
   government agencies, insurance companies, unions and other third parties. 
   In addition, payroll reporting includes accounting for payroll expenses 
