@@ -114,12 +114,14 @@ their duties:
 Technical Skills
 ----------------
 
-The technical skills required by payroll professionals include proficiency in computer
-programs such as payroll software and financial systems, spreadsheets, databases and word
-processing.
-Organizations often change their payroll and business systems to meet new technology
-requirements and corporate reporting needs. It is important for payroll personnel to have the
-ability to be adaptable to changing systems. As a payroll practitioner, you must be prepared
+The technical skills required by payroll professionals include proficiency in 
+computer programs such as payroll software and financial systems, 
+spreadsheets, databases and word processing.
+
+Organizations often change their payroll and business systems to meet new 
+technology requirements and corporate reporting needs. It is important for 
+payroll personnel to have the ability to be adaptable to changing systems. 
+As a payroll practitioner, you must be prepared
 and willing to embrace continuous learning.
 © The Canadian Payroll Association – Payroll Compliance Legislation
 1-7Chapter 1
