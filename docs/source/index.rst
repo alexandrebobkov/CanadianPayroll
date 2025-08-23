@@ -17,7 +17,6 @@ to confidently perform essential payroll functions encountered in day-to-day ope
 
 .. toctree::
    :maxdepth: 3
-   :caption: Table of Contents:
    :numbered:
 
    preface
