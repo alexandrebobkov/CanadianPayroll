@@ -222,6 +222,7 @@ Federal Government
 The *Constitution Act of 1867* outlined the division of legislative power and authority between
 federal and provincial/territorial jurisdictional governments. The exclusive legislative
 authority of the Parliament of Canada extends to all matters regarding:
+
   - the regulation of trade and commerce
 
   - the raising of money by any mode or system of taxation
@@ -244,17 +245,14 @@ authority of the Parliament of Canada extends to all matters regarding:
 The Canada Labour Code is legislation that consolidates certain statutes respecting labour.
 Part I deals with Industrial Relations, Part II deals with Occupational Health and Safety and
 Part III deals with Labour Standards. The primary objective of Part III is to establish and
-protect employees’ and employers’ rights to fair and equitable conditions of employment.
+protect employees' and employers' rights to fair and equitable conditions of employment.
+
 Part III provisions establish minimum requirements concerning the working conditions of
 employees under federal jurisdiction in the following industries and organizations:
-
-
-industries and undertakings of inter-provincial/territorial, national, or international
-nature, that is, transportation, communications, radio and television broadcasting,
-banking, uranium mining, grain elevators, and flour and feed operations
-organizations whose operations have been declared for the general advantage of
-Canada or two or more provinces, and such Crown corporations as Canada Post
-Corporation, and the Canadian Broadcasting Corporation (CBC)
+
+  - industries and undertakings of inter-provincial/territorial, national, or international nature, that is, transportation, communications, radio and television broadcasting, banking, uranium mining, grain elevators, and flour and feed operations
+  
+  - organizations whose operations have been declared for the general advantage of Canada or two or more provinces, and such Crown corporations as Canada Post Corporation, and the Canadian Broadcasting Corporation (CBC)
 
 Provincial/Territorial Governments
 ------------------------------------
