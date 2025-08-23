@@ -404,20 +404,24 @@ The Personal Information Protection and Electronic Documents Act (PIPEDA)
 The federal government drew upon the CSA Privacy Principles in its drafting of the federal
 Personal Information Protection and Electronic Documents Act (PIPEDA) and the spirit and
 much of the wording of the principles can be found throughout PIPEDA.
+
 The mandate of the Office of the Privacy Commissioner of Canada (OPC) is overseeing
 compliance with both the Privacy Act, which covers the personal information-handling
 practices of federal government departments and agencies (including employee data), and the
-Personal Information Protection and Electronic Documents Act (PIPEDA), Canada’s private
+Personal Information Protection and Electronic Documents Act (PIPEDA), Canada's private
 sector privacy law.
+
 PIPEDA has applied to federally regulated organizations such as banks, telecommunications
 and transportation companies since January 2001 and applies to the collection, use or
 disclosure of personal information in the course of any commercial activity within a province
 that does not have its own privacy legislation, since January 2004.
+
 While this protection of personal information legislation has a significant impact on how
 organizations collect, use and disclose personal information relating to commercial
 transactions (for example, customer/client lists and information), it is the effect of this
 legislation on employee personal information that concerns the payroll and human resources
 departments.
+
 Employers collect personal employee information to conduct and protect their business, and
 to comply with government legislation (for example, Employment/Labour Standards and
 statutory deductions relating to CPP/QPP contributions, EI and QPIP premiums along with
