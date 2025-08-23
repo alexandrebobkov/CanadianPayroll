@@ -25,6 +25,7 @@ https://www.canada.ca/en/revenue-agency.html.
 
 Contract of Service (Employment)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 A **contract of service** is an arrangement whereby an individual (the employee) agrees to
 work on a full-time or part-time basis for an employer for a specified or indeterminate period
 of time.
@@ -99,11 +100,17 @@ intent of the worker and the payer is reflected in the facts, they will ask a se
 that relate to the following factors:
 
  - the level of control the payer has over the worker
+
  - whether or not the worker provides the tools and equipment
+
  - whether the worker can subcontract the work or hire assistants
+
  - the degree of financial risk taken by the worker
+
  - the degree of responsibility for investment and management held by the worker
+
  - the worker's opportunity for profit
+ 
  - any other relevant factors, such as written contracts
 
 The CRA will look at the answers independently and then together and consider whether or
