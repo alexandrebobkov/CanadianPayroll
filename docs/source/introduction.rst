@@ -84,3 +84,11 @@ administrators must have knowledge of the various stages of the life cycle
 of an employee. From hiring through termination of employment, many of 
 these stages will impact how to produce the employee's pay and prepare 
 required reports.
+
+The payroll department in a large organization may have:
+  - payroll administrators who are responsible for entering payroll data into the system
+and making required payroll remittances
+  - payroll coordinators who are responsible for preparing the payroll journal entries and
+reconciling the payroll related accounts
+  - payroll managers who manage the payroll function, the payroll staff and represent
+payroll at the management level
