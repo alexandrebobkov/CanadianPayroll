@@ -364,41 +364,31 @@ Content Review
 
   - Payroll practitioner knowledge consists of information on payroll compliance legislation, payroll processes and payroll reporting as well as technical, personal and professional skills.
 
-
-
-
-
-
-
-
-
-
-
-Stakeholders are the individuals, groups and agencies, both internal and external to
+  - Stakeholders are the individuals, groups and agencies, both internal and external to
 the organization, who share an interest in the function and output of the payroll
 department.
-Payroll management stakeholders are the federal and provincial/territorial
+  - Payroll management stakeholders are the federal and provincial/territorial
 governments, the internal stakeholders, and the external stakeholders.
 Internal stakeholders include employees, employers and other departments within the
 organization.
-External stakeholders include benefit carriers, courts, unions, pension providers,
+  - External stakeholders include benefit carriers, courts, unions, pension providers,
 charities, third party administrators and outsource/software vendors.
-The federal parliament has the power to make laws for the peace, order and good
+  - The federal parliament has the power to make laws for the peace, order and good
 government of Canada.
-The provincial/territorial legislatures have power over direct taxation in the
+  - The provincial/territorial legislatures have power over direct taxation in the
 province/territory for provincial/territorial purposes.
-Federal control exists over industries and undertakings of inter-provincial/territorial,
+  - Federal control exists over industries and undertakings of inter-provincial/territorial,
 national, or international nature and organizations whose operations have been
 declared for the general advantage of Canada or two or more provinces and Crown
 corporations.
-Provincial/territorial legislation exists over all laws regarding property and civil
+  - Provincial/territorial legislation exists over all laws regarding property and civil
 rights, and employment in manufacturing, mining, construction, wholesale and retail
 trade, service industries, local businesses and any industry or occupation not
 specifically covered under federal jurisdiction.
-Employers must follow the employment/labour standards legislated by the
+  - Employers must follow the employment/labour standards legislated by the
 jurisdiction in which their employees work, unless they are governed by federal
 labour standards.
-Where legislation requires employer compliance, there are financial penalties or the
+  - Where legislation requires employer compliance, there are financial penalties or the
 possibility of legal action to encourage compliance.
 
 Review Questions
