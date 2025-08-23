@@ -356,11 +356,11 @@ Summary
     - the administration of provisions related to Wage Loss plans
     - the administration of provisions regarding Job Creation programs
 
-  - Employment and Social Development Canada’s Employment Insurance program
+  - Employment and Social Development Canada's Employment Insurance program
 provides temporary financial assistance for unemployed Canadians while they look
 for work or upgrade their skills.
 
-  - Service Canada serves as the government’s operational arm while Employment and
+  - Service Canada serves as the government's operational arm while Employment and
 Social Development Canada operates as the policy-making body.
 
   - Service Canada is responsible for:
@@ -369,11 +369,8 @@ Social Development Canada operates as the policy-making body.
     - the delivery of services to employers, including Record of Employment on the Web
     - the administration of Employment Insurance programs to individuals, including regular, illness, pregnancy/parental, critically ill or injured person and compassionate care benefits
     - the administration of the Employment Insurance Premium Reduction program, including granting qualified employers a reduced Employment Insurance premium rate
-
-  - the administration of Canada Pension Plan benefits, including retirement, disability, survivor, children's and death benefits
-
-  - the administration of benefits for seniors, including the Old Age Security Program and the Guaranteed Income Supplement Payroll is responsible for deducting and remitting Employment Insurance premiums
-on behalf of employees and employers. 
+    - the administration of Canada Pension Plan benefits, including retirement, disability, survivor, children's and death benefits
+    - the administration of benefits for seniors, including the Old Age Security Program and the Guaranteed Income Supplement Payroll is responsible for deducting and remitting Employment Insurance premiums on behalf of employees and employers. 
 
   - Payroll is responsible for deducting and remitting Employment Insurance premiums on behalf of employees and employers.
 
