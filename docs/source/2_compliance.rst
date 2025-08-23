@@ -438,6 +438,83 @@ and also as part of the on-boarding process. In addition, if there are changes t
 practices for employee information, employees should be informed about such changes in a
 timely manner.
 
+Consent
+According to PIPEDA, employers must obtain an employee’s consent before they collect
+personal information where that information is not required for the employment relationship.
+Further, the information collected must be for a specific purpose and must be destroyed once
+that purpose is no longer valid.
+There are two forms of consent that can be obtained from an employee − express and
+implied:
+Express consent should be used for particularly sensitive employee information such as
+might be asked for in the case of a voluntary employee assistance program.
+Implied consent means the employee is considered to have consented indirectly. An
+example of implied consent is when an employee completes a form for an employer provided
+but optional service such as a ‘social club’ for birthday gifts and notices. Participating in this
+club is not required for the employment relationship so consent is required. But the
+information requested, and the context is not overly sensitive so consent for the collection
+and use of employee data may be implied by the fact that the employee completed the
+voluntary form. It doesn’t need an “I consent” checkbox.
+In essence, the more sensitive the information, the more one should use express written
+consent, which outlines in detail the specific purpose for which an employer is using the
+information. It is critical for those working in payroll to be aware of the requirements of
+privacy legislation that applies to their employees and to have the necessary procedures in
+place to comply with the legislation. If an employee chooses not to disclose the information
+and is not required to do so by law, an employer cannot force an employee to divulge it.
+
+Exceptions to Consent Requirement
+Subparagraph 7(3) of the Personal Information Protection and Electronic Documents Act
+(Bill C6) allows an employer to disclose personal information without the knowledge or
+consent of the individual if the disclosure is made to a government institution which has
+identified its lawful authority, and if the disclosure is for the purpose of administering any
+law of Canada.
+PIPEDA permits federal government agencies such as the CRA, ESDC, Service Canada and
+provincial/territorial Ministries of Labour to obtain personal employee information needed to
+administer programs or benefits, or to perform an audit. Legislation specifically provides
+these government bodies with the right to request personal employee information and inspect
+certain records and documents. As a result, the employer does not need to obtain the
+employee’s permission to provide the information.
+In addition to disclosures to government that are mandated by legislation and in relation to
+employment, subparagraph 7.3 of PIPEDA states that an employer that is regulated by
+federal labour codes can
+
+“…collect, use and disclose personal information without the consent of the individual if
+(a) the collection, use or disclosure is necessary to establish, manage or terminate an
+employment relationship between the federal work, undertaking or business and the
+individual; and
+(b) the federal work, undertaking or business has informed the individual that the personal
+information will be or may be collected, used or disclosed for those purposes”.
+
+Use and Storage of Personal Information
+According to PIPEDA, organizations can only use information for the purpose for which it
+was collected. Employers must fully disclose in writing to the employee the reasons why
+they require the information, as well as what will be done with it.
+Personal information must not be disclosed to external stakeholders without the employee’s
+consent and only for the purpose for which the information was collected. For example, if the
+organization is being audited by a government agency, such as the CRA, the employee’s
+medical information should not be included with the information provided for audit purposes.
+There are times when employers are required to collect information about employees in order
+to comply with employment/labour standards or human rights legislation. For example, to
+accommodate an employee for religious days and holidays, an employer needs to know about
+the employee’s religious beliefs. To seek out this type of information for any other reason
+invades the individual’s right to privacy.
+
+Limitations on Use – the Social Insurance Number example
+The purpose of a social insurance number (SIN) is to identify an individual for specific
+government programs. This information may not be collected, stored, used or disclosed for
+any other purpose without the employee’s consent. Where the SIN is to be used for purposes
+of identification, an organization must provide a convenient method for the employee to
+withdraw his/her consent for that use at any time.
+Employers are authorized to collect a SIN from employees in order to produce Records of
+Employment and income tax information slips. Unless the employee has provided a SIN for
+another specific use, and has consented to that specific use in writing, an employer could be
+subject to fines for each improper use of that number.
+As a general rule, an employer may not communicate the number to a third party without the
+employee’s specific consent to do so. Exceptions are cases in which it is the employer’s
+obligation to report an employee’s SIN to RQ, CRA, ESDC or Service Canada.
+The SIN should not be used on pay statements or communicated to unions or benefit carriers.
+They should not be used as an identifier by any organization other than the government
+agencies mentioned above, unless the employee provides written consent to do so.
+
 Pension Benefits Standards Act
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -493,6 +570,36 @@ Social Development Canada operates as the policy-making body.
   - Payroll is responsible for deducting and remitting Employment Insurance premiums on behalf of employees and employers.
 
   - Payroll is responsible for capturing information related to insurable earnings and hours, and reporting that information on the Record of Employment.
+
+  - The Canadian government based its privacy provisions in its legislation for the
+protection of personal information on a set of guidelines called the Ten Privacy
+Principles.
+
+  - The Personal Information Protection and Electronic Documents Act has applied to
+federally-regulated organizations such as banks, telecommunications and
+transportation companies since January 2001.
+
+  - Since January 2004 the Personal Information Protection and Electronic Documents
+Act has applied to the collection, use or disclosure of personal information in the
+course of any commercial activity within a province that does not have its own
+privacy legislation.
+
+  - Express consent means the employee provides their consent either verbally (in which
+case when and how the consent was received should be documented) or in writing.
+
+  - Implied consent means the employee is considered to have consented indirectly.
+
+  - The employer does not need to obtain the employee’s permission to provide personal
+information where legislation provides federal government agencies such as the
+Canada Revenue Agency, Employment and Social Development Canada, Service
+Canada and provincial/territorial Ministries of Labour with the right to request
+personal employee information in order to administer programs or benefits, or in the
+case of an audit.
+
+  - Other than an employer’s obligation to report an employee’s Social Insurance
+Number to the Canada Revenue Agency, Employment and Social Development
+Canada, Service Canada or Revenu Québec, an employer may not communicate the
+number to a third party without the employee’s specific consent to do so.
 
 Review Questions
 ~~~~~~~~~~~~~~~~~~~~~
