@@ -161,10 +161,10 @@ must have. Effective payroll professionals should be:
   dealing with questions and inquiries
 
 Payroll Stakeholders
----------------------
+=====================
 
 Content Review
------------------
+==================
 
   - The primary objective of the payroll function in every organization is to pay employees accurately and on time, in compliance with legislative requirements, for a full annual payroll cycle.
 
@@ -177,6 +177,6 @@ Content Review
   - Payroll practitioner knowledge consists of information on payroll compliance legislation, payroll processes and payroll reporting as well as technical, personal and professional skills.
 
 Review Questions
------------------
+=================
 
 1. What is the primary objective of the payroll department?
