@@ -160,6 +160,9 @@ must have. Effective payroll professionals should be:
   - able to remain objective and maintain a factual perspective when 
   dealing with questions and inquiries
 
+Payroll Stakeholders
+---------------------
+
 Content Review
 -----------------
 
