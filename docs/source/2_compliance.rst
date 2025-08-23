@@ -356,13 +356,15 @@ Summary
     - the administration of provisions related to Wage Loss plans
     - the administration of provisions regarding Job Creation programs
 
-Employment and Social Development Canada’s Employment Insurance program
+  - Employment and Social Development Canada’s Employment Insurance program
 provides temporary financial assistance for unemployed Canadians while they look
 for work or upgrade their skills.
-Service Canada serves as the government’s operational arm while Employment and
+
+  - Service Canada serves as the government’s operational arm while Employment and
 Social Development Canada operates as the policy-making body.
-Service Canada is responsible for:
-o the issuance of Social Insurance Numbers (SIN) and the protection and
+
+  - Service Canada is responsible for:
+    - the issuance of Social Insurance Numbers (SIN) and the protection and
 security of SIN information
 o the delivery of services to employers, including Record of Employment on the
 Web
@@ -376,7 +378,12 @@ Insurance premium rate
   - the administration of Canada Pension Plan benefits, including retirement, disability, survivor, children's and death benefits
 
   - the administration of benefits for seniors, including the Old Age Security Program and the Guaranteed Income Supplement Payroll is responsible for deducting and remitting Employment Insurance premiums
-on behalf of employees and employers. Payroll is responsible for capturing information related to insurable earnings and
+on behalf of employees and employers. 
+
+  - Payroll is responsible for deducting and remitting Employment Insurance premiums
+on behalf of employees and employers.
+
+  - Payroll is responsible for capturing information related to insurable earnings and
 hours, and reporting that information on the Record of Employment.
 
 Review Questions
