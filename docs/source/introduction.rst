@@ -219,28 +219,28 @@ administration of a provincial/territorial act to a federal agency.
 Federal Government
 -------------------
 
-The Constitution Act of 1867 outlined the division of legislative power and authority between
+The *Constitution Act of 1867* outlined the division of legislative power and authority between
 federal and provincial/territorial jurisdictional governments. The exclusive legislative
 authority of the Parliament of Canada extends to all matters regarding:
-
-
-
-
-
-
-
-
-regulation of trade and commerce
-Employment Insurance
-postal service
-fixing and providing salaries and allowances for civil and other officers of the
-Government of Canada
-navigation and shipping
-ferries between a province and any British or foreign country or between two
-provinces
-criminal law, except the Constitution of Courts of Criminal Jurisdiction, but including
-the Procedure in Criminal Matters
-anything not specifically assigned to the provinces under this Act
+  - the regulation of trade and commerce
+
+  - the raising of money by any mode or system of taxation
+
+  - the borrowing of money on the public credit
+
+  - the postal service
+
+  - fixing and providing salaries and allowances for civil and other officers of the Government of Canada
+
+  - navigation and shipping
+
+  - ferries between a province and any British or foreign country or between two provinces
+
+  - criminal law, except the Constitution of Courts of Criminal Jurisdiction, but including the Procedure in Criminal Matters
+
+  - anything not specifically assigned to the provinces under this Act
+  
+
 The Canada Labour Code is legislation that consolidates certain statutes respecting labour.
 Part I deals with Industrial Relations, Part II deals with Occupational Health and Safety and
 Part III deals with Labour Standards. The primary objective of Part III is to establish and
@@ -275,6 +275,7 @@ Employers must follow the employment/labour standards legislated by the jurisdic
 which their employees work, unless they are governed by federal labour standards. Federal
 labour standards apply to certain industries and organizations, regardless of where the
 employees work.
+
 The person or persons performing the payroll function must clearly understand under which
 employment/labour standards jurisdiction the employees of the organization fall.
 Organizations may have some employees who fall under federal jurisdiction and another
