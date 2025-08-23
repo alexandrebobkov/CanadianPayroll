@@ -365,25 +365,43 @@ disclosure of personal information, except where inappropriate. Note: In certain
 circumstances, personal information can be collected, used, or disclosed without the
 knowledge and consent of the individual. For example, legal, medical, or security reasons
 may make it impossible or impractical to seek consent.
+
 Principle 4. Limiting Collection
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 The collection of personal information shall be limited to that which is necessary for the
 purposes identified by the organization. Information shall be collected by fair and lawful
 means.
+
 Principle 5. Limiting Use, Disclosure, and Retention
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 Personal information shall not be used or disclosed for purposes other than those for which it
 was collected, except with the consent of the individual or as required by law. Personal
 information shall be retained only as long as is necessary for the fulfillment of those
 purposes.
+
 Principle 6. Accuracy
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 Personal information shall be as accurate, complete, and up-to-date as is necessary for the
 purposes for which it is to be used.
+
 Principle 7. Safeguards
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 Personal information shall be protected by security safeguards appropriate to the sensitivity
 of the information.
+
 Principle 8. Openness
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 An organization shall make readily available to individuals specific information about its
 policies and practices relating to the management of personal information.
+
 Principle 9. Individual Access
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 Upon request, an individual shall be informed of the existence, use and disclosure of his or
 her personal information and shall be given access to that information. An individual shall be
 able to challenge the accuracy and completeness of the information and have it amended as
