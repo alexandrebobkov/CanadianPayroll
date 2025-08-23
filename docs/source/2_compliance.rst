@@ -426,17 +426,16 @@ plans that require the collection of even greater amounts of personal data.
 
 .. note::
 
-    Notice
-PIPEDA does not require that employers obtain consent from prospective employees, current
-employees, or terminated employees to collect, use, and disclose information about that
-person where the information is necessary for the creation, maintenance, and termination of
-the employment relationship. It is, however, the case that the employer will provide notice to
-the employee so that they are knowledgeable with respect to the information that the
-employer collects, uses, and discloses.
-This notice should be provided to prospective employees as part of the recruitment process
-and also as part of the on-boarding process. In addition, if there are changes to personal data
-practices for employee information, employees should be informed about such changes in a
-timely manner.
+    PIPEDA does not require that employers obtain consent from prospective employees, current
+    employees, or terminated employees to collect, use, and disclose information about that
+    person where the information is necessary for the creation, maintenance, and termination of
+    the employment relationship. It is, however, the case that the employer will provide notice to
+    the employee so that they are knowledgeable with respect to the information that the
+    employer collects, uses, and discloses.
+    This notice should be provided to prospective employees as part of the recruitment process
+    and also as part of the on-boarding process. In addition, if there are changes to personal data
+    practices for employee information, employees should be informed about such changes in a
+    timely manner.
 
 **Consent**
 
