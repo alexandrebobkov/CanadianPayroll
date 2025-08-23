@@ -621,3 +621,13 @@ Review Questions
   There is a new type of earning in the new collective agreement. You are not sure if it is insurable.
 
   The organization would like to apply for a reduction in its Employment Insurance premium rate.
+
+6. How does the Personal Information Protection and Electronic Documents Act
+legislation affect the handling of employee personal information?
+
+7. Explain the difference between implied and express employee consent and provide an
+example of each.
+
+8. The Personal Information Protection and Electronic Documents Act contains ten
+privacy principles. Choose two and develop a statement for each that could be included
+in your organization’s privacy policy.
