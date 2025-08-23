@@ -157,8 +157,8 @@ contributions, EI premiums and income tax, it may be left in the position of hav
 both the employer's and the employee's portion of deductions not taken, as well as penalties
 and interest charges on the outstanding amount.
 
-An employer who remits withholdings or deductions late is subject to the following
-penalties:
+An employer who remits withholdings or deductions late is subject to the following penalties:
+
   - 3% will be applied to remittances that are 1 to 3 days late
   - 5% for remittances that are 4 or 5 days late
   - 7% for remittances that are 6 or 7 days late
