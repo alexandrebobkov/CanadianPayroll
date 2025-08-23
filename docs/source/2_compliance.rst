@@ -589,17 +589,17 @@ case when and how the consent was received should be documented) or in writing.
 
   - Implied consent means the employee is considered to have consented indirectly.
 
-  - The employer does not need to obtain the employee’s permission to provide personal
+  - The employer does not need to obtain the employee's permission to provide personal
 information where legislation provides federal government agencies such as the
 Canada Revenue Agency, Employment and Social Development Canada, Service
 Canada and provincial/territorial Ministries of Labour with the right to request
 personal employee information in order to administer programs or benefits, or in the
 case of an audit.
 
-  - Other than an employer’s obligation to report an employee’s Social Insurance
+  - Other than an employer's obligation to report an employee's Social Insurance
 Number to the Canada Revenue Agency, Employment and Social Development
 Canada, Service Canada or Revenu Québec, an employer may not communicate the
-number to a third party without the employee’s specific consent to do so.
+number to a third party without the employee's specific consent to do so.
 
 Review Questions
 ~~~~~~~~~~~~~~~~~~~~~
