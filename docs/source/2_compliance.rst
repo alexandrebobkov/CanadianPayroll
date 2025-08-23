@@ -207,6 +207,14 @@ responsibilities include:
   - Canada Education Savings Program
   - Canada Student Loans and Grants
 
+ESDC is responsible for matters relating to:
+  - amending the regulations made under the Canada Pension Plan and the Employment
+*Insurance Act*
+  - keeping records of each individual’s CPP contributions and pensionable earnings
+  - the establishment of annual maximum insurable earnings
+  - the administration of provisions related to Wage Loss plans
+  - the administration of provisions regarding Job Creation programs
+
 Service Canada
 ~~~~~~~~~~~~~~~~~
 
