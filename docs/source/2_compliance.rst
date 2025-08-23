@@ -68,8 +68,9 @@ The Canada Pension Plan became operational on January 1, 1966. The plan was full
 effective in 1976 after a ten year transitional period.
 The Canada Pension Plan is a social insurance program, legislated under the federal Canada
 Pension Plan Act, designed to provide protection in the form of benefits to contributors and
-their families against loss of income due to retirement. In addition to retirement pension
-benefits, the plan provides supplementary benefits in the form of:
+their families against loss of income due to retirement. 
+
+In addition to retirement pension benefits, the plan provides supplementary benefits in the form of:
 
   - surviving spouse pensions
   - disability benefits
