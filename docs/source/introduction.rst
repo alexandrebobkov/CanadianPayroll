@@ -47,3 +47,19 @@ requirements for the various pieces of legislation from these sources.
 practitioners, this means performing payroll functions according to 
 federal and provincial/territorial legislative and non-governmental 
 stakeholder requirements.
+
+The legislative requirements are termed **statutory**. This means they are 
+enacted, created, or regulated by statute, a law enacted by the legislative 
+branch of a government. Fines and penalties can be imposed if an organization 
+is not in compliance with the legislative requirements in each jurisdiction.
+
+When dealing with federal and provincial/territorial government agencies, 
+payroll administrator must know the many pieces of legislation that 
+regulate their work and the compliance requirements associated with each. 
+Payroll administrators are responsible for ensuring their organization is 
+compliant with all payroll related legislation, thus eliminating the 
+potential for any fines or penalties.
+
+In payroll, there are also compliance requirements from other non-government stakeholders,
+for example, union collective agreements or group insurance policies. Payroll administrator
+must therefore ensure the organization is compliant with all stakeholder requirements.
