@@ -5,6 +5,21 @@ PAYROLL COMPLIANCE
 The Canada Revenue Agency
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+Under the Canada Pension Plan Act and the Employment Insurance Act, the CRA is
+responsible for determining:
+
+  - whether or not an individual's employment is pensionable under the Canada Pension
+Plan Act or insurable under the Employment Insurance Act
+
+  - the types of earnings that are considered pensionable or insurable
+
+  - how many hours an insured person has in insurable employment
+
+  - the recovery of any debts owed as a result of an overpayment of Canada Pension
+Plan, Employment Insurance, or Old Age Security benefits
+The CRA is also responsible for ensuring that CPP contributions and EI premiums are
+deducted, remitted and reported as required by legislation.
+
 The Canada Revenue Agency (CRA) is a federal government agency that manages the
 following business lines for the federal government: Tax Services and Benefit Programs.
 The Tax Services business line assists over 25 million individuals, businesses, trusts, and
