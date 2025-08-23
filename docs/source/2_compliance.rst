@@ -14,6 +14,7 @@ provincial governments − the equivalent of about $1.2 billion every working da
 mission is to promote compliance with Canada’s tax legislation and regulations through
 communication, quality service, and responsible enforcement, thereby contributing to the
 economic and social well-being of Canadians.
+
 From this mission comes the CRA’s mandate to:
 
 
@@ -30,15 +31,16 @@ known businesses are registered for various programs including corporate income 
 GST/HST, payroll deductions, and import/export accounts.
 Remittance – The CRA’s goal is to have over 90% of individual and corporate tax filers pay
 their taxes on time.
-Reporting – The CRA measures reporting compliance through the information it receives on
-tax documents, for example, the T4 and T4A information slips.
-The CRA’s program responsibilities that are specifically related to payroll include the
-administration of:
 
-  - the Canada Pension Plan (CPP) (shared responsibility with Employment and Social
-Development Canada and Service Canada)
-  - Employment Insurance (EI) (shared responsibility with Employment and Social
-Development Canada and Service Canada)
+Reporting: The CRA measures reporting compliance through the information it receives on
+tax documents, for example, the T4 and T4A information slips.
+
+The CRA's program responsibilities that are specifically related to payroll include the administration of:
+
+  - the Canada Pension Plan (CPP) (shared responsibility with Employment and Social Development Canada and Service Canada)
+
+  - Employment Insurance (EI) (shared responsibility with Employment and Social Development Canada and Service Canada)
+
   - Income Tax
 
 Canada Pension Plan (CPP)
