@@ -347,6 +347,10 @@ organizations that offer Group Registered Retirement Saving Plans (RRSP). Payrol
 responsible for deducting any employee contributions and remitting employer and employee
 contributions to the plan administrator.
 
+**Outsource/Software vendors** are payroll service providers or payroll software vendors that
+work with the payroll department to ensure the payroll is being processed accurately and
+efficiently.
+
 Content Review
 ==================
 
