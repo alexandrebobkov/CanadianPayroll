@@ -234,8 +234,10 @@ reported as required by legislation.
 
   - The Canada Revenue Agency collects provincial/territorial income taxes on behalf of
 all provinces/territories except Québec.
-Revenu Québec collects the provincial income tax for the province of Québec.
-Employers who remit withholdings or deductions late, withhold the statutory
+
+  - Revenu Québec collects the provincial income tax for the province of Québec.
+
+  - Employers who remit withholdings or deductions late, withhold the statutory
 deductions but do not remit them, or fail to deduct the required deductions will be
 subject to penalties, which may increase on subsequent occurrences, plus interest
 charges.
