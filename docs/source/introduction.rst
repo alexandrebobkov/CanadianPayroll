@@ -171,3 +171,8 @@ full annual payroll cycle.
   - Payroll practitioner knowledge consists of information on payroll compliance
 legislation, payroll processes and payroll reporting as well as technical, personal and
 professional skills.
+
+Review Questions
+-----------------
+
+1. What is the primary objective of the payroll department?
