@@ -215,16 +215,18 @@ ESDC is responsible for matters relating to:
   - the administration of provisions related to Wage Loss plans
   - the administration of provisions regarding Job Creation programs
 
-Almost all of today’s seniors receive income from Canada’s public pensions. Basic financial
+Almost all of today's seniors receive income from Canada's public pensions. Basic financial
 support is also available to survivors, people who become too disabled to work, and their
 children. These pensions and benefits are delivered through the Canada Pension Plan (CPP)
 and Old Age Security (OAS) programs. Together, the CPP and OAS programs provide a
 modest base upon which Canadians can build their retirement income.
-The amount of CPP benefits is based on an individual’s CPP contributions. Employees
+
+The amount of CPP benefits is based on an individual's CPP contributions. Employees
 between the ages of 18 to 70 years old make contributions that are calculated on their annual
 pensionable earnings between a minimum and a maximum amount. The minimum amount is
 frozen at $3,500, while the maximum pensionable earnings are set each January, based on
 increases in the average wage in Canada.
+
 Employment Insurance (EI) is the program with the greatest impact on payroll. This program
 provides temporary financial assistance for unemployed Canadians while they look for work
 or upgrade their skills. It also provides coverage for Canadians who are sick, pregnant or
@@ -233,9 +235,10 @@ is seriously ill with a significant risk of death may also be assisted by Employ
 benefits. Application of the EI rules will be looked at in more detail in another chapter.
 The first Unemployment Insurance (UI) Act was passed into law in 1940, and was based on
 the British Unemployment Insurance Act, 1935. Since that time, the UI Act has been repealed
-and replaced four times – in 1955, 1971, 1985, and most recently in 1996. Clarifying details
+and replaced four times - in 1955, 1971, 1985, and most recently in 1996. Clarifying details
 on how the act is to be applied are found in the EI Regulations, which are amended as
 required.
+
 The purpose of the act is to provide income support during a temporary interruption of
 earnings with the emphasis on returning the unemployed to the labour force as quickly as
 possible. Contributions to the plan and the amount of benefits are based on a percentage of
@@ -251,29 +254,22 @@ providing easy-to-access, one-stop personalized service to Canadians. The agency
 services from a number of federal departments to form a service delivery network. These
 services often touch all aspects of the lives of Canadians: from parental and pension benefits,
 to matching employers with job seekers, and obtaining a Social Insurance Number.
-Service Canada serves as the government’s operational arm while Employment and Social
+Service Canada serves as the government's operational arm while Employment and Social
 Development Canada (ESDC) operates as the policy-making body. ESDC makes the rules
 for the various programs while Service Canada delivers the programs.
 
-Some of Service Canada’s program responsibilities include:
-  - the issuance of Social Insurance Numbers (SIN) and the protection and security of
-SIN information
-  - the delivery of services to employers, including Record of Employment on the Web
-the administration of Employment Insurance programs to individuals, including
-regular, illness, pregnancy/parental, critically ill or injured person and compassionate
-care benefits
-  - the administration of the Employment Insurance Premium Reduction program,
-including granting qualified employers a reduced Employment Insurance premium
-rate
-  - the administration of Canada Pension Plan benefits, including retirement, disability,
-survivor, children’s and death benefits
-  - the administration of benefits for seniors, including the Old Age Security Program
-and the Guaranteed Income Supplement
+Some of Service Canada's program responsibilities include:
+  - the issuance of Social Insurance Numbers (SIN) and the protection and security of SIN information
+  - the delivery of services to employers, including Record of Employment on the Web the administration of Employment Insurance programs to individuals, including regular, illness, pregnancy/parental, critically ill or injured person and compassionate care benefits
+  - the administration of the Employment Insurance Premium Reduction program, including granting qualified employers a reduced Employment Insurance premium rate
+  - the administration of Canada Pension Plan benefits, including retirement, disability, survivor, children's and death benefits
+  - the administration of benefits for seniors, including the Old Age Security Program and the Guaranteed Income Supplement
 
-Through the Canada Pension Plan program, SC administers the payment of CPP benefits.
-These payments have little impact on payroll. The biggest impact Service Canada has on
+Through the Canada Pension Plan program, SC administers the payment of CPP benefits. These payments have little impact on payroll. 
+The biggest impact Service Canada has on
 payroll is through the administration of the Record of Employment program and the Social
 Insurance Number.
+
 Payroll is responsible for deducting and remitting EI premiums on behalf of employees and
 employers. They are also responsible for capturing information related to insurable earnings
 and hours, and reporting that information on the Record of Employment, which is explained
