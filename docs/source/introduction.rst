@@ -100,7 +100,7 @@ Legislation vs. regulation
 **The regulation** specifies the __methods__ of applying the legislation.
 
 Payroll Content Knowledge
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+--------------------------
 
 Payroll administrators should know the following to effectively perform 
 their duties:
