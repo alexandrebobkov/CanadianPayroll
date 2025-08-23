@@ -223,22 +223,14 @@ Content Review
     - whether or not an individual's employment is pensionable under the Canada Pension Plan Act or insurable under the Employment Insurance Act
     - the types of earnings that are considered pensionable or insurable
     - how many hours an insured person has in insurable employment
-    - the recovery of any debts owed as a result of an overpayment of Canada
-Pension Plan, Employment Insurance, or Old Age Security benefits
+    - the recovery of any debts owed as a result of an overpayment of Canada Pension Plan, Employment Insurance, or Old Age Security benefits
 
-  - The Canada Revenue Agency is responsible for ensuring that Canada Pension Plan
-contributions and Employment Insurance premiums are deducted, remitted, and
-reported as required by legislation.
+  - The Canada Revenue Agency is responsible for ensuring that Canada Pension Plan contributions and Employment Insurance premiums are deducted, remitted, and reported as required by legislation.
 
-  - The Canada Revenue Agency collects provincial/territorial income taxes on behalf of
-all provinces/territories except Québec.
+  - The Canada Revenue Agency collects provincial/territorial income taxes on behalf of all provinces/territories except Québec.
 
   - Revenu Québec collects the provincial income tax for the province of Québec.
 
-  - Employers who remit withholdings or deductions late, withhold the statutory
-deductions but do not remit them, or fail to deduct the required deductions will be
-subject to penalties, which may increase on subsequent occurrences, plus interest
-charges.
+  - Employers who remit withholdings or deductions late, withhold the statutory deductions but do not remit them, or fail to deduct the required deductions will be subject to penalties, which may increase on subsequent occurrences, plus interest charges.
 
-  - All monies deducted on behalf of the Canada Revenue Agency are considered to be
-held “in trust” for the Receiver General.
+  - All monies deducted on behalf of the Canada Revenue Agency are considered to be held “in trust” for the Receiver General.
