@@ -19,9 +19,9 @@ to confidently perform essential payroll functions encountered in day-to-day ope
    :maxdepth: 3
    :numbered:
 
-   introduction
-   contracts
-   compliance
+   1_introduction
+   2_compliance
+   3_contracts
    cpp-and-ei
    compensation
    onboarding_employee
