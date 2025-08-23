@@ -259,16 +259,13 @@ Corporation, and the Canadian Broadcasting Corporation (CBC)
 Provincial/Territorial Governments
 ------------------------------------
 
-Under the Constitution Act of 1867, the exclusive legislative authority of the provinces and
+Under the *Constitution Act of 1867*, the exclusive legislative authority of the provinces and
 territories exists over:
-
-
-all laws regarding property and civil rights, which give the provinces/territories the
-authority to enact legislation to establish employment standards for working
-conditions
-employment in manufacturing, mining, construction, wholesale and retail trade,
-service industries, local businesses and any industry or occupation not specifically
-covered under federal jurisdiction
+
+  - all laws regarding property and civil rights, which give the provinces/territories the authority to enact legislation to establish employment standards for working conditions
+  
+  - employment in manufacturing, mining, construction, wholesale and retail trade, service industries, local businesses and any industry or occupation not specifically covered under federal jurisdiction
+
 The existing divisions between federal and provincial/territorial control impact payroll when
 dealing with employment/labour standards. Employment/labour standards are rules legislated
 by each provincial/territorial jurisdiction that dictate issues such as hours of work, minimum
