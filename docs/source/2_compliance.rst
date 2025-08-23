@@ -310,9 +310,39 @@ applicable statutory deductions.
 
 Statistics Canada
 ~~~~~~~~~~~~~~~~~~~~~
+Statistics Canada produces statistics that help Canadians better understand their country—its
+population, resources, economy, society and culture.
+In Canada, providing statistics is a federal responsibility. As Canada’s central statistical
+agency, Statistics Canada is legislated under the Statistics Act to serve this function for the
+whole of Canada and each of the provinces/territories.
+Objective statistical information is vital to an open and democratic society. It provides a solid
+foundation for informed decisions by elected representatives, businesses, unions and non-
+profit organizations, as well as individual Canadians.
+Statistics Canada is committed to protecting the confidentiality of all information entrusted to
+them and to ensure that the information delivered is timely and relevant to Canadians.
 
 Personal Privacy
 ~~~~~~~~~~~~~~~~~
+The Canadian federal government and all provincial governments have legislation that sets
+limits on the collection, use or disclosure of personal information. Private sector privacy laws
+in Canada currently only cover the employee personal information of employees that work
+for federally regulated companies or who are located in one of the four provinces with
+provincial private sector privacy laws: Alberta, British Columbia, Manitoba and Québec1.
+Public sector employees have some privacy protection under all jurisdictions except Ontario
+which excludes employee information from its public sector privacy legislation. Employees
+who are covered by a collective agreement also have statutory privacy protection based on
+arbitral jurisprudence and their particular collective agreement. Therefore, approximately
+half of workers in Canada have privacy rights backed by legislation, while the remaining
+50% of the country’s more than 20 million or so workers have privacy rights that are either
+voluntarily set in place by employers who have developed employee privacy codes or have
+privacy rights because they have a collective agreement in place.
+Employers should also be aware that egregious violations of privacy may open them up to
+civil damages, including class action lawsuits. Legislatures and the courts are recognizing
+privacy rights and providing opportunities for civil remedies.
+In drawing up its legislation for the protection of personal information, the Canadian
+government based its privacy provisions on a set of guidelines that had been developed by
+the Canadian Standards Association in its Model Code for the Protection of Personal
+Information.
 
 The Privacy Principles
 -----------------------
