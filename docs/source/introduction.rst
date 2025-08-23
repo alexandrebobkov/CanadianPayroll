@@ -319,6 +319,24 @@ Benefit Carriers are insurance companies that provide benefit coverage to employ
 Payroll is responsible for deducting and remitting premiums for the insurance coverage to the
 carriers and for providing reports on employee enrolment and coverage levels.
 
+Courts and the CRA require payroll to accurately deduct and remit amounts ordered to be
+withheld through garnishments, third party demands, requirements to pay and support
+deduction orders.
+
+**Unions** require that payroll accurately deduct and remit union dues and initiation fees, and to
+ensure that the terms of the collective agreement are adhered to. It is estimated that just under
+one-third of the workforce in Canada belongs to a trade union. Payroll professionals must be
+familiar with the role and activities of trade unions and the responsibilities of the employer
+and the payroll department in a unionized environment.
+Trade unions negotiate with the employer, through collective bargaining, the wages, benefits,
+allowances and other terms and conditions of employment on behalf of their member
+employees. The outcome of negotiations is a collective agreement, which is a legally binding
+contract between the employer, the union and the employees.
+
+**Pension Providers** are third party pension plan providers that may require payroll to provide
+enrolment reports on participating employees and length of service calculations, and to remit
+employee deductions and employer contributions.
+
 Content Review
 ==================
 
