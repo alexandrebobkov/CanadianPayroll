@@ -241,5 +241,6 @@ all provinces/territories except Québec.
 deductions but do not remit them, or fail to deduct the required deductions will be
 subject to penalties, which may increase on subsequent occurrences, plus interest
 charges.
-All monies deducted on behalf of the Canada Revenue Agency are considered to be
+
+  - All monies deducted on behalf of the Canada Revenue Agency are considered to be
 held “in trust” for the Receiver General.
