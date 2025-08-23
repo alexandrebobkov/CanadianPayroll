@@ -21,8 +21,8 @@ to confidently perform essential payroll functions encountered in day-to-day ope
 
    preface
    introduction
-   compliance
    contracts
+   compliance
    cpp-and-ei
    compensation
    onboarding_employee
