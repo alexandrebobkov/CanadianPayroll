@@ -126,7 +126,7 @@ As a payroll practitioner, you must be prepared and willing to embrace
 continuous learning.
 
 Personal and Professional Skills
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+----------------------------------
 
 The following personal and professional skills will assist payroll 
 administrators in dealing with the various stakeholders involved in the 
