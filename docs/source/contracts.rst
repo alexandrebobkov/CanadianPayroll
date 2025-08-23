@@ -178,7 +178,8 @@ The worker is a self-employed individual when:
   - The worker provides the tools and equipment required and is responsible for the cost of repairs, insurance and maintenance and retains the right over the use of these assets.
   - The worker supplies his or her own workspace, is responsible for the costs to maintain it, and does substantial work from that site.
 
-**Subcontracting Work or Hiring Assistants**
+Subcontracting Work or Hiring Assistants
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 As subcontracting work or hiring assistants can affect a worker's chance of profit or risk of loss, this can help determine 
 the type of business relationship. 
@@ -193,7 +194,8 @@ The worker is a self-employed individual when:
   - The worker does not have to perform the service personally.
   - They can hire another party to complete the work, without consulting with the payer.
 
-**Financial Risk**
+Financial Risk
+~~~~~~~~~~~~~~~~~~
 
 When evaluating the nature of a working relationship, the Canada Revenue Agency (CRA) considers whether the individual 
 incurs fixed, ongoing costs or unreimbursed expenses. In traditional employee arrangements, employers typically reimburse 
@@ -218,7 +220,8 @@ The worker is a self-employed individual when:
   - The worker hires helpers to assist and pays them.
   - The worker advertises the services offered.
 
-**Responsibility for Investment and Management**
+Responsibility for Investment and Management
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 When assessing whether a business relationship exists, one important indicator is the worker's financial investment in the 
 services they provide. If an individual is required to invest in equipment, materials, or other resources to complete the 
@@ -238,7 +241,8 @@ The worker is a self-employed individual when:
 
   - The worker has capital investment, manages his or her staff, hires and pays individuals to help perform the work, and has established a business presence.
 
-**Opportunity for Profit**
+Opportunity for Profit
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A business relationship is often indicated when a worker has the ability to realize a profit or incur a loss, reflecting their 
 control over the financial and operational aspects of the services they provide. Self-employed individuals typically 
