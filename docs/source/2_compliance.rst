@@ -125,7 +125,7 @@ income tax from remuneration paid to employees. Beginning January 1, 1962, all p
 imposed personal income tax; prior to that date, only Québec imposed such a tax.
 
 Income tax withholdings are calculated by applying a federal tax rate and a separate
-provincial/territorial tax rate to the employee’s taxable income. The employee’s province of
+provincial/territorial tax rate to the employee's taxable income. The employee's province of
 employment determines which provincial/territorial tax rate to apply. The federal
 government and all provinces and territories, except Québec, have the same definition of
 taxable income.
@@ -140,14 +140,14 @@ returns filed by Canadian taxpayers.
 As the federal government collects both the federal and the provincial/territorial portions of
 tax from all employees working in a province/territory other than Québec, the two tax
 withholdings, federal and provincial/territorial, are combined into one deduction amount. The
-employee may only see one item ‘Income Tax’ or ‘Federal Income Tax’ listed on their pay
+employee may only see one item *Income Tax* or *Federal Income Tax* listed on their pay
 statement, however it is the total of two withholdings.
 
 Québec collects its own provincial income tax. There are two separate income tax deductions
 withheld from Québec employees — one for federal income tax and the other for Québec
 provincial income tax. The federal income tax is remitted to the CRA and the Québec
 provincial income tax is remitted to Revenu Québec (RQ). Québec employees will see
-‘Federal Income Tax’ and ‘Québec Income Tax’ listed separately on their pay statements.
+*Federal Income Tax* and *Québec Income Tax* listed separately on their pay statements.
 RQ is discussed extensively in a later chapter.
 
 Non-Compliance Penalties
@@ -155,7 +155,7 @@ Non-Compliance Penalties
 
 If an organization fails to deduct and remit the amounts withheld from employees for CPP
 contributions, EI premiums and income tax, it may be left in the position of having to pay
-both the employer’s and the employee’s portion of deductions not taken, as well as penalties
+both the employer's and the employee's portion of deductions not taken, as well as penalties
 and interest charges on the outstanding amount.
 
 An employer who remits withholdings or deductions late is subject to the following
