@@ -393,8 +393,10 @@ should be limited and specific. The reasons for denying access should be provide
 individual upon request. Exceptions may include information that is prohibitively costly to
 provide, information that contains references to other individuals, information that cannot be
 disclosed for legal, security, or commercial proprietary reasons, and information that is
-subject to solicitor–client or litigation privilege.
+subject to solicitor-client or litigation privilege.
+
 Principle 10. Challenging Compliance
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 An individual shall be able to address a challenge concerning compliance with the above
 principles to the designated individual or individuals accountable for the organization's
 compliance.
