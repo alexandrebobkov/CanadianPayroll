@@ -364,27 +364,20 @@ for work or upgrade their skills.
 Social Development Canada operates as the policy-making body.
 
   - Service Canada is responsible for:
-    - the issuance of Social Insurance Numbers (SIN) and the protection and
-security of SIN information
-o the delivery of services to employers, including Record of Employment on the
-Web
-o the administration of Employment Insurance programs to individuals,
-including regular, illness, pregnancy/parental, critically ill or injured person
-and compassionate care benefits
-o the administration of the Employment Insurance Premium Reduction
-program, including granting qualified employers a reduced Employment
-Insurance premium rate
+
+    - the issuance of Social Insurance Numbers (SIN) and the protection and security of SIN information
+    - the delivery of services to employers, including Record of Employment on the Web
+    - the administration of Employment Insurance programs to individuals, including regular, illness, pregnancy/parental, critically ill or injured person and compassionate care benefits
+    - the administration of the Employment Insurance Premium Reduction program, including granting qualified employers a reduced Employment Insurance premium rate
 
   - the administration of Canada Pension Plan benefits, including retirement, disability, survivor, children's and death benefits
 
   - the administration of benefits for seniors, including the Old Age Security Program and the Guaranteed Income Supplement Payroll is responsible for deducting and remitting Employment Insurance premiums
 on behalf of employees and employers. 
 
-  - Payroll is responsible for deducting and remitting Employment Insurance premiums
-on behalf of employees and employers.
+  - Payroll is responsible for deducting and remitting Employment Insurance premiums on behalf of employees and employers.
 
-  - Payroll is responsible for capturing information related to insurable earnings and
-hours, and reporting that information on the Record of Employment.
+  - Payroll is responsible for capturing information related to insurable earnings and hours, and reporting that information on the Record of Employment.
 
 Review Questions
 ~~~~~~~~~~~~~~~~~~~~~
