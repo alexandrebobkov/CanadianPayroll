@@ -187,9 +187,92 @@ trust money for statutory deductions is still owed to the CRA.
 
 Employment and Social Development Canada (ESDC)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Employment and Social Development Canada (ESDC), a department of the Government of
+Canada, is committed to building a stronger and more competitive Canada by supporting
+Canadians in making choices that help them live productive and rewarding lives and to
+improve their quality of life.
+
+To do this, the department:
+  - develops policies that make Canada a society in which all can use their talents, skills and resources to participate in learning, work and their community
+  - creates programs and support initiatives that help Canadians move through life's transitions—from families with children to seniors, from school to work, from one job to another, from unemployment to employment, from the workforce to retirement
+  - creates better outcomes for Canadians through service excellence with Service Canada and other partners
+
+ESDC supports human capital development and labour market development; and is dedicated
+to establishing a culture of lifelong learning for Canadians. Some of their specific program
+responsibilities include:
+  - Canada Pension Plan and Old Age Security
+  - Employment Insurance
+  - Employment Programs
+  - Youth Employment Strategies
+  - Canada Education Savings Program
+  - Canada Student Loans and Grants
+
+ESDC is responsible for matters relating to:
+  - amending the regulations made under the Canada Pension Plan and the Employment *Insurance Act*
+  - keeping records of each individual's CPP contributions and pensionable earnings
+  - the establishment of annual maximum insurable earnings
+  - the administration of provisions related to Wage Loss plans
+  - the administration of provisions regarding Job Creation programs
+
+Almost all of today's seniors receive income from Canada's public pensions. Basic financial
+support is also available to survivors, people who become too disabled to work, and their
+children. These pensions and benefits are delivered through the Canada Pension Plan (CPP)
+and Old Age Security (OAS) programs. Together, the CPP and OAS programs provide a
+modest base upon which Canadians can build their retirement income.
+
+The amount of CPP benefits is based on an individual's CPP contributions. Employees
+between the ages of 18 to 70 years old make contributions that are calculated on their annual
+pensionable earnings between a minimum and a maximum amount. The minimum amount is
+frozen at $3,500, while the maximum pensionable earnings are set each January, based on
+increases in the average wage in Canada.
+
+Employment Insurance (EI) is the program with the greatest impact on payroll. This program
+provides temporary financial assistance for unemployed Canadians while they look for work
+or upgrade their skills. It also provides coverage for Canadians who are sick, pregnant or
+caring for a newborn or adopted child. Individuals who must care for a family member who
+is seriously ill with a significant risk of death may also be assisted by Employment Insurance
+benefits. Application of the EI rules will be looked at in more detail in another chapter.
+The first Unemployment Insurance (UI) Act was passed into law in 1940, and was based on
+the British Unemployment Insurance Act, 1935. Since that time, the UI Act has been repealed
+and replaced four times - in 1955, 1971, 1985, and most recently in 1996. Clarifying details
+on how the act is to be applied are found in the EI Regulations, which are amended as
+required.
+
+The purpose of the act is to provide income support during a temporary interruption of
+earnings with the emphasis on returning the unemployed to the labour force as quickly as
+possible. Contributions to the plan and the amount of benefits are based on a percentage of
+insurable earnings. The ceiling on insurable earnings is reviewed annually to keep pace with
+increases in average income and the cost of living. The premium rates payable by an insured
+employee and the employer are also determined annually.
 
 Service Canada
 ~~~~~~~~~~~~~~~~~
+
+Service Canada (SC) was created by the federal government in 2005 with the goal of
+providing easy-to-access, one-stop personalized service to Canadians. The agency integrates
+services from a number of federal departments to form a service delivery network. These
+services often touch all aspects of the lives of Canadians: from parental and pension benefits,
+to matching employers with job seekers, and obtaining a Social Insurance Number.
+Service Canada serves as the government's operational arm while Employment and Social
+Development Canada (ESDC) operates as the policy-making body. ESDC makes the rules
+for the various programs while Service Canada delivers the programs.
+
+Some of Service Canada's program responsibilities include:
+  - the issuance of Social Insurance Numbers (SIN) and the protection and security of SIN information
+  - the delivery of services to employers, including Record of Employment on the Web the administration of Employment Insurance programs to individuals, including regular, illness, pregnancy/parental, critically ill or injured person and compassionate care benefits
+  - the administration of the Employment Insurance Premium Reduction program, including granting qualified employers a reduced Employment Insurance premium rate
+  - the administration of Canada Pension Plan benefits, including retirement, disability, survivor, children's and death benefits
+  - the administration of benefits for seniors, including the Old Age Security Program and the Guaranteed Income Supplement
+
+Through the Canada Pension Plan program, SC administers the payment of CPP benefits. These payments have little impact on payroll. 
+The biggest impact Service Canada has on
+payroll is through the administration of the Record of Employment program and the Social
+Insurance Number.
+
+Payroll is responsible for deducting and remitting EI premiums on behalf of employees and
+employers. They are also responsible for capturing information related to insurable earnings
+and hours, and reporting that information on the Record of Employment, which is explained
+in detail in a later chapter.
 
 Social Insurance Number (SIN)
 ------------------------------
@@ -215,7 +298,7 @@ Canadian Human Rights Act
 Employment Equity Act
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Content Review
+Summary
 ~~~~~~~~~~~~~~~~
 
   - Under the Canada Pension Plan Act and the Employment Insurance Act, the Canada Revenue Agency is responsible for determining:
@@ -233,3 +316,16 @@ Content Review
   - Employers who remit withholdings or deductions late, withhold the statutory deductions but do not remit them, or fail to deduct the required deductions will be subject to penalties, which may increase on subsequent occurrences, plus interest charges.
 
   - All monies deducted on behalf of the Canada Revenue Agency are considered to be held “in trust” for the Receiver General.
+
+Review Questions
+~~~~~~~~~~~~~~~~~~~~~
+
+1. What are the three main programs specifically related to payroll that the Canada
+Revenue Agency administers?
+
+2. If an organization deducts $27,400 in Canada Pension Plan contributions from its
+employees and $21,200 in Employment Insurance premiums, how much would have to
+be remitted in total to the Canada Revenue Agency?
+
+3. True or False: The Canada Revenue Agency collects provincial/territorial income taxes
+for all provinces and territories.
