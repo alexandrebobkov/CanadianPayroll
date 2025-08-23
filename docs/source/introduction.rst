@@ -63,3 +63,24 @@ potential for any fines or penalties.
 In payroll, there are also compliance requirements from other non-government stakeholders,
 for example, union collective agreements or group insurance policies. Payroll administrator
 must therefore ensure the organization is compliant with all stakeholder requirements.
+
+The responsibilities of the payroll administrator will differ depending on 
+the size of the organization, the number of jurisdictions in which they pay, 
+the reporting structure under which they work, and whether there are other 
+related departments, such as human resources, finance and administration in 
+the organization.
+
+Small and medium-sized organizations may have payroll administrators whose 
+positions include other functions that, in a larger organization, would 
+fall under other departments. This payroll practitioner may be required to 
+handle multiple tasks, such as employee recruitment, human resource policy 
+development, benefits administration, accounts payable, accounts receivable, 
+budgets and/or administration. 
+
+Larger organizations may have a distinct payroll department with specific 
+payroll positions, in addition to separate human resources, accounting and 
+administration groups. Even in a multi-departmental organization, payroll 
+administrators must have knowledge of the various stages of the life cycle 
+of an employee. From hiring through termination of employment, many of 
+these stages will impact how to produce the employee's pay and prepare 
+required reports.
