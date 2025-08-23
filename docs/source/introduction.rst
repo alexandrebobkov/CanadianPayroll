@@ -337,6 +337,16 @@ contract between the employer, the union and the employees.
 enrolment reports on participating employees and length of service calculations, and to remit
 employee deductions and employer contributions.
 
+**Charities** have arrangements with some organizations to facilitate employee donations
+through payroll deductions. Payroll is responsible for remitting these deductions to the
+charity.
+
+**Third Party Administrators** are organizations that affect the administration of the payroll
+function. Examples of these external stakeholders are banking institutions or benefit
+organizations that offer Group Registered Retirement Saving Plans (RRSP). Payroll is
+responsible for deducting any employee contributions and remitting employer and employee
+contributions to the plan administrator.
+
 Content Review
 ==================
 
