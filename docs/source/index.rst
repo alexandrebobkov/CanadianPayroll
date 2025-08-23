@@ -19,7 +19,6 @@ to confidently perform essential payroll functions encountered in day-to-day ope
    :maxdepth: 3
    :numbered:
 
-   preface
    introduction
    contracts
    compliance
