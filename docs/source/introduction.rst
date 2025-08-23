@@ -23,3 +23,13 @@ any payments made comply with legislation.
 
 Payroll Objectives and Definitions
 ------------------------------------
+
+The primary objective of the payroll function in every organization is to 
+pay employees accurately and on time, in compliance with legislative 
+requirements, for a full annual payroll cycle.
+
+Every employee expects to receive their pay on the day it is due in the 
+manner arranged with their employer, either by cheque or direct deposit. 
+In addition to ensuring that employees have been paid, payroll 
+practitioners must also be able to communicate payroll information to
+all stakeholders.
