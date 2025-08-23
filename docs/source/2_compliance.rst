@@ -348,20 +348,14 @@ Summary
 
   - All monies deducted on behalf of the Canada Revenue Agency are considered to be held “in trust” for the Receiver General.
 
-
-
-
-
-
-
-Employment and Social Development Canada is responsible for matters relating to:
-o amending the regulations made under the Canada Pension Plan and the
-Employment Insurance Act
-o keeping records of each individual’s Canada Pension Plan contributions and
-pensionable earnings
-o the establishment of annual maximum insurable earnings
-o the administration of provisions related to Wage Loss plans
-o the administration of provisions regarding Job Creation programs
+  - Employment and Social Development Canada is responsible for matters relating to:
+
+    - amending the regulations made under the Canada Pension Plan and the Employment Insurance Act
+    - keeping records of each individual's Canada Pension Plan contributions and pensionable earnings
+    - the establishment of annual maximum insurable earnings
+    - the administration of provisions related to Wage Loss plans
+    - the administration of provisions regarding Job Creation programs
+
 Employment and Social Development Canada’s Employment Insurance program
 provides temporary financial assistance for unemployed Canadians while they look
 for work or upgrade their skills.
@@ -378,13 +372,11 @@ and compassionate care benefits
 o the administration of the Employment Insurance Premium Reduction
 program, including granting qualified employers a reduced Employment
 Insurance premium rate
-o the administration of Canada Pension Plan benefits, including retirement,
-disability, survivor, children’s and death benefits
-o the administration of benefits for seniors, including the Old Age Security
-Program and the Guaranteed Income Supplement
-Payroll is responsible for deducting and remitting Employment Insurance premiums
-on behalf of employees and employers.
-Payroll is responsible for capturing information related to insurable earnings and
+
+  - the administration of Canada Pension Plan benefits, including retirement, disability, survivor, children's and death benefits
+  
+  - the administration of benefits for seniors, including the Old Age Security Program and the Guaranteed Income Supplement Payroll is responsible for deducting and remitting Employment Insurance premiums
+on behalf of employees and employers. Payroll is responsible for capturing information related to insurable earnings and
 hours, and reporting that information on the Record of Employment.
 
 Review Questions
