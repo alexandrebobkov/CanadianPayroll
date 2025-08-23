@@ -147,7 +147,8 @@ Worker is a *Self-Employed* when:
   - The worker can accept or refuse work from the payer.
   - The working relationship between the payer and the worker does not present a degree of continuity, loyalty, security, subordination, or integration.
 
-**Tools and Equipment**
+Tools and Equipment
+~~~~~~~~~~~~~~~~~~~~
 
 Ownership of tools and equipment is not a definitive factor in determining the nature of a working relationship or the type 
 of contract in place. While self-employed individuals often use their own tools to fulfill contractual obligations—making 
