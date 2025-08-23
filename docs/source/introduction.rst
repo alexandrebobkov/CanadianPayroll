@@ -10,3 +10,16 @@ provincial/territorial civil servant), there is legislation in place at
 both the federal and provincial/territorial levels that governs many 
 aspects of processing employees' pay, their taxable benefits and observing 
 their rights as employees.
+
+t is important to note that this course deals with payroll, the function of paying employees
+for work performed for employers. Self-employed workers or contractors, who submit
+invoices for the work they perform and receive payment through accounts payable and not
+payroll, are not employees.
+
+Both the federal and the Québec governments provide factors that can be used to determine
+whether an employee-employer relationship exists. It is crucial to know how to determine the
+type of relationship that exists between the worker and the organization and to ensure that
+any payments made comply with legislation.
+
+Payroll Objectives and Definitions
+------------------------------------
