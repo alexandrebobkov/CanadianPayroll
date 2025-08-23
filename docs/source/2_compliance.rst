@@ -293,11 +293,11 @@ into force on April 30, 2013, employees are required by law to provide their SIN
 do so by presenting a SIN card or the Confirmation of SIN letter. It is important that you
 obtain the correct SIN of your employee so that payroll can report accurate statutory
 withholdings for Canada Pension Plan contributions, Employment Insurance premiums, and
-income tax on the employee’s information slips at the end of the year.
+income tax on the employee's information slips at the end of the year.
 
 To apply for a Social Insurance Number, individuals must complete an application form that
 can either be obtained from a SC office or downloaded from their website. Documents
-proving the individual’s identity and status in Canada must also be submitted with the
+proving the individual's identity and status in Canada must also be submitted with the
 application. The documents must be originals and written in English or French.
 
 Social Insurance Numbers beginning with a "9" (commonly called 900-series) are issued to
@@ -374,7 +374,7 @@ program, including granting qualified employers a reduced Employment
 Insurance premium rate
 
   - the administration of Canada Pension Plan benefits, including retirement, disability, survivor, children's and death benefits
-  
+
   - the administration of benefits for seniors, including the Old Age Security Program and the Guaranteed Income Supplement Payroll is responsible for deducting and remitting Employment Insurance premiums
 on behalf of employees and employers. Payroll is responsible for capturing information related to insurable earnings and
 hours, and reporting that information on the Record of Employment.
