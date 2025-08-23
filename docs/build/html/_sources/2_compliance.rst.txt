@@ -396,7 +396,8 @@ disclosed for legal, security, or commercial proprietary reasons, and informatio
 subject to solicitor-client or litigation privilege.
 
 Principle 10. Challenging Compliance
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 An individual shall be able to address a challenge concerning compliance with the above
 principles to the designated individual or individuals accountable for the organization's
 compliance.
