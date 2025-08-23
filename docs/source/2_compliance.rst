@@ -191,16 +191,14 @@ Employment and Social Development Canada (ESDC), a department of the Government 
 Canada, is committed to building a stronger and more competitive Canada by supporting
 Canadians in making choices that help them live productive and rewarding lives and to
 improve their quality of life.
+
 To do this, the department:
-
-
-
-develops policies that make Canada a society in which all can use their talents, skills
+  - develops policies that make Canada a society in which all can use their talents, skills
 and resources to participate in learning, work and their community
-creates programs and support initiatives that help Canadians move through life’s
+  - creates programs and support initiatives that help Canadians move through life’s
 transitions—from families with children to seniors, from school to work, from one
 job to another, from unemployment to employment, from the workforce to retirement
-creates better outcomes for Canadians through service excellence with Service
+  - creates better outcomes for Canadians through service excellence with Service
 Canada and other partners
 
 ESDC supports human capital development and labour market development; and is dedicated
