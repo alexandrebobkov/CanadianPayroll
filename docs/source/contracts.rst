@@ -80,7 +80,7 @@ invoice alone is not sufficient to confirm self-employment status. Proper assess
 sto ensure accurate classification and compliance with tax and labor regulations.
 
 Factors Determining the Type of Contract
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-----------------------------------------
 
 The CRA uses a two-step approach to examine the relationship between the worker and the
 payer for relationships outside the province of Québec. The approach used for relationships
@@ -110,7 +110,7 @@ that relate to the following factors:
  - the degree of responsibility for investment and management held by the worker
 
  - the worker's opportunity for profit
- 
+
  - any other relevant factors, such as written contracts
 
 The CRA will look at the answers independently and then together and consider whether or
