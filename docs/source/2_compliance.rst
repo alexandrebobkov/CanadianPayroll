@@ -281,6 +281,33 @@ in detail in a later chapter.
 Social Insurance Number (SIN)
 ------------------------------
 
+The Social Insurance Number (SIN) Program was introduced by Parliament in 1964 to
+register people with the Unemployment Insurance Commission (now known as Employment
+Insurance) and the Canada Pension Plan. In 1967, the SIN also became a file identifier for
+Revenue Canada (now known as the Canada Revenue Agency).
+
+Under the Employment Insurance Act, every person who works in Canada is required to have
+a Social Insurance Number. As an employer, you must ask new employees to provide their
+SIN when they are hired. According to the Employment Insurance Regulations which came
+into force on April 30, 2013, employees are required by law to provide their SIN; they may
+do so by presenting a SIN card or the Confirmation of SIN letter. It is important that you
+obtain the correct SIN of your employee so that payroll can report accurate statutory
+withholdings for Canada Pension Plan contributions, Employment Insurance premiums, and
+income tax on the employee’s information slips at the end of the year.
+
+To apply for a Social Insurance Number, individuals must complete an application form that
+can either be obtained from a SC office or downloaded from their website. Documents
+proving the individual’s identity and status in Canada must also be submitted with the
+application. The documents must be originals and written in English or French.
+
+Social Insurance Numbers beginning with a "9" (commonly called 900-series) are issued to
+individuals who are neither Canadian citizens nor permanent residents, but need a SIN for
+employment purposes. All 900-series SIN cards/letters carry an expiry date that is the same
+as the expiry date on the individual's work permit. Individuals must apply for new
+documentation prior to expiry. Employees who are not residents of Canada, who are in
+regular continuous employment, and are in possession of a 900-series SIN, are subject to all
+applicable statutory deductions.
+
 Statistics Canada
 ~~~~~~~~~~~~~~~~~~~~~
 
@@ -321,6 +348,45 @@ Summary
 
   - All monies deducted on behalf of the Canada Revenue Agency are considered to be held “in trust” for the Receiver General.
 
+
+
+
+
+
+
+Employment and Social Development Canada is responsible for matters relating to:
+o amending the regulations made under the Canada Pension Plan and the
+Employment Insurance Act
+o keeping records of each individual’s Canada Pension Plan contributions and
+pensionable earnings
+o the establishment of annual maximum insurable earnings
+o the administration of provisions related to Wage Loss plans
+o the administration of provisions regarding Job Creation programs
+Employment and Social Development Canada’s Employment Insurance program
+provides temporary financial assistance for unemployed Canadians while they look
+for work or upgrade their skills.
+Service Canada serves as the government’s operational arm while Employment and
+Social Development Canada operates as the policy-making body.
+Service Canada is responsible for:
+o the issuance of Social Insurance Numbers (SIN) and the protection and
+security of SIN information
+o the delivery of services to employers, including Record of Employment on the
+Web
+o the administration of Employment Insurance programs to individuals,
+including regular, illness, pregnancy/parental, critically ill or injured person
+and compassionate care benefits
+o the administration of the Employment Insurance Premium Reduction
+program, including granting qualified employers a reduced Employment
+Insurance premium rate
+o the administration of Canada Pension Plan benefits, including retirement,
+disability, survivor, children’s and death benefits
+o the administration of benefits for seniors, including the Old Age Security
+Program and the Guaranteed Income Supplement
+Payroll is responsible for deducting and remitting Employment Insurance premiums
+on behalf of employees and employers.
+Payroll is responsible for capturing information related to insurable earnings and
+hours, and reporting that information on the Record of Employment.
+
 Review Questions
 ~~~~~~~~~~~~~~~~~~~~~
 
@@ -333,3 +399,16 @@ be remitted in total to the Canada Revenue Agency?
 
 3. True or False: The Canada Revenue Agency collects provincial/territorial income taxes
 for all provinces and territories.
+
+4. True or False: The emphasis of the Employment Insurance program is on paying people
+so they don’t have to return to work.
+
+5. Indicate which federal department or agency would be responsible in the following
+scenarios.
+An employer is preparing the budget for the next year and wants to know the annual
+maximum insurable earnings amount.
+An employee wants to retire and apply for Canada Pension Plan benefits.
+There is a new type of earning in the new collective agreement. You are not sure if it
+is insurable.
+The organization would like to apply for a reduction in its Employment Insurance
+premium rate.
