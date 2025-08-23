@@ -403,12 +403,12 @@ for all provinces and territories.
 4. True or False: The emphasis of the Employment Insurance program is on paying people
 so they don’t have to return to work.
 
-5. Indicate which federal department or agency would be responsible in the following
-scenarios.
-An employer is preparing the budget for the next year and wants to know the annual
-maximum insurable earnings amount.
-An employee wants to retire and apply for Canada Pension Plan benefits.
-There is a new type of earning in the new collective agreement. You are not sure if it
-is insurable.
-The organization would like to apply for a reduction in its Employment Insurance
-premium rate.
+5. Indicate which federal department or agency would be responsible in the following scenarios.
+
+  An employer is preparing the budget for the next year and wants to know the annual maximum insurable earnings amount.
+
+  An employee wants to retire and apply for Canada Pension Plan benefits.
+
+  There is a new type of earning in the new collective agreement. You are not sure if it is insurable.
+
+  The organization would like to apply for a reduction in its Employment Insurance premium rate.
