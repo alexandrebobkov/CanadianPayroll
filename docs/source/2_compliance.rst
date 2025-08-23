@@ -312,12 +312,15 @@ Statistics Canada
 ~~~~~~~~~~~~~~~~~~~~~
 Statistics Canada produces statistics that help Canadians better understand their country—its
 population, resources, economy, society and culture.
-In Canada, providing statistics is a federal responsibility. As Canada’s central statistical
+
+In Canada, providing statistics is a federal responsibility. As Canada's central statistical
 agency, Statistics Canada is legislated under the Statistics Act to serve this function for the
 whole of Canada and each of the provinces/territories.
+
 Objective statistical information is vital to an open and democratic society. It provides a solid
 foundation for informed decisions by elected representatives, businesses, unions and non-
 profit organizations, as well as individual Canadians.
+
 Statistics Canada is committed to protecting the confidentiality of all information entrusted to
 them and to ensure that the information delivered is timely and relevant to Canadians.
 
@@ -327,18 +330,21 @@ The Canadian federal government and all provincial governments have legislation 
 limits on the collection, use or disclosure of personal information. Private sector privacy laws
 in Canada currently only cover the employee personal information of employees that work
 for federally regulated companies or who are located in one of the four provinces with
-provincial private sector privacy laws: Alberta, British Columbia, Manitoba and Québec1.
+provincial private sector privacy laws: Alberta, British Columbia, Manitoba and Québec.
+
 Public sector employees have some privacy protection under all jurisdictions except Ontario
 which excludes employee information from its public sector privacy legislation. Employees
 who are covered by a collective agreement also have statutory privacy protection based on
 arbitral jurisprudence and their particular collective agreement. Therefore, approximately
 half of workers in Canada have privacy rights backed by legislation, while the remaining
-50% of the country’s more than 20 million or so workers have privacy rights that are either
+50% of the country's more than 20 million or so workers have privacy rights that are either
 voluntarily set in place by employers who have developed employee privacy codes or have
 privacy rights because they have a collective agreement in place.
+
 Employers should also be aware that egregious violations of privacy may open them up to
 civil damages, including class action lawsuits. Legislatures and the courts are recognizing
 privacy rights and providing opportunities for civil remedies.
+
 In drawing up its legislation for the protection of personal information, the Canadian
 government based its privacy provisions on a set of guidelines that had been developed by
 the Canadian Standards Association in its Model Code for the Protection of Personal
@@ -428,7 +434,7 @@ An individual shall be able to address a challenge concerning compliance with th
 principles to the designated individual or individuals accountable for the organization's
 compliance.
 
-The Personal Information Protection and Electronic Documents Act (PIPEDA)
+PIPEDA
 --------------------------------------------------------------------------
 The federal government drew upon the CSA Privacy Principles in its drafting of the federal
 Personal Information Protection and Electronic Documents Act (PIPEDA) and the spirit and
@@ -465,12 +471,14 @@ plans that require the collection of even greater amounts of personal data.
     the employment relationship. It is, however, the case that the employer will provide notice to
     the employee so that they are knowledgeable with respect to the information that the
     employer collects, uses, and discloses.
+
     This notice should be provided to prospective employees as part of the recruitment process
     and also as part of the on-boarding process. In addition, if there are changes to personal data
     practices for employee information, employees should be informed about such changes in a
     timely manner.
 
-**Consent**
+Consent
+^^^^^^^^
 
 According to PIPEDA, employers must obtain an employee's consent before they collect
 personal information where that information is not required for the employment relationship.
@@ -498,7 +506,8 @@ privacy legislation that applies to their employees and to have the necessary pr
 place to comply with the legislation. If an employee chooses not to disclose the information
 and is not required to do so by law, an employer cannot force an employee to divulge it.
 
-**Exceptions to Consent Requirement**
+Exceptions to Consent Requirement
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Subparagraph 7(3) of the Personal Information Protection and Electronic Documents Act
 (Bill C6) allows an employer to disclose personal information without the knowledge or
@@ -523,6 +532,8 @@ individual; and
 information will be or may be collected, used or disclosed for those purposes”.
 
 Use and Storage of Personal Information
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 According to PIPEDA, organizations can only use information for the purpose for which it
 was collected. Employers must fully disclose in writing to the employee the reasons why
 they require the information, as well as what will be done with it.
@@ -539,6 +550,8 @@ the employee's religious beliefs. To seek out this type of information for any o
 invades the individual's right to privacy.
 
 Limitations on Use - the Social Insurance Number example
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 The purpose of a social insurance number (SIN) is to identify an individual for specific
 government programs. This information may not be collected, stored, used or disclosed for
 any other purpose without the employee's consent. Where the SIN is to be used for purposes
