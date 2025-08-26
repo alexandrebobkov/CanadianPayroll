@@ -1,59 +1,99 @@
 \babel@toc {english}{}\relax 
-\contentsline {chapter}{\numberline {1}PREFACE}{3}{chapter.1}%
-\contentsline {chapter}{\numberline {2}PAYROLL COMPLIANCE AND REGULATIONS}{5}{chapter.2}%
-\contentsline {section}{\numberline {2.1}Introduction}{5}{section.2.1}%
-\contentsline {section}{\numberline {2.2}Payroll Objectives}{6}{section.2.2}%
-\contentsline {section}{\numberline {2.3}Responsibilities and Functions of Payroll}{6}{section.2.3}%
-\contentsline {section}{\numberline {2.4}Payroll Stakeholders}{8}{section.2.4}%
-\contentsline {subsection}{\numberline {2.4.1}Government Stakeholders}{8}{subsection.2.4.1}%
-\contentsline {subsection}{\numberline {2.4.2}Federal Government}{9}{subsection.2.4.2}%
-\contentsline {subsection}{\numberline {2.4.3}Provincial/Territorial Governments}{9}{subsection.2.4.3}%
-\contentsline {subsection}{\numberline {2.4.4}Internal Stakeholders}{10}{subsection.2.4.4}%
-\contentsline {subsection}{\numberline {2.4.5}External Stakeholders}{10}{subsection.2.4.5}%
-\contentsline {section}{\numberline {2.5}Legislations and Regulations}{11}{section.2.5}%
-\contentsline {subsection}{\numberline {2.5.1}Legislative Compliance}{12}{subsection.2.5.1}%
-\contentsline {subsection}{\numberline {2.5.2}Self\sphinxhyphen {}Assessment}{13}{subsection.2.5.2}%
-\contentsline {section}{\numberline {2.6}The Employee\sphinxhyphen {}Employer Relationship}{13}{section.2.6}%
-\contentsline {subsection}{\numberline {2.6.1}Contract of Service (Employment)}{13}{subsection.2.6.1}%
-\contentsline {subsection}{\numberline {2.6.2}Contract for Service (Subcontracting)}{14}{subsection.2.6.2}%
-\contentsline {subsection}{\numberline {2.6.3}Factors Determining the Type of Contract}{14}{subsection.2.6.3}%
-\contentsline {section}{\numberline {2.7}Review Summary}{18}{section.2.7}%
-\contentsline {section}{\numberline {2.8}Review Questions}{19}{section.2.8}%
-\contentsline {chapter}{\numberline {3}Canada Pension Plan}{23}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Who Must Contribute to the Canada Pension Plan}{24}{section.3.1}%
-\contentsline {chapter}{\numberline {4}Employment Insurance}{25}{chapter.4}%
-\contentsline {chapter}{\numberline {5}Record of Employment}{27}{chapter.5}%
-\contentsline {chapter}{\numberline {6}CALCULATING NET EARNINGS}{29}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Employment Income}{29}{section.6.1}%
-\contentsline {section}{\numberline {6.2}Allowances}{29}{section.6.2}%
-\contentsline {section}{\numberline {6.3}Expenses}{29}{section.6.3}%
-\contentsline {section}{\numberline {6.4}Benefits}{29}{section.6.4}%
-\contentsline {chapter}{\numberline {7}OBNOARDING EMPLOYEE}{31}{chapter.7}%
-\contentsline {section}{\numberline {7.1}Internal Forms}{32}{section.7.1}%
-\contentsline {subsection}{\numberline {7.1.1}Authorization for Hiring}{32}{subsection.7.1.1}%
-\contentsline {subsection}{\numberline {7.1.2}Union Membership}{32}{subsection.7.1.2}%
-\contentsline {subsection}{\numberline {7.1.3}Benefit Enrollment Forms}{32}{subsection.7.1.3}%
-\contentsline {subsection}{\numberline {7.1.4}Confidentiality Agreement}{33}{subsection.7.1.4}%
-\contentsline {section}{\numberline {7.2}Required Federal and Provincial/Territorial Forms}{33}{section.7.2}%
-\contentsline {subsection}{\numberline {7.2.1}Tax Credits (TD1)}{33}{subsection.7.2.1}%
-\contentsline {subsection}{\numberline {7.2.2}Tax Credits (TP\sphinxhyphen {}1015.3\sphinxhyphen {}V \sphinxhyphen {} Québec)}{34}{subsection.7.2.2}%
-\contentsline {section}{\numberline {7.3}Entering Employee Information into Sage50}{34}{section.7.3}%
-\contentsline {subsection}{\numberline {7.3.1}Review Questions}{40}{subsection.7.3.1}%
-\contentsline {section}{\numberline {7.4}Content Review Highlights}{41}{section.7.4}%
-\contentsline {section}{\numberline {7.5}Review Questions (Sample)}{41}{section.7.5}%
-\contentsline {section}{\numberline {7.6}Example Evaluations}{41}{section.7.6}%
-\contentsline {chapter}{\numberline {8}Payroll Accounting}{43}{chapter.8}%
-\contentsline {section}{\numberline {8.1}Journal Entries}{43}{section.8.1}%
-\contentsline {subsection}{\numberline {8.1.1}Accounting Recap}{43}{subsection.8.1.1}%
-\contentsline {subsection}{\numberline {8.1.2}Journal Entries}{43}{subsection.8.1.2}%
-\contentsline {chapter}{\numberline {9}REVIEW QUESTIONS}{45}{chapter.9}%
-\contentsline {section}{\numberline {9.1}New Employee Information}{45}{section.9.1}%
-\contentsline {chapter}{\numberline {10}TERMINOLOGY}{47}{chapter.10}%
-\contentsline {section}{\numberline {10.1}Pensionable Earnings}{47}{section.10.1}%
-\contentsline {section}{\numberline {10.2}Insurable Earnings}{47}{section.10.2}%
-\contentsline {chapter}{\numberline {11}RATES FOR 2025}{49}{chapter.11}%
-\contentsline {section}{\numberline {11.1}CANADA / QUEBEC PENSION PLAN (CPP / QPP)}{49}{section.11.1}%
-\contentsline {section}{\numberline {11.2}CPP2 CONTRIBUTION RATES MAXIMUMS}{49}{section.11.2}%
-\contentsline {chapter}{\numberline {12}REFERENCES}{51}{chapter.12}%
-\contentsline {chapter}{\numberline {13}Errors and Errata}{53}{chapter.13}%
-\contentsline {chapter}{\numberline {14}Glossary}{55}{chapter.14}%
+\contentsline {chapter}{\numberline {1}Payroll Objectives and Definitions}{3}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Legislation vs. regulation}{4}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Payroll Content Knowledge}{4}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Technical Skills}{4}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Personal and Professional Skills}{4}{section.1.4}%
+\contentsline {section}{\numberline {1.5}Behavioural and Ethical Standards}{5}{section.1.5}%
+\contentsline {chapter}{\numberline {2}Payroll Stakeholders}{7}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Payroll Management Stakeholders}{7}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Government Stakeholders}{7}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Federal Government}{8}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Provincial/Territorial Governments}{8}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Internal Stakeholders}{9}{section.2.5}%
+\contentsline {section}{\numberline {2.6}External Stakeholders}{9}{section.2.6}%
+\contentsline {chapter}{\numberline {3}Content Review}{11}{chapter.3}%
+\contentsline {chapter}{\numberline {4}Review Questions}{13}{chapter.4}%
+\contentsline {chapter}{\numberline {5}PAYROLL COMPLIANCE}{15}{chapter.5}%
+\contentsline {section}{\numberline {5.1}The Canada Revenue Agency}{15}{section.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}Canada Pension Plan (CPP)}{16}{subsection.5.1.1}%
+\contentsline {subsection}{\numberline {5.1.2}Employment Insurance (EI)}{16}{subsection.5.1.2}%
+\contentsline {subsection}{\numberline {5.1.3}Income Tax}{17}{subsection.5.1.3}%
+\contentsline {section}{\numberline {5.2}Non\sphinxhyphen {}Compliance Penalties}{17}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Employment and Social Development Canada (ESDC)}{18}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Service Canada}{19}{section.5.4}%
+\contentsline {subsection}{\numberline {5.4.1}Social Insurance Number (SIN)}{19}{subsection.5.4.1}%
+\contentsline {section}{\numberline {5.5}Statistics Canada}{20}{section.5.5}%
+\contentsline {section}{\numberline {5.6}Personal Privacy}{20}{section.5.6}%
+\contentsline {subsection}{\numberline {5.6.1}The Privacy Principles}{20}{subsection.5.6.1}%
+\contentsline {subsubsection}{Principle 1. Accountability}{21}{subsubsection*.3}%
+\contentsline {subsubsection}{Principle 2. Identifying Purposes}{21}{subsubsection*.4}%
+\contentsline {subsubsection}{Principle 3. Consent}{21}{subsubsection*.5}%
+\contentsline {subsubsection}{Principle 4. Limiting Collection}{21}{subsubsection*.6}%
+\contentsline {subsubsection}{Principle 5. Limiting Use, Disclosure, and Retention}{21}{subsubsection*.7}%
+\contentsline {subsubsection}{Principle 6. Accuracy}{21}{subsubsection*.8}%
+\contentsline {subsubsection}{Principle 7. Safeguards}{21}{subsubsection*.9}%
+\contentsline {subsubsection}{Principle 8. Openness}{21}{subsubsection*.10}%
+\contentsline {subsubsection}{Principle 9. Individual Access}{21}{subsubsection*.11}%
+\contentsline {subsubsection}{Principle 10. Challenging Compliance}{22}{subsubsection*.12}%
+\contentsline {subsection}{\numberline {5.6.2}PIPEDA}{22}{subsection.5.6.2}%
+\contentsline {subsubsection}{Consent}{22}{subsubsection*.13}%
+\contentsline {subsubsection}{Exceptions to Consent Requirement}{23}{subsubsection*.14}%
+\contentsline {subsubsection}{Use and Storage of Personal Information}{23}{subsubsection*.15}%
+\contentsline {subsubsection}{Limitations on Use \sphinxhyphen {} the Social Insurance Number example}{23}{subsubsection*.16}%
+\contentsline {section}{\numberline {5.7}Pension Benefits Standards Act}{24}{section.5.7}%
+\contentsline {section}{\numberline {5.8}Canadian Human Rights Act}{24}{section.5.8}%
+\contentsline {section}{\numberline {5.9}Employment Equity Act}{24}{section.5.9}%
+\contentsline {section}{\numberline {5.10}Summary}{24}{section.5.10}%
+\contentsline {section}{\numberline {5.11}Review Questions}{25}{section.5.11}%
+\contentsline {chapter}{\numberline {6}EMPLOYEE vs. INDEPENDENT CONTRACTOR}{27}{chapter.6}%
+\contentsline {section}{\numberline {6.1}The Employee\sphinxhyphen {}Employer Relationship}{27}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}Contract of Service (Employment)}{27}{subsection.6.1.1}%
+\contentsline {subsection}{\numberline {6.1.2}Contract for Service (Subcontracting)}{28}{subsection.6.1.2}%
+\contentsline {section}{\numberline {6.2}Factors Determining the Type of Contract}{28}{section.6.2}%
+\contentsline {subsection}{\numberline {6.2.1}Control}{29}{subsection.6.2.1}%
+\contentsline {subsection}{\numberline {6.2.2}Tools and Equipment}{29}{subsection.6.2.2}%
+\contentsline {subsection}{\numberline {6.2.3}Subcontracting Work or Hiring Assistants}{30}{subsection.6.2.3}%
+\contentsline {subsection}{\numberline {6.2.4}Financial Risk}{30}{subsection.6.2.4}%
+\contentsline {subsection}{\numberline {6.2.5}Responsibility for Investment and Management}{31}{subsection.6.2.5}%
+\contentsline {subsection}{\numberline {6.2.6}Opportunity for Profit}{31}{subsection.6.2.6}%
+\contentsline {section}{\numberline {6.3}Review Summary}{32}{section.6.3}%
+\contentsline {section}{\numberline {6.4}Review Questions}{32}{section.6.4}%
+\contentsline {chapter}{\numberline {7}Canada Pension Plan}{37}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Who Must Contribute to the Canada Pension Plan}{38}{section.7.1}%
+\contentsline {chapter}{\numberline {8}Employment Insurance}{39}{chapter.8}%
+\contentsline {chapter}{\numberline {9}Record of Employment}{41}{chapter.9}%
+\contentsline {chapter}{\numberline {10}CALCULATING NET EARNINGS}{43}{chapter.10}%
+\contentsline {section}{\numberline {10.1}Employment Income}{43}{section.10.1}%
+\contentsline {section}{\numberline {10.2}Allowances}{43}{section.10.2}%
+\contentsline {section}{\numberline {10.3}Expenses}{43}{section.10.3}%
+\contentsline {section}{\numberline {10.4}Benefits}{43}{section.10.4}%
+\contentsline {chapter}{\numberline {11}OBNOARDING EMPLOYEE}{45}{chapter.11}%
+\contentsline {section}{\numberline {11.1}Internal Forms}{46}{section.11.1}%
+\contentsline {subsection}{\numberline {11.1.1}Authorization for Hiring}{46}{subsection.11.1.1}%
+\contentsline {subsection}{\numberline {11.1.2}Union Membership}{46}{subsection.11.1.2}%
+\contentsline {subsection}{\numberline {11.1.3}Benefit Enrollment Forms}{46}{subsection.11.1.3}%
+\contentsline {subsection}{\numberline {11.1.4}Confidentiality Agreement}{47}{subsection.11.1.4}%
+\contentsline {section}{\numberline {11.2}Required Federal and Provincial/Territorial Forms}{47}{section.11.2}%
+\contentsline {subsection}{\numberline {11.2.1}Tax Credits (TD1)}{47}{subsection.11.2.1}%
+\contentsline {subsection}{\numberline {11.2.2}Tax Credits (TP\sphinxhyphen {}1015.3\sphinxhyphen {}V \sphinxhyphen {} Québec)}{48}{subsection.11.2.2}%
+\contentsline {section}{\numberline {11.3}Entering Employee Information into Sage50}{48}{section.11.3}%
+\contentsline {subsection}{\numberline {11.3.1}Review Questions}{54}{subsection.11.3.1}%
+\contentsline {section}{\numberline {11.4}Content Review Highlights}{55}{section.11.4}%
+\contentsline {section}{\numberline {11.5}Review Questions (Sample)}{55}{section.11.5}%
+\contentsline {section}{\numberline {11.6}Example Evaluations}{55}{section.11.6}%
+\contentsline {chapter}{\numberline {12}Payroll Accounting}{57}{chapter.12}%
+\contentsline {section}{\numberline {12.1}Journal Entries}{57}{section.12.1}%
+\contentsline {subsection}{\numberline {12.1.1}Accounting Recap}{57}{subsection.12.1.1}%
+\contentsline {subsection}{\numberline {12.1.2}Journal Entries}{57}{subsection.12.1.2}%
+\contentsline {chapter}{\numberline {13}REVIEW QUESTIONS}{59}{chapter.13}%
+\contentsline {section}{\numberline {13.1}New Employee Information}{59}{section.13.1}%
+\contentsline {chapter}{\numberline {14}TERMINOLOGY}{61}{chapter.14}%
+\contentsline {section}{\numberline {14.1}Pensionable Earnings}{61}{section.14.1}%
+\contentsline {section}{\numberline {14.2}Insurable Earnings}{61}{section.14.2}%
+\contentsline {chapter}{\numberline {15}RATES FOR 2025}{63}{chapter.15}%
+\contentsline {section}{\numberline {15.1}CANADA / QUEBEC PENSION PLAN (CPP / QPP)}{63}{section.15.1}%
+\contentsline {section}{\numberline {15.2}CPP2 CONTRIBUTION RATES MAXIMUMS}{63}{section.15.2}%
+\contentsline {chapter}{\numberline {16}REFERENCES}{65}{chapter.16}%
+\contentsline {chapter}{\numberline {17}Errors and Errata}{67}{chapter.17}%
+\contentsline {chapter}{\numberline {18}Glossary}{69}{chapter.18}%

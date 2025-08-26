@@ -11,7 +11,7 @@ both the federal and provincial/territorial levels that governs many
 aspects of processing employees' pay, their taxable benefits and observing 
 their rights as employees.
 
-t is important to note that this course deals with payroll, the function of paying employees
+It is important to note that this course deals with payroll, the function of paying employees
 for work performed for employers. Self-employed workers or contractors, who submit
 invoices for the work they perform and receive payment through accounts payable and not
 payroll, are not employees.
@@ -95,9 +95,9 @@ The payroll department in a large organization may have:
 Legislation vs. regulation
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**The legislation** specifies the __requirements__.
+**The legislation** specifies the *requirements*.
 
-**The regulation** specifies the __methods__ of applying the legislation.
+**The regulation** specifies the *methods* of applying the legislation.
 
 Payroll Content Knowledge
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
